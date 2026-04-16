@@ -1,5 +1,5 @@
 # What is this?
 If you're browsing my GitHub repository and stumbled upon this, you're probably wondering what this is for. This is the autoplaylist for a music bot I run in some servers. The music bot is self-hosted and randomly plays an assortment of mostly video game music. [You can download a copy of that bot yourself here.](https://just-some-bots.github.io/MusicBot/) The bot downloads a compiled version of the playlists from this repository every time it starts. It exists to allow my friends to contribute to the bot, and to ensure I have a backup of the playlist present at all times.
 
-## If you have access to this repository, please read CONTRIBUTING.md.
+## If you have access to this repository, please read [CONTRIBUTING.md](https://github.com/Roadhog360/MorthAutoPlaylist/blob/main/CONTRIBUTING.md).
 ## [All playlists currently in the bot, documented in "plain English"](https://docs.google.com/document/d/102t17U5nw0sExTavHCa5U9-ViPB1Ob0ENub2bRCvkLs)
