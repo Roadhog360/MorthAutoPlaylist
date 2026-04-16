@@ -1,10 +1,12 @@
-#DonkeyKongCountry3
+# Title:  Donkey Kong Country 3 OST
+# Total:  35
+# Extractor:  youtube:tab
+
 https://www.youtube.com/watch?v=XN48AXwQi7I
 https://www.youtube.com/watch?v=aAMcIMMPRSc
 https://www.youtube.com/watch?v=3kEIUtGjinY
 https://www.youtube.com/watch?v=Sj9UgM_5SZY
 https://www.youtube.com/watch?v=tAlv0Dnxz40
-https://www.youtube.com/watch?v=JLfb4wcfrf0
 https://www.youtube.com/watch?v=OWmd5dGN5Ns
 https://www.youtube.com/watch?v=_MwZf7adeLo
 https://www.youtube.com/watch?v=BGE25WL8CHk

@@ -1,6 +1,10 @@
-#DonkeyKongFrozenApe
+# Title:  Donkey Kong Country: Tropical Freeze Soundtrack
+# Total:  93
+# Extractor:  youtube:tab
+
 https://www.youtube.com/watch?v=pIaOXSN2F4A
 https://www.youtube.com/watch?v=QAPe3XmgBes
+https://www.youtube.com/watch?v=_q1Q0aZHh0c
 https://www.youtube.com/watch?v=7pVltuK6OpQ
 https://www.youtube.com/watch?v=wsQq3IDOpbs
 https://www.youtube.com/watch?v=dE1HftNpDAw
