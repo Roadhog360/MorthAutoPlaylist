@@ -4,7 +4,7 @@ No "extended" OSTs, please provide original length music only. Short extensions 
 
 # Adding a playlist
 - To add a YouTube playlist, use `!pldump` in one of Morth's voice channels. If you get an error, make sure the URL is a link to the playlist itself, and not a link to a song within said playlist. Please remove the `playlist_` from its name.
-  - If your playlist is not from YouTube, you will have to create a .txt file manually. Please ensure that the bot is able to play the URLs you give it, then compile them into a .txt file that adequately describes the title of your playlist.
+  - If your playlist is not from YouTube, you will have to create a .txt file manually. Please ensure that the bot is able to play the URLs you give it, then compile them into a .txt file that adequately describes the title of your playlist. Ensure a line beginning with `#` is at the top of your file that contains its name. Such as `# My Playlist Name`. Do not add any other lines beginning with `#` unless they are directly after the first one. This is necessary for the scripts I wrote that combine the playlists to work.
 - Upload the resulting .txt file to this repository, in the `autoplaylist` folder. Please describe what you added in the commit name.
 - Then add the game name to the [Google Doc](https://docs.google.com/document/d/102t17U5nw0sExTavHCa5U9-ViPB1Ob0ENub2bRCvkLs) in its alphabetical order.
   - Note: Autoplaylist links can be practically anything and don't have to be YouTube links, but pldump is for YouTube only so you'll have to make the playlist yourself.
