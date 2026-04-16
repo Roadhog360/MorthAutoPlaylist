@@ -1,0 +1,10 @@
+#Proto
+file://Proto/spudwick.ogg
+file://Proto/sea_of_unconscious.wav
+file://Proto/Dark_Swindles.ogg
+file://Proto/Humba_Bobblu.ogg
+file://Proto/Fume_Spark.ogg
+file://Proto/Shura.ogg
+file://Proto/march_of_the_damned.ogg
+file://Proto/giggly_hands.ogg
+https://youtu.be/uAuUbO37ej4

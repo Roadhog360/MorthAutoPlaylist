@@ -1,0 +1,36 @@
+name: Combine Text and Release
+
+on:
+  push:
+    # Only trigger if files inside this specific folder are modified
+    paths:
+      - 'autoplaylist/*.txt'
+    branches:
+      - main
+  workflow_dispatch: # Keeps the manual "Run Workflow" button active
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Prepare Script
+        run: chmod +x ./combine_text.sh
+
+      - name: Run Combiner
+        # Matches the 'paths' filter above
+        run: ./combine_text.sh ./autoplaylist ./autoplaylist.txt
+
+      - name: Update Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest-autoplaylist
+          name: Latest Merged Content
+          body: "This release is automatically updated when text files in 'autoplaylist' change."
+          files: autoplaylist.txt
+          make_latest: true
