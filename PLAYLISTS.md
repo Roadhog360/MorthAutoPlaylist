@@ -101,7 +101,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Gran Turismo 3
 - Grand Theft Auto V
 - Hyrule Warriors: Definitive Edition
-- Inocs
+- [Inocs](https://www.youtube.com/playlist?list=PLtpuOKVeVH9UF_u3hOv-sSmLE0IFX0SB_)*
 - Jet Set Radio
 - Jet Set Radio Future
 - JoJo's Bizarre Adventure: All-Star Battle
@@ -121,8 +121,8 @@ Some games are missing in a series, especially if there are a lot of games in th
 - LittleBigPlanet
 - LittleBigPlanet 2
 - LittleBigPlanet 3
-- LSD: Dream Emulator
-- LSΔ
+- [LSD: Dream Emulator](https://www.youtube.com/watch?v=QTotCil8rQ8&list=PLbGlS5ZsFQhP_PwS6ROIXroDF9xPK6Ux-)
+- [LSΔ](https://www.youtube.com/watch?v=7hqrHj855Tk&list=PLCaR6ZyqOkGTdIN3OnyKTCdSIB_UJVQFb)
 - Mario Kart 7
 - Mario Kart 8
 - Mario Kart World
@@ -141,10 +141,10 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Minecraft: Story Mode
 - New Frontier Craft
 - New Super Mario Bros. U
-- Newer Super Mario Bros. DS
-- Newer Super Mario Bros. Wii
-- NieR Replicant ver.1.22474487139...
-- NieR:Automata
+- [Newer Super Mario Bros. DS](https://www.youtube.com/watch?v=x4q8AJ2rPdM&list=PLHtPDKtqGdF-1ZG-Mj072tnKUHAo3dYS3&pp=0gcJCbcEOCosWNin)
+- [Newer Super Mario Bros. Wii](https://www.youtube.com/playlist?list=PLnJJYXOsDChUZhyqIGx0k8dm33dMTLC9T)
+- [NieR Replicant ver.1.22474487139...](https://www.youtube.com/watch?v=nR63SLyn4KE&list=PLTSayM5g0IpZB3XGGIHAbvZgJtqL6WN76)
+- [NieR:Automata](https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM)
 - NiGHTS Into Dreams
 - Nintendogs
 - Nintendogs + Cats
@@ -295,10 +295,11 @@ Some games are missing in a series, especially if there are a lot of games in th
 # Non-Video Game Soundtracks
 - [Alan Becker Lofi](https://www.youtube.com/watch?v=2HCCq7o0NeU&list=OLAK5uy_lhhWNt2LgJ6Qfgj-lVgShsMYbfE4H5YJA)*
 - [Music From Alan Becker's Animations](https://www.youtube.com/watch?v=gSd_kLDwFG0&list=PL4EJWCM_RXBHDwQEHXTbCjyCDODH79Oob)*
-- Banana Fish
-- Bleach (+ All movies)
-- Breaking Bad
-- [Dark Gathering](https://www.youtube.com/playlist?list=OLAK5uy_lq1JI9jykHN3h1uq_nF5NupBpwCpJW5Mw&playnext=1&index=1) | [Special Edition1](https://www.youtube.com/playlist?list=OLAK5uy_lBlCFalBhPP2pqUxhrq2Vx8ywtPoBwuPc) [Special Edition2](https://www.youtube.com/playlist?list=OLAK5uy_lBlCFalBhPP2pqUxhrq2Vx8ywtPoBwuPc)
+- [Banana Fish](https://www.youtube.com/watch?v=1Th5AdGGP2k&list=OLAK5uy_lxOZ6DRfk6wrqDvlRIgQxm4_6Za78XU-4)
+- Bleach | [SHIRO'S SONGBOOK BLEACH Bankai!](https://www.youtube.com/watch?v=5IM7UeT02sQ&list=OLAK5uy_lR5X-3KS-Mj99wOWHAd1xa5XfKFm8POao) [Vol. 1](https://www.youtube.com/playlist?list=OLAK5uy_kDV8usH6Ay6HbbQVshrW4-BKiORd8Fipc) [Vol. 2](https://www.youtube.com/watch?v=6GAKK7g9kUc&list=OLAK5uy_nJlC_kCEkKS7Lkdeq9JLUGmLuY9fGoIX8&pp=0gcJCbcEOCosWNin) [Vol. 3](https://www.youtube.com/watch?v=nGusAJYHcjo&list=OLAK5uy_nbfdqEwOfK4bbRymFpOEn6QzqnG15Tb0Q) [Vol. 4](https://www.youtube.com/watch?v=nUJ3dJtWKOk&list=OLAK5uy_lPx1XBYAMhENGe-ppwAPxNLyePCC-is3c)
+- [Dark Gathering](https://www.youtube.com/playlist?list=OLAK5uy_lq1JI9jykHN3h1uq_nF5NupBpwCpJW5Mw) | [Special Edition1](https://www.youtube.com/playlist?list=OLAK5uy_lBlCFalBhPP2pqUxhrq2Vx8ywtPoBwuPc) [Special Edition2](https://www.youtube.com/playlist?list=OLAK5uy_lBlCFalBhPP2pqUxhrq2Vx8ywtPoBwuPc)
+- Bleach: The Movie | [Memories of Nobody](https://www.youtube.com/watch?v=yoTq3S2z5qc&list=OLAK5uy_nCfW0e6SLNTQgu4rFAbx8IGp79AA7bgIw) [The DiamondDustRebellion](https://www.youtube.com/watch?v=JRxMHD6uAKY&list=OLAK5uy_mRYUBdgq1kMpNP7hCPvHWEpV9qDqyvbec) [Fade to Black](https://www.youtube.com/watch?v=Zz8ParcH-Sc&list=OLAK5uy_kFTeXoPvx_R_irsof5RspI1UwDKMzBUZ8) [The Hell Verse](https://www.youtube.com/watch?v=gQOV0pLUKBo&list=OLAK5uy_nSlQlCUKnwZ716m8Zb4sKpx4RFgotatl4&pp=0gcJCbcEOCosWNin)
+- Bleach: The Thousand-Year Blood War | [Cour 1](https://www.youtube.com/playlist?list=OLAK5uy_m8Nzho7yJD4WYgb9JoRw2998iyk-l4bHY) [Cour 2](https://www.youtube.com/playlist?list=OLAK5uy_mAOTcvpZDtiXfUEpkYyslrCcHMZVVJ1es)
 - Death Note | [Vol. 1](https://www.youtube.com/watch?v=Trh_dMoNeBU&list=PLKXj8PXXNtSUYUrax2AbBgWhFx9su2rcn) [Vol. 2](https://www.youtube.com/watch?v=fr3QRSw-UN0&list=OLAK5uy_lYUqSSFzzHRfry3pEFD63AHmfqxHB43BI) [Vol. 3](https://www.youtube.com/watch?v=XtHbQ-2QU0A&list=OLAK5uy_ntT3EH-DVSFdx7le9QSJByiffbf5q2Cow)
 - Dragon Ball
 - Dragon Ball  Z (Faulconer & Kikuchi)
@@ -312,10 +313,10 @@ Some games are missing in a series, especially if there are a lot of games in th
 - [Harmony of a Hunter Returns](https://harmony.shinesparkers.net/album/harmony-of-a-hunter-returns/)
 - [Harmony of Heroes](https://harmony.shinesparkers.net/album/harmony-of-heroes/)
 - [Harmony of Heroes: Final Smash](https://harmony.shinesparkers.net/album/harmony-of-heroes-final-smash/)
-- JoJo’s Bizarre Adventure: Phantom Blood | [[Destiny](https://www.youtube.com/playlist?list=OLAK5uy_kB0UhcqRLHTOvvyYoV6iiLHwhArE4ZGrQ)] [[Future](https://www.youtube.com/playlist?list=OLAK5uy_mWqDfFgGxaEggxDPr4GZqZAD2DGkvKPu8&playnext=1&index=1)]
+- JoJo’s Bizarre Adventure: Phantom Blood | [[Destiny](https://www.youtube.com/playlist?list=OLAK5uy_kB0UhcqRLHTOvvyYoV6iiLHwhArE4ZGrQ)] [[Future](https://www.youtube.com/playlist?list=OLAK5uy_mWqDfFgGxaEggxDPr4GZqZAD2DGkvKPu8)]
 - JoJo’s Bizarre Adventure: Battle Tendency | [[Musik](https://www.youtube.com/playlist?list=OLAK5uy_lkdUScmT-cKmqf9oDSpIAJpkn0E5fnQqE)] [[Leicht Verwendbar](https://www.youtube.com/playlist?list=OLAK5uy_m9FBAUCa6asEEdfuDSPzhH2Dl5-53yG-E)]
 - JoJo’s Bizarre Adventure: Stardust Crusaders | [[Departure](https://www.youtube.com/watch?v=IlgRXAGonLg&list=OLAK5uy_n3H4QBrlYcn8O7OXEw0yY2T_NIWsXNNAI)] [[Journey](https://www.youtube.com/watch?v=14Bh6kFFADE&list=OLAK5uy_lBehbFMrgfE9WDKQgb2KWwRFpbhJqRov8)] [[World](https://www.youtube.com/watch?v=T9uLuy9kHlQ&list=OLAK5uy_m8BtUgA8q0LE_jetN6nX8qbHOt5xxzhC0)] [[Destination](https://www.youtube.com/watch?v=IKTX4poOfu0&list=OLAK5uy_kk64NjSx6qmv2QgCF8PGFlTbTPeLhWJuE)]
-- JoJo’s Bizarre Adventure: Diamond is Unbreakable | \~[Good Morning Morioh Cho!](https://www.youtube.com/playlist?list=OLAK5uy_lOWd3TXtqANOK9brny08wdL97nTzEKXAk)\~ \~[Daydream](https://www.youtube.com/watch?v=vrlXAixwXvQ&list=OLAK5uy_k81wzsadX93PozaDzf3UGGAz1hrz9xpGM)\~ \~[Nightwalk](https://www.youtube.com/watch?v=yS2DAl3DMDE&list=OLAK5uy_nUzLTrtNaILQQJo3pBpx4ACmWgWjFh2GQ)\~ \~[Good Night Morioh Cho!](https://www.youtube.com/watch?v=_puXMfu69pc&list=OLAK5uy_k40D1gChddXL733GWZFxXCS2ME5IlW5kw)\~
+- JoJo’s Bizarre Adventure: Diamond is Unbreakable | [\~Good Morning Morioh Cho!\~](https://www.youtube.com/playlist?list=OLAK5uy_lOWd3TXtqANOK9brny08wdL97nTzEKXAk) [\~Daydream\~](https://www.youtube.com/watch?v=vrlXAixwXvQ&list=OLAK5uy_k81wzsadX93PozaDzf3UGGAz1hrz9xpGM) [\~Nightwalk\~](https://www.youtube.com/watch?v=yS2DAl3DMDE&list=OLAK5uy_nUzLTrtNaILQQJo3pBpx4ACmWgWjFh2GQ) [\~Good Night Morioh Cho!\~](https://www.youtube.com/watch?v=_puXMfu69pc&list=OLAK5uy_k40D1gChddXL733GWZFxXCS2ME5IlW5kw)
 - JoJo’s Bizarre Adventure: Golden Wind | [Overture](https://www.youtube.com/watch?v=U0TXIXTzJEY&list=OLAK5uy_mWnCpH4DWb3mBFdgHcnzWT_mnJtkMdoUk) [Intermezzo](https://www.youtube.com/watch?v=wdhM4-TQhLM&list=OLAK5uy_n2Ndjcac2SO37iUPHaDZVRLJL42tm-iVY&pp=0gcJCbcEOCosWNin) [Finale](https://www.youtube.com/watch?v=xhGaCddig8k&list=OLAK5uy_n_Q_Q0RkiWoN8RuYAkQ6ax1pG8yYraAUs)
 - [JoJo’s Bizarre Adventure: Stone Ocean](https://www.youtube.com/playlist?list=OLAK5uy_nZBdHAfYEgBbizahWn1o4ndpnBPMLt5q0)
 - [Persona 4 the Animation](https://www.youtube.com/watch?v=3kpYt_vH9tw&list=PLKnNtzNfg7jfx_IMWrzu1hJ7YG5pgJ1ae)
