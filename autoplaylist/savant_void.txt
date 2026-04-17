@@ -1,0 +1,24 @@
+# Title:  Void
+# Total:  20
+# Extractor:  Bandcamp:album
+
+https://savantofficial.bandcamp.com/track/zealot
+https://savantofficial.bandcamp.com/track/oasis
+https://savantofficial.bandcamp.com/track/how-we-rock
+https://savantofficial.bandcamp.com/track/mystique
+https://savantofficial.bandcamp.com/track/cheesy
+https://savantofficial.bandcamp.com/track/idgaf
+https://savantofficial.bandcamp.com/track/weeper
+https://savantofficial.bandcamp.com/track/all-i-want
+https://savantofficial.bandcamp.com/track/monolith-2
+https://savantofficial.bandcamp.com/track/im-hot
+https://savantofficial.bandcamp.com/track/monster
+https://savantofficial.bandcamp.com/track/tickle
+https://savantofficial.bandcamp.com/track/leviathan
+https://savantofficial.bandcamp.com/track/xeon
+https://savantofficial.bandcamp.com/track/burnout
+https://savantofficial.bandcamp.com/track/bad-man
+https://savantofficial.bandcamp.com/track/sunny-california
+https://savantofficial.bandcamp.com/track/overseer
+https://savantofficial.bandcamp.com/track/soulgate
+https://savantofficial.bandcamp.com/track/void

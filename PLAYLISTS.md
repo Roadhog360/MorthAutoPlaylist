@@ -4,6 +4,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 
 
 ~~Strikethrough~~ = Temporarily Unavailable
+* = Frequently updated playlist, the bot may not have the latest tracks
 
 # Video Game Soundtracks
 - 100% Orange Juice
@@ -65,6 +66,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - EarthBound / Mother 2
 - EarthBound 2 / Mother 3
 - Eastward
+- [Eternal Melody](https://www.youtube.com/playlist?list=PLmQh6cR4EcseaGUDTYC8D1XCWXcRdRcHr)
 - Etrian Odyssey
 - Etrian Odyssey II: Heroes of Lagaard
 - Etrian Odyssey III: The Drowned City
@@ -184,12 +186,14 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Professor Layton vs. Phoenix Wright: Ace Attorney
 - QP Shooting
 - QP Shooting - Dangerous!!
+- [Rasetsu](https://www.youtube.com/playlist?list=PLmQh6cR4Ecsf1w57sX9n1-SknVVSm-bgZ)
 - Ratchet & Clank Future: A Crack in Time
 - Ratchet & Clank 3: Up Your Arsenal
 - Ratchet & Clank: Rift Apart
 - Rain World
 - Rivals of Aether
 - Rivals of Aether II
+- [Sequence Palladium](https://www.youtube.com/playlist?list=PLmQh6cR4EcsecZxsvXK4U3JePrni8p9mI)
 - Shovel Knight
 - Sly Cooper 2: Band of Thieves
 - Sly Cooper 3: Honor Among Thieves
@@ -197,7 +201,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Sly Cooper: The Thievius Raccoonus
 - Sonic '06
 - Sonic 3 & Knuckles
-- Sonic Superstars
+- [Sonic Superstars](https://www.youtube.com/playlist?list=OLAK5uy_ntDsXCjJ6wue5MaZWUXEfHdwJ6d40ht-Q)
 - Sonic 3D Blast
 - Sonic Adventure 2
 - Sonic Adventure DX
@@ -207,12 +211,12 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Sonic Lost World
 - Sonic Forces
 - Sonic Frontiers
-- Sonic Mania Plus
+- [Sonic Mania Plus](https://www.youtube.com/playlist?list=OLAK5uy_nS5xE2n73nHE9AA6A3vf1D7cUVFInO5Eo)
 - Sonic Mega Collection
-- Sonic R
-- Sonic Riders
-- Sonic Riders: Zero Gravity
-- Sonic Free Riders
+- [Sonic R](https://www.youtube.com/playlist?list=OLAK5uy_k9syjx4j2LBxERXlCBaHNE56SYqvLvUAM)
+- [Sonic Riders](https://www.youtube.com/playlist?list=OLAK5uy_mWgFL_eKYEDLFeUvqTOZmMVAan3Ijt6wk)
+- [Sonic Riders: Zero Gravity](https://www.youtube.com/playlist?list=OLAK5uy_k9GWdGMd8kNjRsHlzLUp99y1zzN1D6q3Y)
+- [Sonic Free Riders](https://www.youtube.com/playlist?list=OLAK5uy_kDI63Vh7KZ4dgcfISfriuGKAZVsPfjNU8)
 - Sonic & All-Stars Racing Transformed
 - Team Sonic Racing
 - Sonic Racing Crossworlds
@@ -253,6 +257,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - ~~Super Smash Bros. Ultimate~~
 - ~~Super Smash Bros. for 3DS and Wii U~~
 - Team Fortress 2
+- [Taxi Rider](https://www.youtube.com/playlist?list=PLmQh6cR4EcscOgPR8oW18Kr8vbn-3nJnW)
 - Tekken 2 (Tekken 1’s ost is mostly in this playlist)
 - Tekken 3
 - Tekken 4
@@ -288,42 +293,41 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Yume Nikki
 
 # Non-Video Game Soundtracks
-- Alan Becker Lofi
-- Animator vs. Animation
-- Animation vs. Education
-- Animation vs. Minecraft
+- [Alan Becker Lofi](https://www.youtube.com/watch?v=2HCCq7o0NeU&list=OLAK5uy_lhhWNt2LgJ6Qfgj-lVgShsMYbfE4H5YJA)*
+- [Music From Alan Becker's Animations](https://www.youtube.com/watch?v=gSd_kLDwFG0&list=PL4EJWCM_RXBHDwQEHXTbCjyCDODH79Oob)*
 - Banana Fish
 - Bleach (+ All movies)
 - Breaking Bad
-- Dark Gathering
-- Death Note
+- [Dark Gathering](https://www.youtube.com/playlist?list=OLAK5uy_lq1JI9jykHN3h1uq_nF5NupBpwCpJW5Mw&playnext=1&index=1) | [Special Edition1](https://www.youtube.com/playlist?list=OLAK5uy_lBlCFalBhPP2pqUxhrq2Vx8ywtPoBwuPc) [Special Edition2](https://www.youtube.com/playlist?list=OLAK5uy_lBlCFalBhPP2pqUxhrq2Vx8ywtPoBwuPc)
+- Death Note | [Vol. 1](https://www.youtube.com/watch?v=Trh_dMoNeBU&list=PLKXj8PXXNtSUYUrax2AbBgWhFx9su2rcn) [Vol. 2](https://www.youtube.com/watch?v=fr3QRSw-UN0&list=OLAK5uy_lYUqSSFzzHRfry3pEFD63AHmfqxHB43BI) [Vol. 3](https://www.youtube.com/watch?v=XtHbQ-2QU0A&list=OLAK5uy_ntT3EH-DVSFdx7le9QSJByiffbf5q2Cow)
 - Dragon Ball
 - Dragon Ball  Z (Faulconer & Kikuchi)
 - Dragon Ball GT
 - Dragon Ball Super
 - Code: Geass
 - Cyberpunk Edgerunners
-- Harmony of a Champion
-- Harmony of a Hunter
-- Harmony of a Hunter: 101% Run
-- Harmony of a Hunter Returns
-- Harmony of Heroes
-- Harmony of Heroes: Final Smash
-- JoJo’s Bizarre Adventure: Part 1
-- JoJo’s Bizarre Adventure: Part 2
-- JoJo’s Bizarre Adventure: Part 3
-- JoJo’s Bizarre Adventure: Part 4
-- JoJo’s Bizarre Adventure: Part 5
-- JoJo’s Bizarre Adventure: Part 6
-- Persona 4 the Animation
-- Persona 4 the Golden Animation
-- Persona 5 the ANimation
-- Savant: Alchemist
-- Savant: Invasion
-- Savant: Overworld
-- Savant: Vario
-- Savant: Void
-- Savant: Void (DLC)
+- [Harmony of a Champion](https://harmony.shinesparkers.net/album/harmony-of-a-champion/)
+- [Harmony of a Hunter](https://harmony.shinesparkers.net/album/harmony-of-a-hunter/)
+- [Harmony of a Hunter: 101% Run](https://harmony.shinesparkers.net/album/harmony-of-a-hunter-101-run/)
+- [Harmony of a Hunter Returns](https://harmony.shinesparkers.net/album/harmony-of-a-hunter-returns/)
+- [Harmony of Heroes](https://harmony.shinesparkers.net/album/harmony-of-heroes/)
+- [Harmony of Heroes: Final Smash](https://harmony.shinesparkers.net/album/harmony-of-heroes-final-smash/)
+- JoJo’s Bizarre Adventure: Phantom Blood | [[Destiny](https://www.youtube.com/playlist?list=OLAK5uy_kB0UhcqRLHTOvvyYoV6iiLHwhArE4ZGrQ)] [[Future](https://www.youtube.com/playlist?list=OLAK5uy_mWqDfFgGxaEggxDPr4GZqZAD2DGkvKPu8&playnext=1&index=1)]
+- JoJo’s Bizarre Adventure: Battle Tendency | [[Musik](https://www.youtube.com/playlist?list=OLAK5uy_lkdUScmT-cKmqf9oDSpIAJpkn0E5fnQqE)] [[Leicht Verwendbar](https://www.youtube.com/playlist?list=OLAK5uy_m9FBAUCa6asEEdfuDSPzhH2Dl5-53yG-E)]
+- JoJo’s Bizarre Adventure: Stardust Crusaders | [[Departure](https://www.youtube.com/watch?v=IlgRXAGonLg&list=OLAK5uy_n3H4QBrlYcn8O7OXEw0yY2T_NIWsXNNAI)] [[Journey](https://www.youtube.com/watch?v=14Bh6kFFADE&list=OLAK5uy_lBehbFMrgfE9WDKQgb2KWwRFpbhJqRov8)] [[World](https://www.youtube.com/watch?v=T9uLuy9kHlQ&list=OLAK5uy_m8BtUgA8q0LE_jetN6nX8qbHOt5xxzhC0)] [[Destination](https://www.youtube.com/watch?v=IKTX4poOfu0&list=OLAK5uy_kk64NjSx6qmv2QgCF8PGFlTbTPeLhWJuE)]
+- JoJo’s Bizarre Adventure: Diamond is Unbreakable | \~[Good Morning Morioh Cho!](https://www.youtube.com/playlist?list=OLAK5uy_lOWd3TXtqANOK9brny08wdL97nTzEKXAk)\~ \~[Daydream](https://www.youtube.com/watch?v=vrlXAixwXvQ&list=OLAK5uy_k81wzsadX93PozaDzf3UGGAz1hrz9xpGM)\~ \~[Nightwalk](https://www.youtube.com/watch?v=yS2DAl3DMDE&list=OLAK5uy_nUzLTrtNaILQQJo3pBpx4ACmWgWjFh2GQ)\~ \~[Good Night Morioh Cho!](https://www.youtube.com/watch?v=_puXMfu69pc&list=OLAK5uy_k40D1gChddXL733GWZFxXCS2ME5IlW5kw)\~
+- JoJo’s Bizarre Adventure: Golden Wind | [Overture](https://www.youtube.com/watch?v=U0TXIXTzJEY&list=OLAK5uy_mWnCpH4DWb3mBFdgHcnzWT_mnJtkMdoUk) [Intermezzo](https://www.youtube.com/watch?v=wdhM4-TQhLM&list=OLAK5uy_n2Ndjcac2SO37iUPHaDZVRLJL42tm-iVY&pp=0gcJCbcEOCosWNin) [Finale](https://www.youtube.com/watch?v=xhGaCddig8k&list=OLAK5uy_n_Q_Q0RkiWoN8RuYAkQ6ax1pG8yYraAUs)
+- [JoJo’s Bizarre Adventure: Stone Ocean](https://www.youtube.com/playlist?list=OLAK5uy_nZBdHAfYEgBbizahWn1o4ndpnBPMLt5q0)
+- [Persona 4 the Animation](https://www.youtube.com/watch?v=3kpYt_vH9tw&list=PLKnNtzNfg7jfx_IMWrzu1hJ7YG5pgJ1ae)
+- [Persona 4 the Golden Animation](https://www.youtube.com/watch?v=wKd95n9v7N8&list=PLKnNtzNfg7jfLKsPIYZk_ncFgjmsCC589)
+- [Persona 5 the Animation](https://www.youtube.com/watch?v=UtRUbQsKh5Y&list=PLKnNtzNfg7jehUC7eDTzWnLgPDiqnbzOK)
+- [Savant: Alchemist](https://savantofficial.bandcamp.com/album/alchemist)
+- [Savant: Alchemist 2](https://savantofficial.bandcamp.com/album/alchemist-2-2)
+- [Savant: Invasion](https://savantofficial.bandcamp.com/album/invasion)
+- [Savant: Overworld](https://savantofficial.bandcamp.com/album/overworld)
+- [Savant: Vario](https://savantofficial.bandcamp.com/album/vario)
+- [Savant: Void](https://savantofficial.bandcamp.com/album/void)
+- [Savant: Void - DLC](https://savantofficial.bandcamp.com/album/void-dlc)
 - SpongeBob
 - The Powerpuff Girls
 

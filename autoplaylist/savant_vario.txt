@@ -1,0 +1,20 @@
+# Title:  Vario
+# Total:  16
+# Extractor:  Bandcamp:album
+
+https://savantofficial.bandcamp.com/track/splinter
+https://savantofficial.bandcamp.com/track/vario
+https://savantofficial.bandcamp.com/track/living-ipod
+https://savantofficial.bandcamp.com/track/mecha-blecka
+https://savantofficial.bandcamp.com/track/shadow-feat-qwentalis
+https://savantofficial.bandcamp.com/track/stormtrooper
+https://savantofficial.bandcamp.com/track/hero-from-the-past
+https://savantofficial.bandcamp.com/track/antipixel
+https://savantofficial.bandcamp.com/track/ba-da-bing
+https://savantofficial.bandcamp.com/track/party-machine
+https://savantofficial.bandcamp.com/track/champagne-2
+https://savantofficial.bandcamp.com/track/heart-shaped-mushroom-cloud
+https://savantofficial.bandcamp.com/track/burgertime
+https://savantofficial.bandcamp.com/track/trust-issues
+https://savantofficial.bandcamp.com/track/fuck-nexus
+https://savantofficial.bandcamp.com/track/thunderclout
