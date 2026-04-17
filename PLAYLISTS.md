@@ -11,13 +11,11 @@ Some games are missing in a series, especially if there are a lot of games in th
 - 200% Mixed Juice
 - A Hat in Time
 - ARMS
-- Ace Attorney
-- Ace Attorney Investigations: Miles Edgeworth
-- Ace Attorney: Apollo Justice
-- Ace Attorney: Dual Destinies
-- Ace Attorney: Justice For All
-- Ace Attorney: Spirit of Justice
-- Ace Attorney: Trials and Tribulations
+- [Phoenix Wright: Ace Attorney Trilogy](https://www.youtube.com/playlist?list=PLSPeXU6BtFC9XVLqlBLfF-fYx6TW6n6TE)
+- [Ace Attorney Investigations Collection](https://www.youtube.com/playlist?list=PLQjOjW7Q2a96MGdUlDgbbKiuI4Tb62Ugg)
+- [Professor Layton vs. Phoenix Wright: Ace Attorney](https://www.youtube.com/playlist?list=PLO-8vCfzPgfcxgFEsMJIbDbm38wCUpfDW)
+- Apollo Justice: Ace Attorney Trilogy
+- [The Great Ace Attorney Chronicles](https://www.youtube.com/playlist?list=PLl1Ubidemop1aL_XvbGImGHntojjftcBP)
 - Among Us
 - Animal Crossing
 - Animal Crossing: City Folk
@@ -32,9 +30,9 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Banjo-Tooie
 - Battle Garegga
 - Battle Garegga Arrange
-- Bayonetta
-- Bayonetta 2
-- Bayonetta 3
+- Bayonetta | [Vol. 1](https://www.youtube.com/playlist?list=OLAK5uy_ktyAPA4pXeMlsCerwuxr75w21PX-Pyrks) [Vol. 2](https://www.youtube.com/playlist?list=OLAK5uy_n7twLor_xbaIg_-Zh8p1tGiCK4YmBlRaI) [Vol. 3](https://www.youtube.com/playlist?list=OLAK5uy_lrMVoi1ndn6y4Er7JdXiQMNcR07sGsqkQ) [Vol. 4](https://www.youtube.com/playlist?list=OLAK5uy_lbgKcOe5mtK1llYwdO_cnPXEYS04y-xGU) [Vol. 5](https://www.youtube.com/playlist?list=OLAK5uy_lc1scAlsQE5MnCG2Xrwq9BrPKZseF02Aw)
+- Bayonetta 2 | [Vol. 1](https://www.youtube.com/playlist?list=OLAK5uy_kKvUa6UqUf-WaEo1ViT7-_R9KswcDWYDs) [Vol. 2](https://www.youtube.com/playlist?list=OLAK5uy_mpocqyyCGDFIXjasuzAVy-TWkLvkrRy7w) [Vol. 3](https://www.youtube.com/playlist?list=OLAK5uy_nbl4srKbS3P4tI1aCs87agJF_1hTeKc4Y) [Vol. 4](https://www.youtube.com/playlist?list=OLAK5uy_lf7VIwyNJKBB8krtULzyYCSPJGhrj5exU) [Vol. 5](https://www.youtube.com/playlist?list=OLAK5uy_kYt3EdZaaQkmevl8uGV4egAIOY6WHqwfQ)
+- [Bayonetta 3](https://www.youtube.com/playlist?list=OLAK5uy_kdnKNzz6Kjh8ncy-7CQQ2Sr1QZDaAfLTY)
 - Bloons TD6
 - Bug Fables
 - Celeste
@@ -124,7 +122,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - [LSD: Dream Emulator](https://www.youtube.com/playlist?list=PLbGlS5ZsFQhP_PwS6ROIXroDF9xPK6Ux-)
 - [LSΔ](https://www.youtube.com/playlist?list=PLCaR6ZyqOkGTdIN3OnyKTCdSIB_UJVQFb)
 - [Mario Kart 7](https://www.youtube.com/playlist?list=PLESFnlO3kNnqZSlUyWJ50t6RIYVJhOcSK)
-- [Mario Kart 8 Deluxe](https://www.youtube.com/playlist?list=PLKms27UOSS5wyNIe10RlRaNLPfdeGiFYZ&pp=0gcJCbcEOCosWNin)
+- [Mario Kart 8 Deluxe](https://www.youtube.com/playlist?list=PLKms27UOSS5wyNIe10RlRaNLPfdeGiFYZ)
 - [Mario Kart Tour](https://www.youtube.com/playlist?list=PLnph29yh2AZhpSWD3T7zCz2mIaIl_Ems5)
 - [Mario Kart World](https://www.youtube.com/playlist?list=PLbWyUSpYqZfHJ8E2RmIE5Kz52aEAqb1dO)
 - Mario Party
@@ -137,8 +135,8 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Mega Man Legends 2
 - Metal Gear Rising: Revengeance
 - Metal Gear Solid V: The Phantom Pain
-- Minecraft* | [Volume Alpha](https://www.youtube.com/playlist?list=OLAK5uy_lNojWuj8PKhbqVFZBpSkUpCYcrJbYt8s4) [Volume Beta](https://www.youtube.com/playlist?list=OLAK5uy_mSH30PsabObEwBb9LClNBzLhjGYZDSfec) [Battle and Tumble](https://www.youtube.com/playlistlist=OLAK5uy_mG-ri8s_g8ZqkTJP1uHS7lN7sI7RYxGrM) [Glide](https://www.youtube.com/playlist?list=OLAK5uy_l_2nDs1ReenOS7bimqijCbcum3_Cltu-Y) [Update Aquatic](https://www.youtube.com/playlist?list=PLsFLgsisA5BUnB4qLf5-F2cNKWPtGfLwj&pp=sAgC) [Nether Update](https://www.youtube.com/playlist?list=OLAK5uy_luAYVTWsWTSov-rb5Y_Q-5LZDCTPaNKfs) [Caves & Cliffs](https://www.youtube.com/playlist?list=OLAK5uy_mbRrZYgI7gTTqruBkAmMKzE7kI7ikKQWI) [The Wild Update](https://www.youtube.com/playlist?list=OLAK5uy_nxlgtBrEKDbEBJpPLoZIdMaak_KmPL7k0) [Trails & Tales](https://www.youtube.com/playlist?list=OLAK5uy_kB-5z_WZCLh1iJB7ulHyiqnIBT_5V_ot0) [Tricky Trials](https://www.youtube.com/playlist?list=OLAK5uy_mYzLhvU_L2hPL6K_n2YUJNTxhMBoR2B60) [The Garden Awakens](https://www.youtube.com/playlist?list=OLAK5uy_lwo8GC2X6zK1om9U3sO2qOFSJrvnKteig) [Spring to Life](https://www.youtube.com/playlist?list=OLAK5uy_lotUPu_NA_3AurycrTRwGnjg3CT5H7iLs) [Chase the Skies](https://www.youtube.com/playlist?list=OLAK5uy_myzEq2umLPJyouXzi08Qkubzm3RzgzjXs) [Lava Chicken](https://www.youtube.com/playlist?list=OLAK5uy_lYyLDhGAFDTo8Cz_svAk2y5UOyNIl-qfk&playnext=1&index=1)
-- [Minecraft Dungeons](https://www.youtube.com/playlist?list=OLAK5uy_kUr-u57F0OKGuQPBh3b5HqV__nI71LNFc) | [Ultimate Additions](https://www.youtube.com/playlist?list=OLAK5uy_l7xbNuXl7nC9XtNmMM5k8Bwk-n1uqH2EI&pp=0gcJCbcEOCosWNin) [Seasonal Adventures](https://www.youtube.com/playlist?list=OLAK5uy_nEbJbV8vNhEU2efaYoD0lHiTu01eYZEcI) [Jungle Awakens](https://www.youtube.com/playlist?list=OLAK5uy_lAve8pIUbhbxioZPNx9eC8mqTTkeEBIEY) [Creeping Winter](https://www.youtube.com/playlist?list=OLAK5uy_lIJM0c0AGbcQKc7jsjH09eWOeS9_zk0lY) [Howling Peaks](https://www.youtube.com/playlist?list=OLAK5uy_mSjKGRAX59u5eT-Y0_cCiaOIasKcyVPEs) [Echoing Void](https://www.youtube.com/playlist?list=OLAK5uy_m04XToP741ab3vm0B-8X5o4-pqz_7NiBw) [Flames of the Nether](https://www.youtube.com/playlist?list=OLAK5uy_k2PTSYQvBNXZ9I1Nury7xA4z23p6YWT2c)
+- Minecraft* | [Volume Alpha](https://www.youtube.com/playlist?list=OLAK5uy_lNojWuj8PKhbqVFZBpSkUpCYcrJbYt8s4) [Volume Beta](https://www.youtube.com/playlist?list=OLAK5uy_mSH30PsabObEwBb9LClNBzLhjGYZDSfec) [Battle and Tumble](https://www.youtube.com/playlistlist=OLAK5uy_mG-ri8s_g8ZqkTJP1uHS7lN7sI7RYxGrM) [Glide](https://www.youtube.com/playlist?list=OLAK5uy_l_2nDs1ReenOS7bimqijCbcum3_Cltu-Y) [Update Aquatic](https://www.youtube.com/playlist?list=PLsFLgsisA5BUnB4qLf5-F2cNKWPtGfLwj) [Nether Update](https://www.youtube.com/playlist?list=OLAK5uy_luAYVTWsWTSov-rb5Y_Q-5LZDCTPaNKfs) [Caves & Cliffs](https://www.youtube.com/playlist?list=OLAK5uy_mbRrZYgI7gTTqruBkAmMKzE7kI7ikKQWI) [The Wild Update](https://www.youtube.com/playlist?list=OLAK5uy_nxlgtBrEKDbEBJpPLoZIdMaak_KmPL7k0) [Trails & Tales](https://www.youtube.com/playlist?list=OLAK5uy_kB-5z_WZCLh1iJB7ulHyiqnIBT_5V_ot0) [Tricky Trials](https://www.youtube.com/playlist?list=OLAK5uy_mYzLhvU_L2hPL6K_n2YUJNTxhMBoR2B60) [The Garden Awakens](https://www.youtube.com/playlist?list=OLAK5uy_lwo8GC2X6zK1om9U3sO2qOFSJrvnKteig) [Spring to Life](https://www.youtube.com/playlist?list=OLAK5uy_lotUPu_NA_3AurycrTRwGnjg3CT5H7iLs) [Chase the Skies](https://www.youtube.com/playlist?list=OLAK5uy_myzEq2umLPJyouXzi08Qkubzm3RzgzjXs) [Lava Chicken](https://www.youtube.com/playlist?list=OLAK5uy_lYyLDhGAFDTo8Cz_svAk2y5UOyNIl-qfk&playnext=1&index=1)
+- [Minecraft Dungeons](https://www.youtube.com/playlist?list=OLAK5uy_kUr-u57F0OKGuQPBh3b5HqV__nI71LNFc) | [Ultimate Additions](https://www.youtube.com/playlist?list=OLAK5uy_l7xbNuXl7nC9XtNmMM5k8Bwk-n1uqH2EI) [Seasonal Adventures](https://www.youtube.com/playlist?list=OLAK5uy_nEbJbV8vNhEU2efaYoD0lHiTu01eYZEcI) [Jungle Awakens](https://www.youtube.com/playlist?list=OLAK5uy_lAve8pIUbhbxioZPNx9eC8mqTTkeEBIEY) [Creeping Winter](https://www.youtube.com/playlist?list=OLAK5uy_lIJM0c0AGbcQKc7jsjH09eWOeS9_zk0lY) [Howling Peaks](https://www.youtube.com/playlist?list=OLAK5uy_mSjKGRAX59u5eT-Y0_cCiaOIasKcyVPEs) [Echoing Void](https://www.youtube.com/playlist?list=OLAK5uy_m04XToP741ab3vm0B-8X5o4-pqz_7NiBw) [Flames of the Nether](https://www.youtube.com/playlist?list=OLAK5uy_k2PTSYQvBNXZ9I1Nury7xA4z23p6YWT2c)
 - [Minecraft Legends](https://www.youtube.com/playlist?list=OLAK5uy_lpjEW7bDU7BV4vrkl-7P8yGeN6L5Ct7Ko)
 - [Minecraft: Story Mode - Season 1](https://www.youtube.com/playlist?list=PLk1sle6PCaD25UMPaxlaR3qI0uddeTvwK)
 - [Minecraft: Story Mode - Season 2](https://www.youtube.com/playlist?list=PLVgciWVMMDOMXPkk_HRM4a9BQRQgAMkMJ)
@@ -186,7 +184,6 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Pokémon Omega Ruby & Alpha Sapphire
 - Pokémon X & Y
 - Pokémon Sun & Moon
-- Professor Layton vs. Phoenix Wright: Ace Attorney
 - QP Shooting
 - QP Shooting - Dangerous!!
 - [Rasetsu](https://www.youtube.com/playlist?list=PLmQh6cR4Ecsf1w57sX9n1-SknVVSm-bgZ)
@@ -273,8 +270,6 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Tekken Revolution
 - Terraria
 - Tetris 99
-- The Great Ace Attorney (Dai Gyakuten Saiban)
-- The Great Ace Attorney 2 (Dai Gyakuten Saiban 2)
 - The Legend of Zelda: Ocarina of Time
 - The Legend of Zelda: Phantom Hourglass
 - The Legend of Zelda: Spirit Tracks

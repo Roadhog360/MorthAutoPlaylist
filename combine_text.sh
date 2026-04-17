@@ -1,10 +1,16 @@
 #!/bin/bash
 
-# Usage: ./combine_text.sh <input_folder> <output_file>
+# Usage: ./combine_text.sh [-c] <input_folder> <output_file>
+
+COMPACT=false
+if [ "$1" == "-c" ]; then
+    COMPACT=true
+    shift
+fi
 
 if [ "$#" -ne 2 ]; then
-    echo "Usage: $0 <input_folder> <output_file>"
-    exit 1
+    echo "Usage: $0 [-c] <input_folder> <output_file>"
+    exit 2
 fi
 
 IN_DIR="$1"
@@ -30,17 +36,27 @@ fi
 for f in "$IN_DIR_PATH"/*.txt; do
     [ -e "$f" ] || continue
 
-    # Validation: Ensure comments ONLY appear at the top.
-    # Logic: If we see a comment (#) AFTER we have seen content ([^#]), it's invalid.
-    is_valid=$(awk 'BEGIN {content=0; err=0} /^#/ {if(content) err=1} /^[^#]/ {content=1} END {print err}' "$f")
+    if [ "$COMPACT" = true ]; then
+        # COMPACT MODE:
+        # 1. Remove lines starting strictly with #
+        # 2. Remove lines that are entirely empty
+        # 3. Ensure a trailing newline to prevent line-merging
+        sed -e '/^#/d' -e '/^$/d' "$f" | sed '$a\' >> "$OUT_FILE"
+    else
+        # DEFAULT MODE: Header validation
+        # Logic: If we see a strict comment (^#) AFTER we have seen content ([^#]), it's invalid.
+        is_valid=$(awk 'BEGIN {content=0; err=0} /^#/ {if(content) err=1} /^[^#]/ {content=1} END {print err}' "$f")
 
-    if [ "$is_valid" -eq 1 ]; then
-        echo "Error: File '$(basename "$f")' contains comments after the header block. Merge aborted."
-        rm -f "$OUT_FILE"
-        exit 1
+        if [ "$is_valid" -eq 1 ]; then
+            echo "Error: File '$(basename "$f")' contains comments after the header block. Merge aborted."
+            rm -f "$OUT_FILE"
+            exit 1
+        fi
+
+        # Append file content. sed '$a\' ensures the next file starts on a new line
+        # without adding a blank line between them.
+        sed '$a\' "$f" >> "$OUT_FILE"
     fi
-
-    cat "$f" >> "$OUT_FILE"
 done
 
-echo "Success: Merged into $OUT_FILE"
+echo "Done. File saved to $OUT_FILE"
