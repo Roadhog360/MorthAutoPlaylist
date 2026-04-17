@@ -7,7 +7,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 * = Frequently updated playlist, the bot may not have the latest tracks
 
 # Video Game Soundtracks
-- 100% Orange Juice
+- 100% Orange Juice*
 - 200% Mixed Juice
 - A Hat in Time
 - ARMS
@@ -53,7 +53,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Distance
 - Doki Doki Literature Club!
 - Donkey Kong 64
-- [Donkey Kong Bananza](https://www.youtube.com/watch?v=VIX541Sh3u4&list=PLltD0VqVxLyPzCLs_gTEbYRkDui9RK2f9)
+- [Donkey Kong Bananza](https://www.youtube.com/playlist?list=PLltD0VqVxLyPzCLs_gTEbYRkDui9RK2f9)
 - Donkey Kong Country
 - Donkey Kong Country 2
 - Donkey Kong Country 3
@@ -78,7 +78,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - F-Zero AX
 - F-Zero GX
 - [Face Raiders](https://www.youtube.com/playlist?list=PLUAmK4xTPU4GqZWTHBDegDD8aPdY8OwqU)
-- [Final Fantasy VII](https://www.youtube.com/watch?v=oVm1HOSQgoc&list=OLAK5uy_mvDV7aOFHvvOJRUGGoyxNBDIVb49Mbu1k)
+- [Final Fantasy VII](https://www.youtube.com/playlist?list=OLAK5uy_mvDV7aOFHvvOJRUGGoyxNBDIVb49Mbu1k)
 - [Final Fantasy VII Remake Intergrade](https://www.youtube.com/playlist?list=OLAK5uy_mk4oH13wXFu7wcfGalpB_Bu7vtoNOs-Pc&playnext=1&index=1)
 - [Final Fantasy VII: Crisis Core](https://www.youtube.com/playlist?list=OLAK5uy_mgRUo0FayQkwrJA4CvDWMIYnbfb4Df53k)
 - [Final Fantasy IX](https://www.youtube.com/playlist?list=OLAK5uy_mn6rokXPURP01xfU2cNTAELMN8ghL_4QM&playnext=1&index=1)
@@ -126,7 +126,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - [Mario Kart 7](https://www.youtube.com/playlist?list=PLESFnlO3kNnqZSlUyWJ50t6RIYVJhOcSK)
 - [Mario Kart 8 Deluxe](https://www.youtube.com/playlist?list=PLKms27UOSS5wyNIe10RlRaNLPfdeGiFYZ&pp=0gcJCbcEOCosWNin)
 - [Mario Kart Tour](https://www.youtube.com/playlist?list=PLnph29yh2AZhpSWD3T7zCz2mIaIl_Ems5)
-- [Mario Kart World](https://www.youtube.com/watch?v=RFBeX-6whxE&list=PLbWyUSpYqZfHJ8E2RmIE5Kz52aEAqb1dO)
+- [Mario Kart World](https://www.youtube.com/playlist?list=PLbWyUSpYqZfHJ8E2RmIE5Kz52aEAqb1dO)
 - Mario Party
 - Mario Party 2
 - Mario Party 3
@@ -137,10 +137,11 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Mega Man Legends 2
 - Metal Gear Rising: Revengeance
 - Metal Gear Solid V: The Phantom Pain
-- Minecraft* | [Volume Alpha](https://www.youtube.com/watch?v=-CKR-McWeYk&list=OLAK5uy_lNojWuj8PKhbqVFZBpSkUpCYcrJbYt8s4) [Volume Beta](https://www.youtube.com/watch?v=92nm3GdTc8E&list=OLAK5uy_mSH30PsabObEwBb9LClNBzLhjGYZDSfec) [Battle and Tumble](https://www.youtube.com/playlistlist=OLAK5uy_mG-ri8s_g8ZqkTJP1uHS7lN7sI7RYxGrM) [Glide](https://www.youtube.com/watch?v=zgRr5IrFTBg&list=OLAK5uy_l_2nDs1ReenOS7bimqijCbcum3_Cltu-Y) [Update Aquatic](https://www.youtube.com/watch?v=WmYTrtu-25A&list=PLsFLgsisA5BUnB4qLf5-F2cNKWPtGfLwj&pp=sAgC) [Nether Update](https://www.youtube.com/playlist?list=OLAK5uy_luAYVTWsWTSov-rb5Y_Q-5LZDCTPaNKfs) [Caves & Cliffs](https://www.youtube.com/playlist?list=OLAK5uy_mbRrZYgI7gTTqruBkAmMKzE7kI7ikKQWI) [The Wild Update](https://www.youtube.com/playlist?list=OLAK5uy_nxlgtBrEKDbEBJpPLoZIdMaak_KmPL7k0) [Trails & Tales](https://www.youtube.com/playlist?list=OLAK5uy_kB-5z_WZCLh1iJB7ulHyiqnIBT_5V_ot0) [Tricky Trials](https://www.youtube.com/playlist?list=OLAK5uy_mYzLhvU_L2hPL6K_n2YUJNTxhMBoR2B60) [The Garden Awakens](https://www.youtube.com/playlist?list=OLAK5uy_lwo8GC2X6zK1om9U3sO2qOFSJrvnKteig) [Spring to Life](https://www.youtube.com/watch?v=_tmZHCDal70&list=OLAK5uy_lotUPu_NA_3AurycrTRwGnjg3CT5H7iLs) [Chase the Skies](https://www.youtube.com/playlist?list=OLAK5uy_myzEq2umLPJyouXzi08Qkubzm3RzgzjXs) [Lava Chicken](https://www.youtube.com/playlist?list=OLAK5uy_lYyLDhGAFDTo8Cz_svAk2y5UOyNIl-qfk&playnext=1&index=1)
-- [Minecraft Dungeons](https://www.youtube.com/watch?v=Xxmk-_tnj9Y&list=OLAK5uy_kUr-u57F0OKGuQPBh3b5HqV__nI71LNFc) | [Ultimate Additions](https://www.youtube.com/watch?v=mycZKSmCvx8&list=OLAK5uy_l7xbNuXl7nC9XtNmMM5k8Bwk-n1uqH2EI&pp=0gcJCbcEOCosWNin) [Seasonal Adventures](https://www.youtube.com/watch?v=HjGYKh6FCLM&list=OLAK5uy_nEbJbV8vNhEU2efaYoD0lHiTu01eYZEcI) [Jungle Awakens](https://www.youtube.com/watch?v=SZg6050b7GM&list=OLAK5uy_lAve8pIUbhbxioZPNx9eC8mqTTkeEBIEY) [Creeping Winter](https://www.youtube.com/watch?v=m2XpON5MUbE&list=OLAK5uy_lIJM0c0AGbcQKc7jsjH09eWOeS9_zk0lY) [Howling Peaks](https://www.youtube.com/watch?v=DDvize6RljE&list=OLAK5uy_mSjKGRAX59u5eT-Y0_cCiaOIasKcyVPEs) [Echoing Void](https://www.youtube.com/watch?v=LulV1jmoBUY&list=OLAK5uy_m04XToP741ab3vm0B-8X5o4-pqz_7NiBw) [Flames of the Nether](https://www.youtube.com/watch?v=6TXoGwIgB3E&list=OLAK5uy_k2PTSYQvBNXZ9I1Nury7xA4z23p6YWT2c)
-- [Minecraft Legends](https://www.youtube.com/watch?v=P2KOeRwULGk&list=OLAK5uy_lpjEW7bDU7BV4vrkl-7P8yGeN6L5Ct7Ko)
-- Minecraft: Story Mode
+- Minecraft* | [Volume Alpha](https://www.youtube.com/playlist?list=OLAK5uy_lNojWuj8PKhbqVFZBpSkUpCYcrJbYt8s4) [Volume Beta](https://www.youtube.com/playlist?list=OLAK5uy_mSH30PsabObEwBb9LClNBzLhjGYZDSfec) [Battle and Tumble](https://www.youtube.com/playlistlist=OLAK5uy_mG-ri8s_g8ZqkTJP1uHS7lN7sI7RYxGrM) [Glide](https://www.youtube.com/playlist?list=OLAK5uy_l_2nDs1ReenOS7bimqijCbcum3_Cltu-Y) [Update Aquatic](https://www.youtube.com/playlist?list=PLsFLgsisA5BUnB4qLf5-F2cNKWPtGfLwj&pp=sAgC) [Nether Update](https://www.youtube.com/playlist?list=OLAK5uy_luAYVTWsWTSov-rb5Y_Q-5LZDCTPaNKfs) [Caves & Cliffs](https://www.youtube.com/playlist?list=OLAK5uy_mbRrZYgI7gTTqruBkAmMKzE7kI7ikKQWI) [The Wild Update](https://www.youtube.com/playlist?list=OLAK5uy_nxlgtBrEKDbEBJpPLoZIdMaak_KmPL7k0) [Trails & Tales](https://www.youtube.com/playlist?list=OLAK5uy_kB-5z_WZCLh1iJB7ulHyiqnIBT_5V_ot0) [Tricky Trials](https://www.youtube.com/playlist?list=OLAK5uy_mYzLhvU_L2hPL6K_n2YUJNTxhMBoR2B60) [The Garden Awakens](https://www.youtube.com/playlist?list=OLAK5uy_lwo8GC2X6zK1om9U3sO2qOFSJrvnKteig) [Spring to Life](https://www.youtube.com/playlist?list=OLAK5uy_lotUPu_NA_3AurycrTRwGnjg3CT5H7iLs) [Chase the Skies](https://www.youtube.com/playlist?list=OLAK5uy_myzEq2umLPJyouXzi08Qkubzm3RzgzjXs) [Lava Chicken](https://www.youtube.com/playlist?list=OLAK5uy_lYyLDhGAFDTo8Cz_svAk2y5UOyNIl-qfk&playnext=1&index=1)
+- [Minecraft Dungeons](https://www.youtube.com/playlist?list=OLAK5uy_kUr-u57F0OKGuQPBh3b5HqV__nI71LNFc) | [Ultimate Additions](https://www.youtube.com/playlist?list=OLAK5uy_l7xbNuXl7nC9XtNmMM5k8Bwk-n1uqH2EI&pp=0gcJCbcEOCosWNin) [Seasonal Adventures](https://www.youtube.com/playlist?list=OLAK5uy_nEbJbV8vNhEU2efaYoD0lHiTu01eYZEcI) [Jungle Awakens](https://www.youtube.com/playlist?list=OLAK5uy_lAve8pIUbhbxioZPNx9eC8mqTTkeEBIEY) [Creeping Winter](https://www.youtube.com/playlist?list=OLAK5uy_lIJM0c0AGbcQKc7jsjH09eWOeS9_zk0lY) [Howling Peaks](https://www.youtube.com/playlist?list=OLAK5uy_mSjKGRAX59u5eT-Y0_cCiaOIasKcyVPEs) [Echoing Void](https://www.youtube.com/playlist?list=OLAK5uy_m04XToP741ab3vm0B-8X5o4-pqz_7NiBw) [Flames of the Nether](https://www.youtube.com/playlist?list=OLAK5uy_k2PTSYQvBNXZ9I1Nury7xA4z23p6YWT2c)
+- [Minecraft Legends](https://www.youtube.com/playlist?list=OLAK5uy_lpjEW7bDU7BV4vrkl-7P8yGeN6L5Ct7Ko)
+- [Minecraft: Story Mode - Season 1](https://www.youtube.com/playlist?list=PLk1sle6PCaD25UMPaxlaR3qI0uddeTvwK)
+- [Minecraft: Story Mode - Season 2](https://www.youtube.com/playlist?list=PLVgciWVMMDOMXPkk_HRM4a9BQRQgAMkMJ)
 - New Frontier Craft
 - New Super Mario Bros. U
 - [Newer Super Mario Bros. DS](https://www.youtube.com/playlist?list=PLHtPDKtqGdF-1ZG-Mj072tnKUHAo3dYS3)
@@ -309,7 +310,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Dragon Ball Super
 - Code: Geass
 - Cyberpunk Edgerunners
-- [Final Fantasy VII: Advent Children](https://www.youtube.com/watch?v=Nhr7vPlcIqc&list=PLWCvUoqBpVdzv0FjnpigIPNY2ebkIBujY)
+- [Final Fantasy VII: Advent Children](https://www.youtube.com/playlist?list=PLWCvUoqBpVdzv0FjnpigIPNY2ebkIBujY)
 - [Harmony of a Champion](https://harmony.shinesparkers.net/album/harmony-of-a-champion/)
 - [Harmony of a Hunter](https://harmony.shinesparkers.net/album/harmony-of-a-hunter/)
 - [Harmony of a Hunter: 101% Run](https://harmony.shinesparkers.net/album/harmony-of-a-hunter-101-run/)
