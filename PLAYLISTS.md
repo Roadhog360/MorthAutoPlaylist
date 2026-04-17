@@ -1,0 +1,331 @@
+All Morth.mp4 songs. The list is alphabetical, but some series are rearranged to be in the order of the games. Some series aren’t and that’s because I just don’t remember the order of that series.
+
+Some games are missing in a series, especially if there are a lot of games in the series or I don’t know its OST very well.
+
+
+~~Strikethrough~~ = Temporarily Unavailable
+
+# Video Game Soundtracks
+100% Orange Juice
+200% Mixed Juice
+A Hat in Time
+ARMS
+Ace Attorney
+Ace Attorney Investigations: Miles Edgeworth
+Ace Attorney: Apollo Justice
+Ace Attorney: Dual Destinies
+Ace Attorney: Justice For All
+Ace Attorney: Spirit of Justice
+Ace Attorney: Trials and Tribulations
+Among Us
+Animal Crossing
+Animal Crossing: City Folk
+Animal Crossing: New Leaf
+Animal Crossing: New Horizons
+Astro Bot
+Astro’s Playroom
+Ayakashi: Ghost Guild
+Banjo-Kazooie
+Banjo-Kazooie: Grunty's Revenge
+Banjo-Kazooie: Nuts and Bolts
+Banjo-Tooie
+Battle Garegga
+Battle Garegga Arrange
+Bayonetta
+Bayonetta 2
+Bayonetta 3
+Bloons TD6
+Bug Fables
+Celeste
+Chrono Cross
+Chrono Trigger
+Chrono Trigger (Orchestral Selections OST)
+Clair Obscur: Expedition 33
+Corpse Party 3DS/PSP
+Corpse Party: Blood Covered
+Corpse Party: Repeated Fear
+Cuphead
+DELTARUNE (Chapter 1 & 2)
+DT Racer
+Deadly Arts
+Devil May Cry 5
+Distance
+Doki Doki Literature Club!
+Donkey Kong 64
+Donkey Kong Bananza
+Donkey Kong Country
+Donkey Kong Country 2
+Donkey Kong Country 3
+Donkey Kong Country Returns
+Donkey Kong Country: Tropical Freeze
+Doom (1993)
+Doom (2016)
+Doom Eternal
+EarthBound Origins / Mother
+EarthBound / Mother 2
+EarthBound 2 / Mother 3
+Eastward
+Etrian Odyssey
+Etrian Odyssey II: Heroes of Lagaard
+Etrian Odyssey III: The Drowned City
+Etrian Odyssey IV: Legends of the Titan
+Etrian Odyssey V: Beyond Myth
+Etrian Odyssey Untold: The Millennium Girl
+Etrian Odyssey Untold II: The Fafnir Knight
+F-Zero
+F-Zero AX
+F-Zero GX
+Face Raiders
+Final Fantasy IX
+Final Fantasy VII
+Final Fantasy VII Remake
+Final Fantasy VII: Advent Children
+Final Fantasy VII: Crisis Core
+Fire Emblem Warriors
+Fire Emblem Warriors: Three Hopes
+Fire Emblem Fates
+Fire Emblem: Awakening
+Fire Emblem: Blazing Sword
+Fire Emblem: The Binding Blade
+Fire Emblem: The Sacred Stones
+Fire Emblem: Three Houses
+Fire Emblem Engage
+Flying Red Barrel
+Fortune Street
+Friday Night Funkin’
+GoldenEye 007
+Gran Turismo
+Gran Turismo 2
+Gran Turismo 3
+Grand Theft Auto V
+Hyrule Warriors: Definitive Edition
+Inocs
+Jet Set Radio
+Jet Set Radio Future
+JoJo's Bizarre Adventure: All-Star Battle
+JoJo's Bizarre Adventure: Eyes of Heaven
+Killer Instinct (1994)
+Killer Instinct (2013)
+Kingdom Hearts 2.5 Birth By Sleep OST
+Kingdom Hearts 2.5 HD ReMIX
+Kingdom Hearts Dream Drop Distance
+Kirby Air Ride
+Kirby Air Riders
+Kirby Super Star Ultra
+Kirby's Return to Dreamland
+Kirby: Nightmare in Dreamland
+Kirby: Planet Robobot
+Kirby: Star Allies
+LittleBigPlanet
+LittleBigPlanet 2
+LittleBigPlanet 3
+LSD: Dream Emulator
+LSΔ
+Mario Kart 7
+Mario Kart 8
+Mario Kart World
+Mario Party
+Mario Party 2
+Mario Party 3
+Mario Party Superstars
+Mega Man Unlimited
+Mega Man Unlimited 2
+Mega Man Legends
+Mega Man Legends 2
+Metal Gear Rising: Revengeance
+Metal Gear Solid V: The Phantom Pain
+Minecraft
+Minecraft Dungeons
+Minecraft: Story Mode
+New Frontier Craft
+New Super Mario Bros. U
+Newer Super Mario Bros. DS
+Newer Super Mario Bros. Wii
+NieR Replicant ver.1.22474487139...
+NieR:Automata
+NiGHTS Into Dreams
+Nintendogs
+Nintendogs + Cats
+Nintendo Wii System
+Nintendo 3DS System
+Nintendo Wii U System
+Nintendo eShop (3DS & Wii U)
+Omega Strikers
+Pachi-Slot Tekken Vocal Tracks
+Paper Mario
+Paper Mario: Color Splash
+Paper Mario: Sticker Star
+Paper Mario: The Thousand-Year Door
+Pepsi Man
+Persona
+Persona 2
+Persona 3
+Persona 3: Dancing Moon Night
+Persona 4
+Persona 4: Dancing All Night
+Persona 4 Arena Ultimax
+Persona 5
+Persona 5 Scramble: The Phantom Strikers
+Persona 5: Dancing in Starlight
+Pixelmon
+PlayStation All-Stars Battle Royal
+Poker Night at the Inventory
+Poker Night at the Inventory 2
+Pokémon Black and White
+Pokémon Black and White 2
+Pokémon Diamond, Pearl, Platinum
+Pokémon Brilliant Diamond, Shining Pearl
+Pokémon Fire Red & Leaf Green
+Pokémon Mystery Dungeon: Explorers of Sky
+Pokémon Ruby, Sapphire, & Emerald
+Pokémon Omega Ruby & Alpha Sapphire
+Pokémon X & Y
+Pokémon Sun & Moon
+Professor Layton vs. Phoenix Wright: Ace Attorney
+QP Shooting
+QP Shooting - Dangerous!!
+Ratchet & Clank Future: A Crack in Time
+Ratchet & Clank 3: Up Your Arsenal
+Ratchet & Clank: Rift Apart
+Rain World
+Rivals of Aether
+Rivals of Aether II
+Shovel Knight
+Sly Cooper 2: Band of Thieves
+Sly Cooper 3: Honor Among Thieves
+Sly Cooper 4: Thieves in Time
+Sly Cooper: The Thievius Raccoonus
+Sonic '06
+Sonic 3 & Knuckles
+Sonic Superstars
+Sonic 3D Blast
+Sonic Adventure 2
+Sonic Adventure DX
+Sonic Colors
+Sonic Colors Ultimate
+Sonic x Shadow Generations
+Sonic Lost World
+Sonic Forces
+Sonic Frontiers
+Sonic Mania Plus
+Sonic Mega Collection
+Sonic R
+Sonic Riders
+Sonic Riders: Zero Gravity
+Sonic Free Riders
+Sonic & All-Stars Racing Transformed
+Team Sonic Racing
+Sonic Racing Crossworlds
+Sonic Robo Blast 2
+Sonic Rush Adventure
+Sonic Rumble Party
+Sora
+Splatoon
+Splatoon 2
+Splatoon 3
+Stardew Valley
+Street Fighter
+Street Fighter 2
+Street Fighter EX 2 Plus
+Streets of Rage
+Streets of Rage 2
+Streets of Rage 3
+Streets of Rage 4
+Suguri
+Acceleration of Suguri
+Super Mario All-Stars
+Super Mario Galaxy
+Super Mario Galaxy 2
+Super Mario Maker
+Super Mario Maker 2
+Super Mario Party
+Super Mario Sunshine
+Super Mario World
+Super Mario RPG
+Super Mario RPG (Remake)
+Super Paper Mario
+~~Super Smash Bros. (Nintendo 64)~~
+~~Super Smash Bros. Brawl~~
+Super Smash Bros. Brawl Refined
+Super Smash Bros. Brawl: Project M
+~~Super Smash Bros. Melee~~
+Super Smash Bros. Melee: Akaneia Build
+~~Super Smash Bros. Ultimate~~
+~~Super Smash Bros. for 3DS and Wii U~~
+Team Fortress 2
+Tekken 2 (Tekken 1’s ost is mostly in this playlist)
+Tekken 3
+Tekken 4
+Tekken 5
+Tekken 6
+Tekken 7
+Tekken 8
+Tekken Tag Tournament
+Tekken Tag Tournament 2
+Tekken Revolution
+Terraria
+Tetris 99
+The Great Ace Attorney (Dai Gyakuten Saiban)
+The Great Ace Attorney 2 (Dai Gyakuten Saiban 2)
+The Legend of Zelda: Ocarina of Time
+The Legend of Zelda: Phantom Hourglass
+The Legend of Zelda: Spirit Tracks
+The Powerpuff Girls: Relish Rampage
+The Stanley Parable
+The Wolf Among Us
+The World Ends With You
+The World Ends With You Final Remix
+Toontown: Corporate Clash
+Toontown Rewritten
+Touhou: Embodiment of Scarlet Devil
+Touhou: Imperishable Night
+Touhou: Lotus Land Story
+Trajectile / Reflect Missile
+Ultra Street Fighter IV
+Uncharted: Drake's Fortune
+Undertale
+Xmas Shooting - Scramble!!
+Yume Nikki
+
+# Non-Video Game Soundtracks
+Alan Becker Lofi
+Animator vs. Animation
+Animation vs. Education
+Animation vs. Minecraft
+Banana Fish
+Bleach (+ All movies)
+Breaking Bad
+Dark Gathering
+Death Note
+Dragon Ball
+Dragon Ball  Z (Faulconer & Kikuchi)
+Dragon Ball GT
+Dragon Ball Super
+Code: Geass
+Cyberpunk Edgerunners
+Harmony of a Champion
+Harmony of a Hunter
+Harmony of a Hunter: 101% Run
+Harmony of a Hunter Returns
+Harmony of Heroes
+Harmony of Heroes: Final Smash
+JoJo’s Bizarre Adventure: Part 1
+JoJo’s Bizarre Adventure: Part 2
+JoJo’s Bizarre Adventure: Part 3
+JoJo’s Bizarre Adventure: Part 4
+JoJo’s Bizarre Adventure: Part 5
+JoJo’s Bizarre Adventure: Part 6
+Persona 4 the Animation
+Persona 4 the Golden Animation
+Persona 5 the ANimation
+Savant: Alchemist
+Savant: Invasion
+Savant: Overworld
+Savant: Vario
+Savant: Void
+Savant: Void (DLC)
+SpongeBob
+The Powerpuff Girls
+
+# Miscellaneous
+Some select hits from my friend Protrine
