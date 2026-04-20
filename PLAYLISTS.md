@@ -4,18 +4,13 @@ Some games are missing in a series, especially if there are a lot of games in th
 
 
 ~~Strikethrough~~ = Temporarily Unavailable
-* = Frequently updated playlist, the bot may not have the latest tracks
+\* = Frequently updated playlist, the bot may not have the latest tracks
 
 # Video Game Soundtracks
 - 100% Orange Juice*
 - 200% Mixed Juice
 - A Hat in Time
 - ARMS
-- [Phoenix Wright: Ace Attorney Trilogy](https://www.youtube.com/playlist?list=PLSPeXU6BtFC9XVLqlBLfF-fYx6TW6n6TE)
-- [Ace Attorney Investigations Collection](https://www.youtube.com/playlist?list=PLQjOjW7Q2a96MGdUlDgbbKiuI4Tb62Ugg)
-- [Professor Layton vs. Phoenix Wright: Ace Attorney](https://www.youtube.com/playlist?list=PLO-8vCfzPgfcxgFEsMJIbDbm38wCUpfDW)
-- Apollo Justice: Ace Attorney Trilogy
-- [The Great Ace Attorney Chronicles](https://www.youtube.com/playlist?list=PLl1Ubidemop1aL_XvbGImGHntojjftcBP)
 - Among Us
 - Animal Crossing
 - Animal Crossing: City Folk
@@ -34,8 +29,9 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Bayonetta 2 | [Vol. 1](https://www.youtube.com/playlist?list=OLAK5uy_kKvUa6UqUf-WaEo1ViT7-_R9KswcDWYDs) [Vol. 2](https://www.youtube.com/playlist?list=OLAK5uy_mpocqyyCGDFIXjasuzAVy-TWkLvkrRy7w) [Vol. 3](https://www.youtube.com/playlist?list=OLAK5uy_nbl4srKbS3P4tI1aCs87agJF_1hTeKc4Y) [Vol. 4](https://www.youtube.com/playlist?list=OLAK5uy_lf7VIwyNJKBB8krtULzyYCSPJGhrj5exU) [Vol. 5](https://www.youtube.com/playlist?list=OLAK5uy_kYt3EdZaaQkmevl8uGV4egAIOY6WHqwfQ)
 - [Bayonetta 3](https://www.youtube.com/playlist?list=OLAK5uy_kdnKNzz6Kjh8ncy-7CQQ2Sr1QZDaAfLTY)
 - Bloons TD6
+- [Bomb Rush Cyberfunk](https://www.youtube.com/playlist?list=PLjadncOv92cwycZO0M_bRbkv58ob_6HNl&pp=0gcJCbcEOCosWNin)
 - Bug Fables
-- Celeste
+- [Celeste](https://www.youtube.com/playlist?list=PLe1jcCJWvkWiWLp9h3ge0e5v7n6kxEfOG) | [B-Sides](https://www.youtube.com/playlist?list=PLe1jcCJWvkWg9PnsWDEbQvIa_XmkMzjzk) [Farewell](https://www.youtube.com/playlist?list=PLBO2h-GzDvIbTR7u5g2z5DXWvOXSLkonP)
 - Chrono Cross
 - Chrono Trigger
 - Chrono Trigger (Orchestral Selections OST)
@@ -44,7 +40,6 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Corpse Party: Blood Covered
 - Corpse Party: Repeated Fear
 - Cuphead
-- DELTARUNE (Chapter 1 & 2)
 - DT Racer
 - Deadly Arts
 - Devil May Cry 5
@@ -87,11 +82,12 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Fire Emblem: Blazing Sword
 - Fire Emblem: The Binding Blade
 - Fire Emblem: The Sacred Stones
-- Fire Emblem: Three Houses
+- [Fire Emblem: Three Houses](https://www.youtube.com/playlist?&list=PLzXrrIvqJ7v7pqgKkvzfceZBC9iY3WR5R)
 - Fire Emblem Engage
 - Flying Red Barrel
-- Fortune Street
+- [Fortune Street](https://www.youtube.com/playlist?&list=PLO8rr19OG4dWAOk64WKKsVEekArys8jyx)
 - Friday Night Funkin’* | [Vol. 1](https://www.youtube.com/playlist?list=OLAK5uy_nq3MpjCWMCnCh9sxE03HEL2CLKnVqnbOg) [Vol. 2](https://www.youtube.com/playlist?list=PL9phCFykuUGcmKhcnB5e7CTpg1pz1ENLU) [Vol. 3](https://www.youtube.com/playlist?list=OLAK5uy_nRcI2Iv341VHAfMb6VxWu57r00QWwprQk) [Vol. 4](https://www.youtube.com/playlist?list=OLAK5uy_lo5M_E0rcgNmXNOnnTFeopimBlV7Q5aiI)
+- [Ghost Trick: Phantom Detective](https://www.youtube.com/playlist?list=PLO-8vCfzPgff8pJleAwzKLjUPYPVLO1v6)
 - GoldenEye 007
 - [Gran Turismo](https://www.youtube.com/playlist?list=PL9635BCDB0EE8943B)
 - [Gran Turismo 2](https://www.youtube.com/playlist?list=PL8B904D2229563E98)
@@ -100,8 +96,8 @@ Some games are missing in a series, especially if there are a lot of games in th
 - ~~Grand Theft Auto V~~
 - Hyrule Warriors: Definitive Edition
 - [Inocs](https://www.youtube.com/playlist?list=PLtpuOKVeVH9UF_u3hOv-sSmLE0IFX0SB_)*
-- Jet Set Radio
-- Jet Set Radio Future
+- [Jet Set Radio](https://www.youtube.com/playlist?list=PLsFLgsisA5BXYe8AJ86uF-gL_8vBS2PDV)
+- [Jet Set Radio Future](https://www.youtube.com/playlist?list=PLXqRihPhYYNH8WwkoJ5WXOB-LivmqvySq)
 - JoJo's Bizarre Adventure: All-Star Battle
 - JoJo's Bizarre Adventure: Eyes of Heaven
 - Killer Instinct (1994)
@@ -140,13 +136,14 @@ Some games are missing in a series, especially if there are a lot of games in th
 - [Minecraft Legends](https://www.youtube.com/playlist?list=OLAK5uy_lpjEW7bDU7BV4vrkl-7P8yGeN6L5Ct7Ko)
 - [Minecraft: Story Mode - Season 1](https://www.youtube.com/playlist?list=PLk1sle6PCaD25UMPaxlaR3qI0uddeTvwK)
 - [Minecraft: Story Mode - Season 2](https://www.youtube.com/playlist?list=PLVgciWVMMDOMXPkk_HRM4a9BQRQgAMkMJ)
-- New Frontier Craft
+- [New Frontier Craft](https://www.youtube.com/playlist?list=PLabEw6ifzcTiDJI-fDTNKF0Cvng4MylSw)
 - New Super Mario Bros. U
 - [Newer Super Mario Bros. DS](https://www.youtube.com/playlist?list=PLHtPDKtqGdF-1ZG-Mj072tnKUHAo3dYS3)
 - [Newer Super Mario Bros. Wii](https://www.youtube.com/playlist?list=PLnJJYXOsDChUZhyqIGx0k8dm33dMTLC9T)
 - [NieR Replicant ver.1.22474487139...](https://www.youtube.com/playlist?list=PLTSayM5g0IpZB3XGGIHAbvZgJtqL6WN76)
 - [NieR:Automata](https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM)
-- NiGHTS Into Dreams
+- [NieR: Re\[in\]carnation](https://www.youtube.com/playlist?list=OLAK5uy_nMlgyC1J7voOZBCfIUrpr-7vklZZVy0SM)
+- NiGHTS Into Dreams | [Vol. 1](https://www.youtube.com/playlist?list=OLAK5uy_keaLi1V4i8v9N7P2ZEgDs9w_uamF3KBMI) [Vol. 2](https://www.youtube.com/playlist?list=OLAK5uy_n1ryJr_BOgNf3yeHGlyBvnTlSb0I-cHt0) [Vol. 3](https://www.youtube.com/playlist?list=OLAK5uy_kkFni5b8hYTxA9k4HKdMSLUw79wLIyZj4)
 - Nintendogs
 - Nintendogs + Cats
 - Nintendo Wii System
@@ -154,7 +151,6 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Nintendo Wii U System
 - Nintendo eShop (3DS & Wii U)
 - Omega Strikers
-- Pachi-Slot Tekken Vocal Tracks
 - Paper Mario
 - Paper Mario: Color Splash
 - Paper Mario: Sticker Star
@@ -170,6 +166,11 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Persona 5
 - Persona 5 Scramble: The Phantom Strikers
 - Persona 5: Dancing in Starlight
+- [Phoenix Wright: Ace Attorney Trilogy](https://www.youtube.com/playlist?list=PLSPeXU6BtFC9XVLqlBLfF-fYx6TW6n6TE)
+- [Ace Attorney Investigations Collection](https://www.youtube.com/playlist?list=PLQjOjW7Q2a96MGdUlDgbbKiuI4Tb62Ugg)
+- [Professor Layton vs. Phoenix Wright: Ace Attorney](https://www.youtube.com/playlist?list=PLO-8vCfzPgfcxgFEsMJIbDbm38wCUpfDW)
+- [Apollo Justice: Ace Attorney Trilogy](https://www.youtube.com/playlist?list=PLsFLgsisA5BUB9IlK7Y9Ssmd7eMm__w2i)
+- [The Great Ace Attorney Chronicles](https://www.youtube.com/playlist?list=PLl1Ubidemop1aL_XvbGImGHntojjftcBP)
 - Pixelmon
 - PlayStation All-Stars Battle Royal
 - Poker Night at the Inventory
@@ -184,8 +185,8 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Pokémon Omega Ruby & Alpha Sapphire
 - Pokémon X & Y
 - Pokémon Sun & Moon
-- QP Shooting
-- QP Shooting - Dangerous!!
+- [QP Shooting](https://www.youtube.com/playlist?list=PLfyEc3t1I3LPHr0CRMP-pNuKpetyh_L6M)
+- [QP Shooting - Dangerous!!](https://www.youtube.com/playlist?list=PL5YMUKOHobilbpBkCKc89r5wg-MtSKVcI)
 - [Rasetsu](https://www.youtube.com/playlist?list=PLmQh6cR4Ecsf1w57sX9n1-SknVVSm-bgZ)
 - Ratchet & Clank Future: A Crack in Time
 - Ratchet & Clank 3: Up Your Arsenal
@@ -199,7 +200,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Sly Cooper 3: Honor Among Thieves
 - Sly Cooper 4: Thieves in Time
 - Sly Cooper: The Thievius Raccoonus
-- Sonic '06
+- Sonic the Hedgehog (2006) | [Vol. 1](https://www.youtube.com/playlist?list=OLAK5uy_l9Za-hOX02gFBM8TSbxiQc4f0QpddJ2BI) [Vol. 2](https://www.youtube.com/playlist?list=OLAK5uy_k8gj_o1p_LKxho7wiaEgJ_xxNhnYSiI5g) [Vol. 3](https://www.youtube.com/playlist?list=OLAK5uy_ntdQ0baQa4BC0rSQ9Fu7PLHEKdhkQfxjU)
 - Sonic 3 & Knuckles
 - [Sonic Superstars](https://www.youtube.com/playlist?list=OLAK5uy_ntDsXCjJ6wue5MaZWUXEfHdwJ6d40ht-Q)
 - Sonic 3D Blast
@@ -210,7 +211,7 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Sonic x Shadow Generations
 - Sonic Lost World
 - Sonic Forces
-- Sonic Frontiers
+- [Sonic Frontiers](https://www.youtube.com/playlist?list=OLAK5uy_keXmIPBwheld_P19zFCRv-2NTH4q5bq-8) | [Paths Revisited](https://www.youtube.com/playlist?list=OLAK5uy_nWSgrr7dJIJyBexvxgzTiX5kW-hKP-N4g)
 - [Sonic Mania Plus](https://www.youtube.com/playlist?list=OLAK5uy_nS5xE2n73nHE9AA6A3vf1D7cUVFInO5Eo)
 - Sonic Mega Collection
 - [Sonic R](https://www.youtube.com/playlist?list=OLAK5uy_k9syjx4j2LBxERXlCBaHNE56SYqvLvUAM)
@@ -226,10 +227,10 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Sora
 - Splatoon
 - Splatoon 2
-- Splatoon 3
+- ~~Splatoon 3~~
 - Stardew Valley
 - Street Fighter
-- Street Fighter 2
+- [Street Fighter 2](https://www.youtube.com/playlist?&list=PL60138D0ECA664BF7)
 - Street Fighter EX 2 Plus
 - Streets of Rage
 - Streets of Rage 2
@@ -240,7 +241,6 @@ Some games are missing in a series, especially if there are a lot of games in th
 - Super Mario All-Stars
 - Super Mario Galaxy
 - Super Mario Galaxy 2
-- Super Mario Maker
 - Super Mario Maker 2
 - Super Mario Party
 - Super Mario Sunshine
@@ -258,17 +258,18 @@ Some games are missing in a series, especially if there are a lot of games in th
 - ~~Super Smash Bros. for 3DS and Wii U~~
 - Team Fortress 2
 - [Taxi Rider](https://www.youtube.com/playlist?list=PLmQh6cR4EcscOgPR8oW18Kr8vbn-3nJnW)
-- Tekken 2 (Tekken 1’s ost is mostly in this playlist)
+- Tekken 2
 - Tekken 3
 - Tekken 4
 - Tekken 5
 - Tekken 6
 - Tekken 7
-- Tekken 8
+- Tekken 8*
 - Tekken Tag Tournament
 - Tekken Tag Tournament 2
 - Tekken Revolution
-- Terraria
+- Pachi-Slot Tekken Vocal Tracks
+- [Terraria](https://www.youtube.com/playlist?&list=PLBO2h-GzDvIazWs1jFf0QwzLjKqTW5w5a)
 - Tetris 99
 - The Legend of Zelda: Ocarina of Time
 - The Legend of Zelda: Phantom Hourglass
@@ -278,16 +279,17 @@ Some games are missing in a series, especially if there are a lot of games in th
 - The Wolf Among Us
 - The World Ends With You
 - The World Ends With You Final Remix
-- Toontown: Corporate Clash
-- Toontown Rewritten
+- Toontown: Corporate Clash*
+- Toontown Rewritten*
 - Touhou: Embodiment of Scarlet Devil
 - Touhou: Imperishable Night
 - Touhou: Lotus Land Story
 - Trajectile / Reflect Missile
 - Ultra Street Fighter IV
 - Uncharted: Drake's Fortune
-- Undertale
-- Xmas Shooting - Scramble!!
+- [Undertale](https://www.youtube.com/playlist?list=PLKXdyINOQYsb38jn5HGiF6w8X3rph4IIx&pp=0gcJCbcEOCosWNin)
+- DELTARUNE* | [Chapter 1](https://www.youtube.com/playlist?list=PLKXdyINOQYsbroHtsNBW6OJaNZKLh8lf6) [Chapter 2](https://www.youtube.com/playlist?list=PLKXdyINOQYsbMHB5JF-mqNQOb-8WD0iDq&pp=0gcJCbcEOCosWNin) [Chapters 3+4](https://www.youtube.com/playlist?list=PLKXdyINOQYsaHwm4rJ0QDFzsaZQNQjF0U)
+- [Xmas Shooting - Scramble!!](https://www.youtube.com/playlist?list=PL5YMUKOHobila9gS8nwihatgl900T60x7)
 - Yume Nikki
 
 # Non-Video Game Soundtracks
@@ -312,9 +314,9 @@ Some games are missing in a series, especially if there are a lot of games in th
 - [Harmony of a Hunter Returns](https://harmony.shinesparkers.net/album/harmony-of-a-hunter-returns/)
 - [Harmony of Heroes](https://harmony.shinesparkers.net/album/harmony-of-heroes/)
 - [Harmony of Heroes: Final Smash](https://harmony.shinesparkers.net/album/harmony-of-heroes-final-smash/)
-- JoJo’s Bizarre Adventure: Phantom Blood | [[Destiny](https://www.youtube.com/playlist?list=OLAK5uy_kB0UhcqRLHTOvvyYoV6iiLHwhArE4ZGrQ)] [[Future](https://www.youtube.com/playlist?list=OLAK5uy_mWqDfFgGxaEggxDPr4GZqZAD2DGkvKPu8)]
-- JoJo’s Bizarre Adventure: Battle Tendency | [[Musik](https://www.youtube.com/playlist?list=OLAK5uy_lkdUScmT-cKmqf9oDSpIAJpkn0E5fnQqE)] [[Leicht Verwendbar](https://www.youtube.com/playlist?list=OLAK5uy_m9FBAUCa6asEEdfuDSPzhH2Dl5-53yG-E)]
-- JoJo’s Bizarre Adventure: Stardust Crusaders | [[Departure](https://www.youtube.com/playlist?list=OLAK5uy_n3H4QBrlYcn8O7OXEw0yY2T_NIWsXNNAI)] [[Journey](https://www.youtube.com/playlist?list=OLAK5uy_lBehbFMrgfE9WDKQgb2KWwRFpbhJqRov8)] [[World](https://www.youtube.com/playlist?list=OLAK5uy_m8BtUgA8q0LE_jetN6nX8qbHOt5xxzhC0)] [[Destination](https://www.youtube.com/playlist?list=OLAK5uy_kk64NjSx6qmv2QgCF8PGFlTbTPeLhWJuE)]
+- JoJo’s Bizarre Adventure: Phantom Blood | [\[Destiny\]](https://www.youtube.com/playlist?list=OLAK5uy_kB0UhcqRLHTOvvyYoV6iiLHwhArE4ZGrQ) [\[Future\]](https://www.youtube.com/playlist?list=OLAK5uy_mWqDfFgGxaEggxDPr4GZqZAD2DGkvKPu8)
+- JoJo’s Bizarre Adventure: Battle Tendency | [\[Musik\]](https://www.youtube.com/playlist?list=OLAK5uy_lkdUScmT-cKmqf9oDSpIAJpkn0E5fnQqE) [\[Leicht Verwendbar\]](https://www.youtube.com/playlist?list=OLAK5uy_m9FBAUCa6asEEdfuDSPzhH2Dl5-53yG-E)
+- JoJo’s Bizarre Adventure: Stardust Crusaders | [\[Departure\]](https://www.youtube.com/playlist?list=OLAK5uy_n3H4QBrlYcn8O7OXEw0yY2T_NIWsXNNAI) [\[Journey\]](https://www.youtube.com/playlist?list=OLAK5uy_lBehbFMrgfE9WDKQgb2KWwRFpbhJqRov8) [\[World\]](https://www.youtube.com/playlist?list=OLAK5uy_m8BtUgA8q0LE_jetN6nX8qbHOt5xxzhC0) [\[Destination\]](https://www.youtube.com/playlist?list=OLAK5uy_kk64NjSx6qmv2QgCF8PGFlTbTPeLhWJuE)
 - JoJo’s Bizarre Adventure: Diamond is Unbreakable | [\~Good Morning Morioh Cho!\~](https://www.youtube.com/playlist?list=OLAK5uy_lOWd3TXtqANOK9brny08wdL97nTzEKXAk) [\~Daydream\~](https://www.youtube.com/playlist?list=OLAK5uy_k81wzsadX93PozaDzf3UGGAz1hrz9xpGM) [\~Nightwalk\~](https://www.youtube.com/playlist?list=OLAK5uy_nUzLTrtNaILQQJo3pBpx4ACmWgWjFh2GQ) [\~Good Night Morioh Cho!\~](https://www.youtube.com/playlist?list=OLAK5uy_k40D1gChddXL733GWZFxXCS2ME5IlW5kw)
 - JoJo’s Bizarre Adventure: Golden Wind | [Overture](https://www.youtube.com/playlist?list=OLAK5uy_mWnCpH4DWb3mBFdgHcnzWT_mnJtkMdoUk) [Intermezzo](https://www.youtube.com/playlist?list=OLAK5uy_n2Ndjcac2SO37iUPHaDZVRLJL42tm-iVY) [Finale](https://www.youtube.com/playlist?list=OLAK5uy_n_Q_Q0RkiWoN8RuYAkQ6ax1pG8yYraAUs)
 - [JoJo’s Bizarre Adventure: Stone Ocean](https://www.youtube.com/playlist?list=OLAK5uy_nZBdHAfYEgBbizahWn1o4ndpnBPMLt5q0)
