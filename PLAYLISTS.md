@@ -32,17 +32,20 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Bayonetta 2 | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kKvUa6UqUf-WaEo1ViT7-_R9KswcDWYDs) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_mpocqyyCGDFIXjasuzAVy-TWkLvkrRy7w) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_nbl4srKbS3P4tI1aCs87agJF_1hTeKc4Y) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_lf7VIwyNJKBB8krtULzyYCSPJGhrj5exU) [Vol. 5](https://music.youtube.com/playlist?list=OLAK5uy_kYt3EdZaaQkmevl8uGV4egAIOY6WHqwfQ)
 - [Bayonetta 3](https://music.youtube.com/playlist?list=OLAK5uy_kdnKNzz6Kjh8ncy-7CQQ2Sr1QZDaAfLTY)
 - Bloons TD6
-- [Bomb Rush Cyberfunk](https://music.youtube.com/playlist?list=PLjadncOv92cwycZO0M_bRbkv58ob_6HNl&pp=0gcJCbcEOCosWNin)
+- [Bomb Rush Cyberfunk](https://music.youtube.com/playlist?list=PLjadncOv92cwycZO0M_bRbkv58ob_6HNl)
 - Bug Fables
 - [Celeste](https://music.youtube.com/playlist?list=PLe1jcCJWvkWiWLp9h3ge0e5v7n6kxEfOG) | [B-Sides](https://music.youtube.com/playlist?list=PLe1jcCJWvkWg9PnsWDEbQvIa_XmkMzjzk) [Farewell](https://music.youtube.com/playlist?list=PLBO2h-GzDvIbTR7u5g2z5DXWvOXSLkonP)
 - [Chrono Trigger](https://music.youtube.com/playlist?list=PLxJBkIRsvt_bNLMFm1-r5fhvOhD-g3MT0)
 - [RADICAL DREAMERS](https://music.youtube.com/playlist?list=PLZZML_jm4HPOHZiyFYBlt8CXp_Jd3iHaG)
 - [Chrono Cross](https://music.youtube.com/playlist?list=OLAK5uy_m0OQNm22GZz8ZKeymSPrtVBll9ykcwBWY) | [To Far Away Times](https://music.youtube.com/playlist?list=OLAK5uy_nVR1XB2zsnmsPHWVqSkJWpGw8BzUnSFWs)
 - [Clair Obscur: Expedition 33](https://music.youtube.com/playlist?list=PLI0_h8FqQIs3pcDzzO8AOdVLN-FqCA4sO)
+- [Coffee Talk](https://music.youtube.com/playlist?list=OLAK5uy_lC4dtA76wj7CoXBUBDo8ggm0xEpQoYB_k) | [Extra Chill](https://music.youtube.com/playlist?list=OLAK5uy_kG8njNAIs9xdNhCa6pkVGCcSYVonOJcvs)
+- [Coffee Talk Ep. 2: Hibiscus & Butterfly](https://music.youtube.com/playlist?list=OLAK5uy_kU70iCI5shJj8CGQ2pBUK21_E4lHm2X94)
 - Corpse Party 3DS/PSP
 - Corpse Party: Blood Covered
 - Corpse Party: Repeated Fear
-- Cuphead
+- [Cuphead](https://music.youtube.com/playlist?list=OLAK5uy_kQEA6u7fhi0TwxhUI-uJlq4sceB9NZzB8) | [The Delicious Last Course](https://music.youtube.com/playlist?list=OLAK5uy_mp4eiKfu7yhUzHPEqeNI0nLP9kN0JGAEA)
+- [Cyberpunk: 2077](https://music.youtube.com/playlist?list=OLAK5uy_kMPdH8PZ2kqc59Y4BJ3ChrCn_U5EKKKbU) | [Phantom Liberty](https://music.youtube.com/playlist?list=OLAK5uy_nwFFMnm0uBqvjFek5ZU7HMmtF6RS_VkhA)
 - DT Racer
 - Deadly Arts
 - Devil May Cry 5
@@ -58,10 +61,12 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Doom (1993)
 - Doom (2016)
 - Doom Eternal
+- [DuckTales: Remastered](https://music.youtube.com/playlist?list=OLAK5uy_mlbu0kSQt-WA5MWMz2yZZ-EHB2uuTM3lc)
 - EarthBound Origins / Mother
 - EarthBound / Mother 2
 - EarthBound 2 / Mother 3
 - Eastward
+- [Elden Ring](https://music.youtube.com/playlist?list=OLAK5uy_nknhosHLMTS4b8qzeQNc2QuMdpxAPcwNA) | [Nightreign](https://music.youtube.com/playlist?list=OLAK5uy_kOFeuq7V6gKXWpZotM1eCT8NddoAi3mx0) [Nightreign the Forsaken Hollows](https://music.youtube.com/playlist?list=OLAK5uy_mxrByKEYoXauqxmcRbQW-Iy3mseWnywY4) [Shadow of the Erdtree](https://music.youtube.com/playlist?list=OLAK5uy_l-qUm_lqHI7xFyU4XQ8f69epStSOyMOQ8)
 - [Eternal Melody](https://music.youtube.com/playlist?list=PLmQh6cR4EcseaGUDTYC8D1XCWXcRdRcHr)
 - Etrian Odyssey
 - Etrian Odyssey II: Heroes of Lagaard
@@ -74,10 +79,12 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - F-Zero AX
 - F-Zero GX
 - [Face Raiders](https://music.youtube.com/playlist?list=PLUAmK4xTPU4GqZWTHBDegDD8aPdY8OwqU)
-- [Final Fantasy VII](https://music.youtube.com/playlist?list=OLAK5uy_mvDV7aOFHvvOJRUGGoyxNBDIVb49Mbu1k)
-- [Final Fantasy VII Remake Intergrade](https://music.youtube.com/playlist?list=OLAK5uy_mk4oH13wXFu7wcfGalpB_Bu7vtoNOs-Pc)
-- [Final Fantasy VII: Crisis Core](https://music.youtube.com/playlist?list=OLAK5uy_mgRUo0FayQkwrJA4CvDWMIYnbfb4Df53k)
-- [Final Fantasy IX](https://music.youtube.com/playlist?list=OLAK5uy_mn6rokXPURP01xfU2cNTAELMN8ghL_4QM)
+- [Final Fantasy VII](https://music.youtube.com/playlist?list=OLAK5uy_mPKjVy6AEPeOnm8w07jBQTgELys1XlNpg)
+- [Final Fantasy VII Remake](https://www.youtube.com/watch?v=3zboO7UCUE8&list=OLAK5uy_nlG-_QuIzyFhyo0Z15Pwaln1oEzXHPptU) | [Plus](https://music.youtube.com/playlist?list=OLAK5uy_nnOBHLnI5fFW9NOVMqtwzImglPTLqvhOc) [Orchestral Arrangement Tracks](https://music.youtube.com/playlist?list=OLAK5uy_mWbsiL_mtt8q5OMMqAlowZjO5QFovikYs)
+- [Final Fantasy VII Remake Intergrade](https://music.youtube.com/playlist?list=OLAK5uy_mGNZebz6EMc3hBtXJxlpKVlKuOInkZV_w)
+- [Final Fantasy VII Rebirth](https://music.youtube.com/playlist?list=OLAK5uy_nt89Kp7QX9HJyexbXNDVmCgi8weym0qR4)
+- [Final Fantasy VII: Crisis Core](https://music.youtube.com/playlist?list=OLAK5uy_nBodb5UFKDlDxOZoQBbQQ0_CDoGI0MnZQ)
+- [Final Fantasy IX](https://music.youtube.com/playlist?list=OLAK5uy_kzl3oey3v1c2AkEU_079K-QehoEqTKjHc) | [PLUS](https://music.youtube.com/playlist?list=OLAK5uy_kJd9uS6fN_eFbeXwY_sBM8-2KWmHYszH4)
 - Fire Emblem Warriors
 - Fire Emblem Warriors: Three Hopes
 - Fire Emblem Fates
@@ -143,9 +150,10 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - New Super Mario Bros. U
 - [Newer Super Mario Bros. DS](https://music.youtube.com/playlist?list=PLHtPDKtqGdF-1ZG-Mj072tnKUHAo3dYS3)
 - [Newer Super Mario Bros. Wii](https://music.youtube.com/playlist?list=PLnJJYXOsDChUZhyqIGx0k8dm33dMTLC9T)
-- [NieR Replicant ver.1.22474487139...](https://music.youtube.com/playlist?list=PLTSayM5g0IpZB3XGGIHAbvZgJtqL6WN76)
-- [NieR:Automata](https://music.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM) | [Piano Collections](https://music.youtube.com/playlist?list=OLAK5uy_k9a5vn5DiSo6OTLhXbl4Pm4tCeLIKTi2Y)
-- [NieR: Re\[in\]carnation](https://music.youtube.com/playlist?list=OLAK5uy_nMlgyC1J7voOZBCfIUrpr-7vklZZVy0SM)
+- [NieR Replicant/Gestalt](https://music.youtube.com/playlist?list=OLAK5uy_mHFYLgtn-xOszI1LUkL8FvKWyebowGp8o) | [Piano Collections](https://music.youtube.com/playlist?list=OLAK5uy_mbLLUdyBvrQv1E671eJIazqH27TNDHX6Q) [Nightmares & Arrange](https://music.youtube.com/playlist?list=OLAK5uy_mJE7pgIgW1ltft7TH0jSAife6q2-vjRsg)
+- [NieR Replicant ver.1.22474487139...](https://music.youtube.com/playlist?list=OLAK5uy_lNYu-r_8kEAEKObt8msdz9yN-mNxAOH94)
+- [NieR:Automata](https://music.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM) | [Piano Collections](https://music.youtube.com/playlist?list=OLAK5uy_k9a5vn5DiSo6OTLhXbl4Pm4tCeLIKTi2Y) [Arranged & Unreleased](https://music.youtube.com/playlist?list=OLAK5uy_lmEt5buryPrkLo_Igzw0NpeHZpFJLEW0I)
+- [NieR: Re\[in\]carnation](https://music.youtube.com/playlist?list=OLAK5uy_nMlgyC1J7voOZBCfIUrpr-7vklZZVy0SM) | [Chill Out Arrangement Tracks](https://music.youtube.com/playlist?list=OLAK5uy_k-URRUx3aOqgahuzjfgr82SRHyr80h7Xc)
 - NiGHTS Into Dreams | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_keaLi1V4i8v9N7P2ZEgDs9w_uamF3KBMI) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_n1ryJr_BOgNf3yeHGlyBvnTlSb0I-cHt0) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_kkFni5b8hYTxA9k4HKdMSLUw79wLIyZj4)
 - Nintendogs
 - Nintendogs + Cats
@@ -154,22 +162,29 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Paper Mario: Color Splash
 - Paper Mario: Sticker Star
 - Paper Mario: The Thousand-Year Door
+- [Perfect Dark](https://music.youtube.com/playlist?list=PL-14d2TZrA8YlHjc0Hm4bmNmKg_REUQ05)
+- [Perfect Dark Zero](https://music.youtube.com/playlist?list=PL8BC4B75382E7F8C9)
 - Pepsi Man
-- Persona
-- Persona 2
-- [Persona 3](https://music.youtube.com/playlist?list=OLAK5uy_ml4F3k_MvPBIQ5UdDcp1hcxSOuJA_Chdw)
-- [Persona 3 Portable](https://music.youtube.com/playlist?list=OLAK5uy_kAr5Usq7p0X-7BY6G5bx-TWj40BuPZVvo)
-- [Persona 3 Reload](https://music.youtube.com/playlist?list=OLAK5uy_kILJykItHLDNnsQnjCPGd6Uzk2NqqUbf4) | [Episode Aigis](https://music.youtube.com/playlist?list=OLAK5uy_nHLDwkRz8e_kFx846DNvA9dziLJi8FgZA)
-- [Persona 3: Dancing Moon Night](https://music.youtube.com/playlist?list=OLAK5uy_mPgLOZzzOMtrgS-AXW8r2uq7N3Z-DsGLw)
-- [Persona 4](https://music.youtube.com/playlist?list=OLAK5uy_n5HzeQihYTuMs4WS1l0CYVWOJyQhwS3Ng) | [-Reincarnation-](https://music.youtube.com/playlist?list=OLAK5uy_k1sg2KGWsU4ALKxOP28FJQRsRT0ejVZpo)
-- [Persona 4 Golden](https://music.youtube.com/playlist?list=OLAK5uy_nvT4TRzfiXD569XpTcta73CQb8a_IdGDc)
-- [Persona 4: Dancing All Night](https://music.youtube.com/playlist?list=OLAK5uy_kYbXEm9snrKrGfw9wvaNO_p86r2HrAua0)
-- [Persona 4 Arena](https://music.youtube.com/playlist?list=OLAK5uy_kKkD3LESA7Oc9Bav5cpMVxKcPvzPBdJoI)
-- [Persona 4 Arena Ultimax](https://music.youtube.com/playlist?list=OLAK5uy_m4kQIsxjGte3tV7QeeId6_A9ZxgB2Tr2s)
-- [Persona 5](https://music.youtube.com/playlist?list=OLAK5uy_nCEOviuThU9V0LgO4UVybwNc9qZb-SlIs)
-- [Persona 5 Royal](https://music.youtube.com/playlist?list=OLAK5uy_n0VVr6vEKH-n-G3uTaaOoBsfDTABfx9zI)
-- [Persona 5 Scramble: The Phantom Strikers](https://music.youtube.com/playlist?list=OLAK5uy_lFAjyeu9BeVyQH3HnsCj939Pni-mUlIwA)
+- [Persona](https://music.youtube.com/playlist?list=OLAK5uy_ksh_aHcf_TsjLsQQ89hYpYPuI3cDnEaRo)
+- [Persona 2: Innocent Sin](https://music.youtube.com/playlist?list=PLKnNtzNfg7jeaGEf5wxXPqNtGAD-ARe57)
+- [Persona 2: Eternal Punishment](https://music.youtube.com/playlist?list=PLKnNtzNfg7jci4xUDr3T_4cB8WxTNOxqG)
+- [Persona 3](https://music.youtube.com/playlist?list=OLAK5uy_mQATgHBYXgfsSzX47pyBdWfiOdgN_zD3k)
+- [Persona 3 FES](https://music.youtube.com/playlist?list=OLAK5uy_kmykb9QNAY1qH2kobQ0dQS1HOfEIEI6t4)
+- [Persona 3 Portable](https://music.youtube.com/playlist?list=OLAK5uy_kxbUPQG5Qb5og7KdS_s6Qb_QsSsmaQXoA)
+- [Persona 3 Reload](https://music.youtube.com/playlist?list=OLAK5uy_n-JEobmu1ZFuNhgPlI60XAsq9PjFkRscE) | [Episode Aigis](https://music.youtube.com/playlist?list=OLAK5uy_mJ6yKXDtWOJVJ6EWxvhgX0LSNU3E6b6_o)
+- [Persona 3: Dancing Moon Night](https://music.youtube.com/playlist?list=OLAK5uy_lvBEthGPBtZ28u7vdEg796_JOU_hpGSQ4)
+- [Persona 4](https://music.youtube.com/playlist?list=OLAK5uy_nqoNMx9HWws2HzGT-Ae9j_DhG1ZOK6xYg) | [-Reincarnation-](https://music.youtube.com/playlist?list=OLAK5uy_maw2F6b6pWSoxrZRsh45friU1-hsZ50x0)
+- [Persona 4 Golden](https://music.youtube.com/playlist?list=OLAK5uy_mR0BnWDGXieYsODjn83WUFKtbmLkgpGNI)
+- [Persona 4: Dancing All Night](https://music.youtube.com/playlist?list=OLAK5uy_kSvLr0_GEHmHa946Bn_ZxhL8BoQeJxDYI)
+- [Persona 4 Arena](https://music.youtube.com/playlist?list=OLAK5uy_mf__cHuwI8wLPIHYLfYWLKpH3wFJgkSXM)
+- [Persona 4 Arena Ultimax](https://music.youtube.com/playlist?list=OLAK5uy_nTUypEDsr3QBCceG0B1dqOiPs0G6Qzq0A)
+- [Persona 5](https://music.youtube.com/playlist?list=OLAK5uy_lR1Bq94o4E8okd3G4AyajcbAMHyErxgXI)
+- [Persona 5 Royal](https://music.youtube.com/playlist?list=OLAK5uy_nZ-UnlHWZYXBd_mm-njd34Bpzl-6Uf58w)
+- [Persona 5 Scramble: The Phantom Strikers](https://music.youtube.com/playlist?list=OLAK5uy_mcLGjYHVGkYcGZRkqCeB1NJoMbBePYnUQ)
 - [Persona 5: Dancing in Starlight](https://music.youtube.com/playlist?list=OLAK5uy_nPYFx-akKd9bis0Z1Fmrqshciuz5rQWmQ)
+- [Persona 5 Tactica](https://music.youtube.com/playlist?list=OLAK5uy_mQvNA4cS-xrA0v5WP5co4pugf4EMHaOKE)
+- [Persona Q: Shadow of the Labrynth](https://music.youtube.com/playlist?list=OLAK5uy_m-GOPvi7mw_cSjat2KkKD-kFvng3tDqes)
+- [Persona Q2: New Cinema Labrynth](https://music.youtube.com/playlist?list=OLAK5uy_lzNvLVTKeECsgrsl7AmRWj4jwJzz7Jf88)
 - [Phoenix Wright: Ace Attorney Trilogy](https://music.youtube.com/playlist?list=PLSPeXU6BtFC9XVLqlBLfF-fYx6TW6n6TE)
 - [Ace Attorney Investigations Collection](https://music.youtube.com/playlist?list=PLQjOjW7Q2a96MGdUlDgbbKiuI4Tb62Ugg)
 - [Professor Layton vs. Phoenix Wright: Ace Attorney](https://music.youtube.com/playlist?list=PLO-8vCfzPgfcxgFEsMJIbDbm38wCUpfDW)
@@ -199,11 +214,23 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Rivals of Aether
 - Rivals of Aether II
 - [Sequence Palladium](https://music.youtube.com/playlist?list=PLmQh6cR4EcsecZxsvXK4U3JePrni8p9mI)
-- Shovel Knight
+- [Shovel Knight](https://music.youtube.com/playlist?list=OLAK5uy_k8kQfuR9uFc-7Ck8S6sV3vejGZ4eIyOJs) | [King of Cards + Showdown](https://music.youtube.com/playlist?list=OLAK5uy_nDazTUyNwm622CNI4pnqWkmpuCeqT6EXU) [Specter of Torment](https://music.youtube.com/playlist?list=OLAK5uy_lgJrjeXVgOj4VmysbZenXrKMrXJrDtxDI) [Plague of Shadows](https://music.youtube.com/playlist?list=OLAK5uy_kbUfQpB6ySSK4qQ8VAlKhZYOZpKv8jmj0)
+- [Shin Megami Tensei](https://music.youtube.com/playlist?list=OLAK5uy_mlRxzMTy36_KZuUrEthuhczLIBJwg1O7Q) | [SEGA CD](https://music.youtube.com/playlist?list=OLAK5uy_nEu_II_0aa72FzaRUdeVVKLmefkpLM3zk)
+- [Shin Megami Tensei II](https://music.youtube.com/playlist?list=OLAK5uy_nVUbStHtuzyCiQWek2-2Wwakb0yvxyV3M)
+- [Shin Megami Tensei III: Nocturne](https://music.youtube.com/playlist?list=OLAK5uy_lTLFnKP8rdI_kCCeEOYMv_8QESt3TlD8k)
+- [Shin Megami Tensei IV](https://music.youtube.com/playlist?list=OLAK5uy_n85wqMDcgQlb12Ivx5BX-FM7wN3y0Hd9w)
+- [Shin Megami Tensei IV: Apocalypse](https://music.youtube.com/playlist?list=OLAK5uy_ken3H4uelaDtcCqd1E1-qEzPhopQHrF9A)
+- [Shin Megami Tensei V](https://music.youtube.com/playlist?list=OLAK5uy_kMWJ3j7TNulHQ_5kT7xTAsm_kO_O-30uw)
+- [Shin Megami Tensei V: Vengeance](https://music.youtube.com/playlist?list=OLAK5uy_mpgHVxzWzM2HGU934FkOEfa_sFeCiyjdY)
+- [Shin Megami Tensei if...](https://music.youtube.com/playlist?list=OLAK5uy_k9FiH_DH5rylqckW_JugOvoU-Wk1C6pPw)
+- [Shin Megami Tensei NINE](https://www.youtube.com/watch?v=6_vLp4pw5pA&list=OLAK5uy_mMEVuSIwUpe0D6_ZYgs5--rxHzJR3jhmY)
+- [Shin Megami Tensei: Devil Survivor Overclocked](https://music.youtube.com/playlist?list=OLAK5uy_nUgoDxzX8XIedBMlOutlLVIWkfOaJYMUs)
+- [Shovel Knight Pocket Dungeon](https://music.youtube.com/playlist?list=OLAK5uy_n6LcpAmKQA-Hr-Och5e8Wgicr3_hCiokg)
+- [Shovel Knight Dig](https://music.youtube.com/playlist?list=OLAK5uy_kM8uxg0cf5OgojffSO83R4aHG7cKeFlyg)
+- Sly Cooper: The Thievius Raccoonus
 - Sly Cooper 2: Band of Thieves
 - Sly Cooper 3: Honor Among Thieves
 - Sly Cooper 4: Thieves in Time
-- Sly Cooper: The Thievius Raccoonus
 - [Shadow the Hedgehog](https://music.youtube.com/playlist?list=OLAK5uy_nFwoJyw8Dy3AF8zkKkUY8M18nN9RVzRbk)
 - Sonic the Hedgehog (2006) | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_l9Za-hOX02gFBM8TSbxiQc4f0QpddJ2BI) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_k8gj_o1p_LKxho7wiaEgJ_xxNhnYSiI5g) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_ntdQ0baQa4BC0rSQ9Fu7PLHEKdhkQfxjU)
 - Sonic 3 & Knuckles
@@ -212,10 +239,10 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Sonic Adventure 2 | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_lYHY5BtR6Sou6rO-qhPe1X5RY07aMKbg8) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_nx41sicE70G2C1YeVVyH6cCMgrwLZt7x8) [Passion & Pride](https://music.youtube.com/playlist?list=OLAK5uy_kAR7bQHD2-hCWPbe5hI60HdD0gOZScSwM) \([Instrumental](https://music.youtube.com/playlist?list=OLAK5uy_nXkpNGogpVq0r48vju0LuTZqx-YUP7qMQ)\)
 - [Sonic Heroes](https://music.youtube.com/playlist?list=OLAK5uy_lUvZSjCaRIHpDAS51sa7WEqP9NwwchtOY)
 - Sonic Colors | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_ncpXYhpN3aFWfK70MooQBsEsZ3uxPqrrM) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_lIODgpINuEqgaIoMN4PHfwiXylEEXYnFs) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_lWkbrMYvvi1bPuR3xIKMtLp5ueUjenJbI)
+- [Sonic Colors Ultimate](https://music.youtube.com/playlist?list=OLAK5uy_ll7BXqEhHH-1BrWPlF6oedgxFYOohq7xI)
 - Sonic and the Secret Rings | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_lFNNr7NAsSFq9oRqJnHRFpySF42UytnN8) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_lLea-V_zf5UOp3a1Mo7DlPTKOg6g8s61Y)
 - Sonic and the Black Knight | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_k6p3HYzN6BrcuBIKOFZ73ElcucQdworNo) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_moaCMhGzlO62m05rU2tMh9_nD4-QL4PkM)
 - [Sonic Mega Collection Plus](https://music.youtube.com/playlist?list=PLqzVNX9DhzKELskal6SRcJGW2BI56NKOt)
-- [Sonic Colors Ultimate](https://music.youtube.com/playlist?list=OLAK5uy_ll7BXqEhHH-1BrWPlF6oedgxFYOohq7xI)
 - Sonic Unleashed | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_nW9l4i6e0SA6bTDHjl8HywStBCwW1JbKE) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kShzOxiLfQ99IETtLzQcbour2SdszATGk) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_k_FpInBbvSSgOdPvporw6A7xiCyOmF3DM)
 - Sonic Generations | [Vol. 1](https://music.youtube.com/playlist?list=PLJeLZqhP5vQQTVnHiHBEnrB97KcWhgfzg) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_n4eE9SX47g46_jpsyaNQdBoSqL15d6mGY)
 - [Shadow Generations](https://music.youtube.com/playlist?list=OLAK5uy_nZhFNgJ6mNP2NhefQjDwjKFp0H8GlmONc)
@@ -245,7 +272,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Streets of Rage](https://music.youtube.com/playlist?list=OLAK5uy_nuhPHJkiVqRkrVYsd_CjBwQOhjIw_cX_o)
 - [Streets of Rage 2](https://music.youtube.com/playlist?list=OLAK5uy_nNdjd4Cs3M5U0dSGjfGNtlgDzxXpvzB5A)
 - [Streets of Rage 3](https://music.youtube.com/playlist?list=OLAK5uy_nTnsF4V7qINqBV5m6jH-yY7FPoeZn6J-I)
-- [Streets of Rage 4](https://music.youtube.com/playlist?list=OLAK5uy_lreqkZ8RAR8Nkc55tr0ooQ0_eLpukUs0E&pp=0gcJCbcEOCosWNin) | [Mr. X Nightmare](https://music.youtube.com/playlist?list=OLAK5uy_mrWlr4sKYRzBd1vavOKlOFnMOuh7M9Hv0)
+- [Streets of Rage 4](https://music.youtube.com/playlist?list=OLAK5uy_lreqkZ8RAR8Nkc55tr0ooQ0_eLpukUs0E) | [Mr. X Nightmare](https://music.youtube.com/playlist?list=OLAK5uy_mrWlr4sKYRzBd1vavOKlOFnMOuh7M9Hv0)
 - [Suguri](https://music.youtube.com/playlist?list=OLAK5uy_kAwgb60W3p_xiZQ28HHJHVuDqsV0L7ZA4) | [TRANCENATION of SUGURI](https://music.youtube.com/playlist?list=OLAK5uy_l23Fv9l6houcjo1Fym1ZOvTQcfek6Tbhw) [Realism](https://music.youtube.com/playlist?list=OLAK5uy_kSQi6Oh9xvlEo68Zhu003yzK3Jdbia-3g)
 - [Sora](https://music.youtube.com/playlist?list=OLAK5uy_kBVpj3LRr2ckqjcfdLL3og4EIOMQsVaOI) | [Celeste](https://music.youtube.com/playlist?list=OLAK5uy_khpHxbk-JxjUElcGuKx3D_72DvA5ZWBBI)
 - [Acceleration of SUGURI](https://music.youtube.com/playlist?list=OLAK5uy_m9vjTRMHg5zATUpgzbDfZk704YUsutoKw)
@@ -287,7 +314,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Tekken Tag Tournament 2
 - Tekken Revolution
 - Pachi-Slot Tekken Vocal Tracks
-- [Terraria](https://music.youtube.com/playlist?list=PLBO2h-GzDvIazWs1jFf0QwzLjKqTW5w5a)
+- Terraria | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_mPd3bgeYqn1kYq4WcMkK81W_Ah0aEQypE) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_ntJ2gPxbO_JIlZ1GpxHmO4bXa5aen6UY8) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_l-4DSPrnKLptNqt6qUOyi6hkKuxfWyDKs) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_kbSLvXUcD1WWMFwU-OET6SUAeyQ33BwDs) [Vol. 5](https://music.youtube.com/playlist?list=OLAK5uy_loRhEIUbuJw1x-HgBFcCpFj0rYkO6EH84) [Otherworld](https://music.youtube.com/playlist?list=OLAK5uy_lHlAcqo3YYn-muGdGKAeqsdJj_WWAyIYs)
 - Tetris 99
 - The Legend of Zelda: Ocarina of Time
 - The Legend of Zelda: Phantom Hourglass
@@ -305,8 +332,9 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Trajectile / Reflect Missile
 - Ultra Street Fighter IV
 - Uncharted: Drake's Fortune
-- [Undertale](https://music.youtube.com/playlist?list=PLKXdyINOQYsb38jn5HGiF6w8X3rph4IIx&pp=0gcJCbcEOCosWNin)
-- DELTARUNE* | [Chapter 1](https://music.youtube.com/playlist?list=PLKXdyINOQYsbroHtsNBW6OJaNZKLh8lf6) [Chapter 2](https://music.youtube.com/playlist?list=PLKXdyINOQYsbMHB5JF-mqNQOb-8WD0iDq&pp=0gcJCbcEOCosWNin) [Chapters 3+4](https://music.youtube.com/playlist?list=PLKXdyINOQYsaHwm4rJ0QDFzsaZQNQjF0U)
+- [Undertale](https://music.youtube.com/playlist?list=PLKXdyINOQYsb38jn5HGiF6w8X3rph4IIx)
+- DELTARUNE* | [Chapter 1](https://music.youtube.com/playlist?list=PLKXdyINOQYsbroHtsNBW6OJaNZKLh8lf6) [Chapter 2](https://music.youtube.com/playlist?list=PLKXdyINOQYsbMHB5JF-mqNQOb-8WD0iDq) [Chapters 3+4](https://music.youtube.com/playlist?list=PLKXdyINOQYsaHwm4rJ0QDFzsaZQNQjF0U)
+- VA-11 Hall-A | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_ltTDD0tThn0R3aIdhCbcgAiVkvB4MNM2A) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kP_4dOX_MXjAIPElhwJQ7HP9WWOB2_7ao) [Bonus Tracks Collection](https://music.youtube.com/playlist?list=OLAK5uy_mgakqKa-HaGw3ZcWqIdxxR2oIB54QjsXs)
 - [Wii Sports](https://music.youtube.com/playlist?list=PLT7j9Cmd9zsHrVCHWVTAh0nIMnErCJIWh)
 - [Wii Sports Club](https://music.youtube.com/playlist?list=PLvwf5iPq-LODuX6xQpCkR-nG45FnEWp0G)
 - [Xmas Shooting - Scramble!!](https://music.youtube.com/playlist?list=PL5YMUKOHobila9gS8nwihatgl900T60x7)
@@ -315,20 +343,24 @@ While some playlists have links to where they're sourced from, keep in mind I've
 # Non-Video Game Soundtracks
 - [Alan Becker Lofi](https://music.youtube.com/playlist?list=OLAK5uy_lhhWNt2LgJ6Qfgj-lVgShsMYbfE4H5YJA)*
 - [Music From Alan Becker's Animations](https://music.youtube.com/playlist?list=PL4EJWCM_RXBHDwQEHXTbCjyCDODH79Oob)*
+- [A Minecraft Movie](https://music.youtube.com/playlist?list=OLAK5uy_me4SEfpMFKnFcVhgIViGT30NtJneNxO0g)
 - [Banana Fish](https://music.youtube.com/playlist?list=OLAK5uy_lxOZ6DRfk6wrqDvlRIgQxm4_6Za78XU-4)
-- Bleach | [SHIRO'S SONGBOOK BLEACH Bankai!](https://music.youtube.com/playlist?list=OLAK5uy_lR5X-3KS-Mj99wOWHAd1xa5XfKFm8POao) [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kDV8usH6Ay6HbbQVshrW4-BKiORd8Fipc) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_nJlC_kCEkKS7Lkdeq9JLUGmLuY9fGoIX8) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_nbfdqEwOfK4bbRymFpOEn6QzqnG15Tb0Q) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_lPx1XBYAMhENGe-ppwAPxNLyePCC-is3c) [Openings](https://music.youtube.com/playlist?list=PLsFLgsisA5BVSyRQQJ50x-SXZzxLRRdSR) [Endings](https://music.youtube.com/playlist?list=PLsFLgsisA5BUGJ_0kkpBwO-PrYn_kXsDX)
-- Bleach: The Movie | [Memories of Nobody](https://music.youtube.com/playlist?list=OLAK5uy_nCfW0e6SLNTQgu4rFAbx8IGp79AA7bgIw) [The DiamondDustRebellion](https://music.youtube.com/playlist?list=OLAK5uy_mRYUBdgq1kMpNP7hCPvHWEpV9qDqyvbec) [Fade to Black](https://music.youtube.com/playlist?list=OLAK5uy_kFTeXoPvx_R_irsof5RspI1UwDKMzBUZ8) [The Hell Verse](https://music.youtube.com/playlist?list=OLAK5uy_nSlQlCUKnwZ716m8Zb4sKpx4RFgotatl4)
+- Bleach | [SHIRO'S SONGBOOK BLEACH Bankai!](https://music.youtube.com/playlist?list=OLAK5uy_ldA_DISG3Bn7clVyfcVLAMtzvLzEScF5o) [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kyx6q36tCJak-_NOFs_1Xc4Q2qK_su2UA) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kgWzJRvqc6o_8tAW_I8sy5vrJ0zDkH1vg) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_kvXMPu9tcGCr_m0KW4QxEPvd7CiZEhI3s) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_kZAQTTcyZauQnKCZPrvmJpVWLD9YsPlV0) [Openings](https://music.youtube.com/playlist?list=PLsFLgsisA5BVSyRQQJ50x-SXZzxLRRdSR) [Endings](https://music.youtube.com/playlist?list=PLsFLgsisA5BUGJ_0kkpBwO-PrYn_kXsDX)
+- Bleach: The Movie | [Memories of Nobody](https://music.youtube.com/playlist?list=OLAK5uy_kS56U6v8cFdhW7WscH2MrCsqs3-zTQXgw) [The DiamondDust Rebellion](https://music.youtube.com/playlist?list=OLAK5uy_kbq9ga7c7FyNErap05zMJvK6WhodOxfbs) [Fade to Black](https://music.youtube.com/playlist?list=OLAK5uy_mYHR6J5t7I9Jorot17GY1y1_DQmST7Ojc) [The Hell Verse](https://music.youtube.com/playlist?list=OLAK5uy_m13B-sAzxapuwntA3gmz4EJUud1qdGam4)
 - Bleach: The Thousand-Year Blood War* | [Cour 1](https://music.youtube.com/playlist?list=OLAK5uy_m8Nzho7yJD4WYgb9JoRw2998iyk-l4bHY) [Cour 2](https://music.youtube.com/playlist?list=OLAK5uy_mAOTcvpZDtiXfUEpkYyslrCcHMZVVJ1es)
+- [Cloudy with a Chance of Meatballs](https://music.youtube.com/playlist?list=OLAK5uy_nbLTqF6GTl9MUFTrLS-Sf1SQd6gkhwpX0)
 - [Dark Gathering](https://music.youtube.com/playlist?list=OLAK5uy_lq1JI9jykHN3h1uq_nF5NupBpwCpJW5Mw) | [Special Edition1](https://music.youtube.com/playlist?list=OLAK5uy_lBlCFalBhPP2pqUxhrq2Vx8ywtPoBwuPc) [Special Edition2](https://music.youtube.com/playlist?list=OLAK5uy_lBlCFalBhPP2pqUxhrq2Vx8ywtPoBwuPc)
 - Death Note | [Vol. 1](https://music.youtube.com/playlist?list=PLKXj8PXXNtSUYUrax2AbBgWhFx9su2rcn) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_lYUqSSFzzHRfry3pEFD63AHmfqxHB43BI) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_ntT3EH-DVSFdx7le9QSJByiffbf5q2Cow)
 - Dragon Ball
 - Dragon Ball Z (Faulconer & Kikuchi)
 - Dragon Ball GT
 - Dragon Ball Super
-- [Dragon Ball Daima](https://music.youtube.com/playlist?list=OLAK5uy_lOZ13fBpp_yDF5t8gDBTJx7yVOOclBDlQ)
-- Code: Geass
-- Cyberpunk Edgerunners
-- [Final Fantasy VII: Advent Children](https://music.youtube.com/playlist?list=PLWCvUoqBpVdzv0FjnpigIPNY2ebkIBujY)
+- [Dragon Ball Daima](https://music.youtube.com/playlist?list=OLAK5uy_kSZS-WRwxz2Qq_ECkLTAr6Firq4Sf-Jvo)
+- Code: Geass | [R1 Vol. 1](https://music.youtube.com/playlist?list=PL3F40DB415E57E79E) [R1 Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_lvaEI3WaZ8FZ4gP42ewOSF6gE1qaajA5Y) [R2 Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_mWoqrq7Z4bjuWacq1XTKmdCrxpZwRXjzE) [R2 Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_nCRD7rmB1vPZJSSP5KrlunBUvIODiUR_o)
+- [Cyberpunk Edgerunners](https://music.youtube.com/playlist?list=OLAK5uy_kNYT2EoOD6G-DACzmHUUui3yl-1sCTETk)
+- [Final Fantasy VII: Advent Children](https://music.youtube.com/playlist?list=OLAK5uy_k4TxJ-BpBcg_oo7eGt9rW99RyzcHaJvJw)
+- Fullmetal Alchemist Brotherhood | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kIUwqXIWkmiMDW3qiOOS8weW4AqJrjorw) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_miD21ysqR9i62S4WQyZKViNPnf0XX4FXE) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_mU_JSWPOVAM_HPO0QHj6hI2WeDN9oJvTQ)
+- [Fullmetal Alchemist the Movie: Conqueror of Shamballa](https://music.youtube.com/playlist?list=OLAK5uy_mVq3DOo2l2RMWGrCbwolLokdbIt66Lq2g)
 - Shinesparkers | [Harmony of a Champion](https://harmony.shinesparkers.net/album/harmony-of-a-champion/) [Harmony of a Hunter](https://harmony.shinesparkers.net/album/harmony-of-a-hunter/) [Harmony of a Hunter: 101% Run](https://harmony.shinesparkers.net/album/harmony-of-a-hunter-101-run/) [Harmony of a Hunter Returns](https://harmony.shinesparkers.net/album/harmony-of-a-hunter-returns/) [Harmony of Heroes](https://harmony.shinesparkers.net/album/harmony-of-heroes/) [Harmony of Heroes: Final Smash](https://harmony.shinesparkers.net/album/harmony-of-heroes-final-smash/)
 - [SONIC THE HEDGEHOG Cafe Selection](https://music.youtube.com/playlist?list=OLAK5uy_lKNxbTrRECYUvSLxTiGdhn6xK1jaz637c)
 - JoJo’s Bizarre Adventure: Phantom Blood | [\[Destiny\]](https://music.youtube.com/playlist?list=OLAK5uy_kB0UhcqRLHTOvvyYoV6iiLHwhArE4ZGrQ) [\[Future\]](https://music.youtube.com/playlist?list=OLAK5uy_mWqDfFgGxaEggxDPr4GZqZAD2DGkvKPu8)
@@ -338,15 +370,24 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - JoJo’s Bizarre Adventure: Golden Wind | [Overture](https://music.youtube.com/playlist?list=OLAK5uy_mWnCpH4DWb3mBFdgHcnzWT_mnJtkMdoUk) [Intermezzo](https://music.youtube.com/playlist?list=OLAK5uy_n2Ndjcac2SO37iUPHaDZVRLJL42tm-iVY) [Finale](https://music.youtube.com/playlist?list=OLAK5uy_n_Q_Q0RkiWoN8RuYAkQ6ax1pG8yYraAUs)
 - [JoJo’s Bizarre Adventure: Stone Ocean](https://music.youtube.com/playlist?list=OLAK5uy_nZBdHAfYEgBbizahWn1o4ndpnBPMLt5q0)
 - MF DOOM | [Operation: Doomsday](https://music.youtube.com/playlist?list=OLAK5uy_nENZLyEbKKR6TbLUd0QCZ6DHoREZ3N50o) [Madvillainy](https://music.youtube.com/playlist?list=OLAK5uy_nf8bBBv8PcA9wGIQUdlusX16tLRHCqbuk) [MM..FOOD](https://music.youtube.com/playlist?list=OLAK5uy_nrJrTr7PqEnT6S3NPxIuTf-6Z6lZWIBOM)
-- [Nintendo Wii System](https://www.youtube.com/playlist?list=PLEMS-3yBJHIOkbp86KhiSX7jLoSvtHcS7)
-- [Nintendo 3DS System](https://www.youtube.com/playlist?list=PLHI6ByT8e1z_cTre6mB-AzKXwM6R7NDF3)
-- [Nintendo Wii U System](https://www.youtube.com/playlist?list=PLAVayYtrkJqo9wFQZY5VPsPLPX27-Ausb)
+- [NieR:Automata Ver1.1a](https://music.youtube.com/playlist?list=OLAK5uy_nhXyJ93NurX0rEQnDdnxMYavto-OzEVPs)
+- [NieR Tribute Album](https://music.youtube.com/playlist?list=OLAK5uy_mBydTVVeh2p1zkfhBnAMvGGU6sB9ntmhk)
+- [Nintendo Wii System](https://music.youtube.com/playlist?list=PLEMS-3yBJHIOkbp86KhiSX7jLoSvtHcS7)
+- [Nintendo 3DS System](https://music.youtube.com/playlist?list=PLHI6ByT8e1z_cTre6mB-AzKXwM6R7NDF3)
+- [Nintendo Wii U System](https://music.youtube.com/playlist?list=PLAVayYtrkJqo9wFQZY5VPsPLPX27-Ausb)
 - [Persona 4 the Animation](https://music.youtube.com/playlist?list=PLKnNtzNfg7jfx_IMWrzu1hJ7YG5pgJ1ae)
 - [Persona 4 the Golden Animation](https://music.youtube.com/playlist?list=PLKnNtzNfg7jfLKsPIYZk_ncFgjmsCC589)
 - [Persona 5 the Animation](https://music.youtube.com/playlist?list=PLKnNtzNfg7jehUC7eDTzWnLgPDiqnbzOK)
 - Savant | [Alchemist](https://savantofficial.bandcamp.com/album/alchemist) [Alchemist 2](https://savantofficial.bandcamp.com/album/alchemist-2-2) [Invasion](https://savantofficial.bandcamp.com/album/invasion) [Overworld](https://savantofficial.bandcamp.com/album/overworld) [Vario](https://savantofficial.bandcamp.com/album/vario) [Void](https://savantofficial.bandcamp.com/album/void) [Void - DLC](https://savantofficial.bandcamp.com/album/void-dlc)
-- SpongeBob
+- [Sonic the Hedgehog (Movie)](https://music.youtube.com/playlist?list=OLAK5uy_ndrd_s1s8KqI8brkcNcydMj2S5162Eiy4)
+- [Sonic the Hedgehog 2 (Movie)](https://music.youtube.com/playlist?list=OLAK5uy_kRR4Uy43WniCduip1jtLAZw3LDFO3tHVA)
+- [Sonic the Hedgehog 3 (Movie)](https://music.youtube.com/playlist?list=OLAK5uy_nBztdfKG0UNaFxq_SWbglN_apYasn0RUk)
+- [Knuckles (Paramount+ Series)](https://music.youtube.com/playlist?list=OLAK5uy_meyU83EEDF-LkSQsNej-HmKWfVi6abbl8)
 - The Powerpuff Girls
+- [The LEGO Movie](https://music.youtube.com/playlist?list=OLAK5uy_kaV5sETkLPEr9uvWAiRhf1pc6sYUSw3Nc)
+- [The LEGO Movie 2: The Second Part](https://music.youtube.com/playlist?list=OLAK5uy_k_rayMa689vhcvZeW8Wbeh5i_eVr8HqsA)
+- [The Super Mario Bros. Movie](https://music.youtube.com/playlist?list=OLAK5uy_klnTc3i0mGo125tgQIQ9EaB4DxaT1GpEU)
+- [The Super Mario Galaxy Movie](https://www.youtube.com/playlist?list=OLAK5uy_niIeFboQoIPif8Pi5N6O4fqi8JdZtNV4A&playnext=1&index=1)
 
 # Miscellaneous
 - Some select hits from my friend Protrine
