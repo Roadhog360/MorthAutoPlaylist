@@ -11,18 +11,18 @@ While some playlists have links to where they're sourced from, keep in mind I've
 # Video Game Soundtracks
 - 100% Orange Juice*
 - 200% Mixed Juice
-- A Hat in Time
+- [A Hat in Time](https://music.youtube.com/playlist?list=OLAK5uy_mJQUNw78Oc2RO3imwBugUq9rchF53rkj4) | [B-Side Soundtrack](https://music.youtube.com/playlist?list=OLAK5uy_mxLjLQyFTDajZ1XNYZ0mGZUi67UC8iqNY) [Seal the Deal + Nyakuza Metro](https://music.youtube.com/playlist?list=OLAK5uy_muWAlM7kZXs1nXtv7TDRKMn188DYCuXZU)
 - ARMS
 - Among Us
 - Animal Crossing
 - Animal Crossing: City Folk
 - Animal Crossing: New Leaf
 - Animal Crossing: New Horizons
-- [ANOTHER EDEN](https://music.youtube.com/playlist?list=OLAK5uy_nVR1XB2zsnmsPHWVqSkJWpGw8BzUnSFWs)
+- [ANOTHER EDEN](https://music.youtube.com/playlist?list=OLAK5uy_kHIXLdYsdTZkT880L7m6kYph-3vpp0qbk)
 - Astro Bot
 - Astro’s Playroom
 - Ayakashi: Ghost Guild
-- Banjo-Kazooie
+- Banjo-Kazooie | [Re-Jiggyed](https://music.youtube.com/playlist?list=OLAK5uy_kiKZQF4pjFnsuFbAyxPb_g7MDR39Z5U7U)
 - Banjo-Kazooie: Grunty's Revenge
 - Banjo-Kazooie: Nuts and Bolts
 - Banjo-Tooie
@@ -51,7 +51,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Devil May Cry 5
 - Distance
 - Doki Doki Literature Club!
-- Donkey Kong 64
+- Donkey Kong 64 | [Rate Treats: Revisited](https://music.youtube.com/playlist?list=OLAK5uy_n36CSCjmtO2bIlTDulln4abOWfqqP06w8)
 - [Donkey Kong Bananza](https://music.youtube.com/playlist?list=PLltD0VqVxLyPzCLs_gTEbYRkDui9RK2f9)
 - Donkey Kong Country
 - Donkey Kong Country 2
@@ -65,7 +65,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - EarthBound Origins / Mother
 - EarthBound / Mother 2
 - EarthBound 2 / Mother 3
-- Eastward
+- [Eastward](https://music.youtube.com/playlist?list=OLAK5uy_m89pt9jkjFSKhYCuRIGHxA_kwU5bggdL0)
 - [Elden Ring](https://music.youtube.com/playlist?list=OLAK5uy_nknhosHLMTS4b8qzeQNc2QuMdpxAPcwNA) | [Nightreign](https://music.youtube.com/playlist?list=OLAK5uy_kOFeuq7V6gKXWpZotM1eCT8NddoAi3mx0) [Nightreign the Forsaken Hollows](https://music.youtube.com/playlist?list=OLAK5uy_mxrByKEYoXauqxmcRbQW-Iy3mseWnywY4) [Shadow of the Erdtree](https://music.youtube.com/playlist?list=OLAK5uy_l-qUm_lqHI7xFyU4XQ8f69epStSOyMOQ8)
 - [Eternal Melody](https://music.youtube.com/playlist?list=PLmQh6cR4EcseaGUDTYC8D1XCWXcRdRcHr)
 - Etrian Odyssey
