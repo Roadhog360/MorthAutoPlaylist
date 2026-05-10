@@ -37,7 +37,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Bloons TD6
 - [Bomb Rush Cyberfunk](https://music.youtube.com/playlist?list=PLjadncOv92cwycZO0M_bRbkv58ob_6HNl)
 - Bug Fables
-- [Celeste](https://music.youtube.com/playlist?list=PLe1jcCJWvkWiWLp9h3ge0e5v7n6kxEfOG) | [B-Sides](https://music.youtube.com/playlist?list=PLe1jcCJWvkWg9PnsWDEbQvIa_XmkMzjzk) [Farewell](https://music.youtube.com/playlist?list=PLBO2h-GzDvIbTR7u5g2z5DXWvOXSLkonP)
+- [Celeste](https://radicaldreamland.bandcamp.com/album/celeste-original-soundtrack) | [B-Sides](https://radicaldreamland.bandcamp.com/album/celeste-b-sides) [Farewell](https://radicaldreamland.bandcamp.com/album/celeste-farewell-original-soundtrack) [Madeline's Grab Bag](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag) [Celeste 64: Fragments of the Mountain](https://radicaldreamland.bandcamp.com/album/celeste-64-fragments-of-the-mountain-original-soundtrack) [Celeste Classic 2: Lani's Trek](https://radicaldreamland.bandcamp.com/album/celeste-classic-2-lanis-trek-original-sound-version)
 - [Chrono Trigger](https://music.youtube.com/playlist?list=PLxJBkIRsvt_bNLMFm1-r5fhvOhD-g3MT0)
 - [RADICAL DREAMERS](https://music.youtube.com/playlist?list=PLZZML_jm4HPOHZiyFYBlt8CXp_Jd3iHaG)
 - [Chrono Cross](https://music.youtube.com/playlist?list=OLAK5uy_m0OQNm22GZz8ZKeymSPrtVBll9ykcwBWY) | [To Far Away Times](https://music.youtube.com/playlist?list=OLAK5uy_nVR1XB2zsnmsPHWVqSkJWpGw8BzUnSFWs)
@@ -99,7 +99,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Fire Emblem Engage
 - Flying Red Barrel
 - [Fortune Street](https://music.youtube.com/playlist?list=PLO8rr19OG4dWAOk64WKKsVEekArys8jyx)
-- Friday Night Funkin’* | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_nq3MpjCWMCnCh9sxE03HEL2CLKnVqnbOg) [Vol. 2](https://music.youtube.com/playlist?list=PL9phCFykuUGcmKhcnB5e7CTpg1pz1ENLU) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_nRcI2Iv341VHAfMb6VxWu57r00QWwprQk) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_lo5M_E0rcgNmXNOnnTFeopimBlV7Q5aiI)
+- Friday Night Funkin’* | [Vol. 1](https://kawaisprite.bandcamp.com/album/friday-night-funkin-the-official-soundtrack-vol-1) [Vol. 2](https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-2) [Vol. 3](https://kawaisprite.bandcamp.com/album/friday-night-funkin-ost-vol-3) [Vol. 4](https://soundcloud.com/funkinsoundteam/sets/friday-night-funkin-vol-4) [Erect Sampler](https://kawaisprite.bandcamp.com/album/erect-sampler)
 - [Ghost Trick: Phantom Detective](https://music.youtube.com/playlist?list=PLO-8vCfzPgff8pJleAwzKLjUPYPVLO1v6)
 - GoldenEye 007
 - [Gran Turismo](https://music.youtube.com/playlist?list=PL9635BCDB0EE8943B)
@@ -173,9 +173,9 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Newer Super Mario Bros. Wii](https://music.youtube.com/playlist?list=PLnJJYXOsDChUZhyqIGx0k8dm33dMTLC9T)
 - [NieR Replicant/Gestalt](https://music.youtube.com/playlist?list=OLAK5uy_mHFYLgtn-xOszI1LUkL8FvKWyebowGp8o) | [Piano Collections](https://music.youtube.com/playlist?list=OLAK5uy_mbLLUdyBvrQv1E671eJIazqH27TNDHX6Q) [Nightmares & Arrange](https://music.youtube.com/playlist?list=OLAK5uy_mJE7pgIgW1ltft7TH0jSAife6q2-vjRsg)
 - [NieR Replicant ver.1.22474487139...](https://music.youtube.com/playlist?list=OLAK5uy_lNYu-r_8kEAEKObt8msdz9yN-mNxAOH94)
-- [NieR:Automata](https://music.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM) | [Piano Collections](https://music.youtube.com/playlist?list=OLAK5uy_k9a5vn5DiSo6OTLhXbl4Pm4tCeLIKTi2Y) [Arranged & Unreleased](https://music.youtube.com/playlist?list=OLAK5uy_lmEt5buryPrkLo_Igzw0NpeHZpFJLEW0I)
+- [NieR:Automata](https://music.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM) | [Piano Collections](https://music.youtube.com/playlist?list=OLAK5uy_nlAebI0iZ2AygBu6Ij-olTYbQo1cdRQOE) [Arranged & Unreleased](https://music.youtube.com/playlist?list=OLAK5uy_lmEt5buryPrkLo_Igzw0NpeHZpFJLEW0I)
 - [NieR: Re\[in\]carnation](https://music.youtube.com/playlist?list=OLAK5uy_nMlgyC1J7voOZBCfIUrpr-7vklZZVy0SM) | [Chill Out Arrangement Tracks](https://music.youtube.com/playlist?list=OLAK5uy_k-URRUx3aOqgahuzjfgr82SRHyr80h7Xc)
-- Night in the Woods | [At the End of Everything](https://music.youtube.com/playlist?list=OLAK5uy_kBxL9lkXPbGwxWltAoutiL3exiCEXnl9c) [Hold onto Anything](https://music.youtube.com/playlist?list=OLAK5uy_lrJfp56hPHJh06WVyaBHpITOW6vwRmhAk) [Demon Tower](https://music.youtube.com/playlist?list=PLpkOJCWZi5wFuLW5PQgv8zvyEzoP2ebb0)
+- Night in the Woods | [At the End of Everything](https://infiniteammo.bandcamp.com/album/night-in-the-woods-vol-1-at-the-end-of-everything) [Hold onto Anything](https://infiniteammo.bandcamp.com/album/night-in-the-woods-vol-2-hold-onto-anything) [Demon Tower](https://infiniteammo.bandcamp.com/album/night-in-the-woods-vol-3-demontower) [Preview](https://infiniteammo.bandcamp.com/album/night-in-the-woods-preview)
 - NiGHTS Into Dreams | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_keaLi1V4i8v9N7P2ZEgDs9w_uamF3KBMI) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_n1ryJr_BOgNf3yeHGlyBvnTlSb0I-cHt0) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_kkFni5b8hYTxA9k4HKdMSLUw79wLIyZj4)
 - Nintendogs
 - Nintendogs + Cats
@@ -206,7 +206,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Persona 4 Arena Ultimax](https://music.youtube.com/playlist?list=OLAK5uy_nTUypEDsr3QBCceG0B1dqOiPs0G6Qzq0A)
 - [Persona 5](https://music.youtube.com/playlist?list=OLAK5uy_lR1Bq94o4E8okd3G4AyajcbAMHyErxgXI)
 - [Persona 5 Royal](https://music.youtube.com/playlist?list=OLAK5uy_nZ-UnlHWZYXBd_mm-njd34Bpzl-6Uf58w)
-- [Persona 5 Scramble: The Phantom Strikers](https://music.youtube.com/playlist?list=OLAK5uy_mcLGjYHVGkYcGZRkqCeB1NJoMbBePYnUQ)
+- [Persona 5 Scramble: The Phantom Strikers](https://music.youtube.com/playlist?list=OLAK5uy_kkWjFLWqiHChVzullX9pFcDzzdYJpCbV0)
 - [Persona 5: Dancing in Starlight](https://music.youtube.com/playlist?list=OLAK5uy_nPYFx-akKd9bis0Z1Fmrqshciuz5rQWmQ)
 - [Persona 5 Tactica](https://music.youtube.com/playlist?list=OLAK5uy_mQvNA4cS-xrA0v5WP5co4pugf4EMHaOKE)
 - [Persona Q: Shadow of the Labrynth](https://music.youtube.com/playlist?list=OLAK5uy_m-GOPvi7mw_cSjat2KkKD-kFvng3tDqes)
@@ -240,7 +240,9 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Rivals of Aether
 - Rivals of Aether II
 - [Sequence Palladium](https://music.youtube.com/playlist?list=PLmQh6cR4EcsecZxsvXK4U3JePrni8p9mI)
-- [Shovel Knight](https://music.youtube.com/playlist?list=OLAK5uy_k8kQfuR9uFc-7Ck8S6sV3vejGZ4eIyOJs) | [King of Cards + Showdown](https://music.youtube.com/playlist?list=OLAK5uy_nDazTUyNwm622CNI4pnqWkmpuCeqT6EXU) [Specter of Torment](https://music.youtube.com/playlist?list=OLAK5uy_lgJrjeXVgOj4VmysbZenXrKMrXJrDtxDI) [Plague of Shadows](https://music.youtube.com/playlist?list=OLAK5uy_kbUfQpB6ySSK4qQ8VAlKhZYOZpKv8jmj0)
+- [Shovel Knight](https://virt.bandcamp.com/album/shovel-knight-original-soundtrack) | [King of Cards](https://virt.bandcamp.com/album/shovel-knight-king-of-cards-ost) [Specter of Torment](https://virt.bandcamp.com/album/shovel-knight-specter-of-torment-ost) [Plague of Shadows](https://virt.bandcamp.com/album/shovel-knight-plague-of-shadows-ost) [Strike the Earth! Shovel Knight Arranged](https://virt.bandcamp.com/album/strike-the-earth-shovel-knight-arranged)
+- [Shovel Knight Pocket Dungeon](https://virt.bandcamp.com/album/shovel-knight-pocket-dungeon-ost)
+- [Shovel Knight Dig](https://virt.bandcamp.com/album/shovel-knight-dig-ost)
 - [Shin Megami Tensei](https://music.youtube.com/playlist?list=OLAK5uy_mlRxzMTy36_KZuUrEthuhczLIBJwg1O7Q) | [SEGA CD](https://music.youtube.com/playlist?list=OLAK5uy_nEu_II_0aa72FzaRUdeVVKLmefkpLM3zk)
 - [Shin Megami Tensei II](https://music.youtube.com/playlist?list=OLAK5uy_nVUbStHtuzyCiQWek2-2Wwakb0yvxyV3M)
 - [Shin Megami Tensei III: Nocturne](https://music.youtube.com/playlist?list=OLAK5uy_lTLFnKP8rdI_kCCeEOYMv_8QESt3TlD8k)
@@ -251,8 +253,6 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Shin Megami Tensei if...](https://music.youtube.com/playlist?list=OLAK5uy_k9FiH_DH5rylqckW_JugOvoU-Wk1C6pPw)
 - [Shin Megami Tensei NINE](https://www.youtube.com/watch?v=6_vLp4pw5pA&list=OLAK5uy_mMEVuSIwUpe0D6_ZYgs5--rxHzJR3jhmY)
 - [Shin Megami Tensei: Devil Survivor Overclocked](https://music.youtube.com/playlist?list=OLAK5uy_nUgoDxzX8XIedBMlOutlLVIWkfOaJYMUs)
-- [Shovel Knight Pocket Dungeon](https://music.youtube.com/playlist?list=OLAK5uy_n6LcpAmKQA-Hr-Och5e8Wgicr3_hCiokg)
-- [Shovel Knight Dig](https://music.youtube.com/playlist?list=OLAK5uy_kM8uxg0cf5OgojffSO83R4aHG7cKeFlyg)
 - Sly Cooper: The Thievius Raccoonus
 - Sly Cooper 2: Band of Thieves
 - Sly Cooper 3: Honor Among Thieves
@@ -368,9 +368,10 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Trajectile / Reflect Missile
 - Ultra Street Fighter IV
 - Uncharted: Drake's Fortune
-- [Undertale](https://music.youtube.com/playlist?list=PLKXdyINOQYsb38jn5HGiF6w8X3rph4IIx)
-- DELTARUNE* | [Chapter 1](https://music.youtube.com/playlist?list=PLKXdyINOQYsbroHtsNBW6OJaNZKLh8lf6) [Chapter 2](https://music.youtube.com/playlist?list=PLKXdyINOQYsbMHB5JF-mqNQOb-8WD0iDq) [Chapters 3+4](https://music.youtube.com/playlist?list=PLKXdyINOQYsaHwm4rJ0QDFzsaZQNQjF0U)
-- VA-11 Hall-A | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_ltTDD0tThn0R3aIdhCbcgAiVkvB4MNM2A) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kP_4dOX_MXjAIPElhwJQ7HP9WWOB2_7ao) [Bonus Tracks Collection](https://music.youtube.com/playlist?list=OLAK5uy_mgakqKa-HaGw3ZcWqIdxxR2oIB54QjsXs)
+- [Undertale](https://soundcloud.com/toby-radiation-fox/sets/undertale-soundtrack)
+- DELTARUNE* | [Chapter 1](https://tobyfox.bandcamp.com/album/deltarune-chapter-1-ost) [Chapter 2](https://tobyfox.bandcamp.com/album/deltarune-chapter-2-ost) [Chapters 3+4](https://tobyfox.bandcamp.com/album/deltarune-chapters-3-4-ost)
+- VA-11 Hall-A | [Prologue](https://garoad.bandcamp.com/album/va-11-hall-a-prologue-ost-sounds-from-the-future) [Second Round](https://garoad.bandcamp.com/album/va-11-hall-a-second-round) [EX](https://garoad.bandcamp.com/album/va-11-hall-a-ex-bonus-tracks-collection)
+- [VVVVVV](https://souleyedigitalmusic.bandcamp.com/album/pppppp-the-vvvvvv-soundtrack) | [PPPPPPowerup!](https://souleyedigitalmusic.bandcamp.com/album/ppppppowerup)
 - [Wii Sports](https://music.youtube.com/playlist?list=PLT7j9Cmd9zsHrVCHWVTAh0nIMnErCJIWh)
 - [Wii Sports Club](https://music.youtube.com/playlist?list=PLvwf5iPq-LODuX6xQpCkR-nG45FnEWp0G)
 - [Xmas Shooting - Scramble!!](https://music.youtube.com/playlist?list=PL5YMUKOHobila9gS8nwihatgl900T60x7)

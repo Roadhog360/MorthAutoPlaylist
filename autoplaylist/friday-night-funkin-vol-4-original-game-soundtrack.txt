@@ -1,0 +1,27 @@
+# Title:  Friday Night Funkin’, Vol. 4 (Original Game Soundtrack)
+# Total:  23
+# Extractor:  soundcloud:set
+
+https://soundcloud.com/funkinsoundteam/shootin-ropes-pico-results-perfect-theme
+https://soundcloud.com/funkinsoundteam/stay-funky
+https://soundcloud.com/funkinsoundteam/hands-up-pico-results-excellent-theme-feat-kawai-sprite
+https://soundcloud.com/funkinsoundteam/get-out-the-way-pico-results-good-theme
+https://soundcloud.com/funkinsoundteam/blammed-metaroom-saruky-remix-pico-version
+https://api-v2.soundcloud.com/tracks/1916396348
+https://api-v2.soundcloud.com/tracks/1916396171
+https://api-v2.soundcloud.com/tracks/1916396027
+https://api-v2.soundcloud.com/tracks/1916395880
+https://api-v2.soundcloud.com/tracks/1916395706
+https://api-v2.soundcloud.com/tracks/1916395511
+https://api-v2.soundcloud.com/tracks/1841438913
+https://api-v2.soundcloud.com/tracks/1916395091
+https://api-v2.soundcloud.com/tracks/1916394905
+https://api-v2.soundcloud.com/tracks/1916394692
+https://api-v2.soundcloud.com/tracks/1916394419
+https://api-v2.soundcloud.com/tracks/1841438004
+https://api-v2.soundcloud.com/tracks/1916394128
+https://api-v2.soundcloud.com/tracks/1916393666
+https://api-v2.soundcloud.com/tracks/1841439537
+https://api-v2.soundcloud.com/tracks/1841437446
+https://api-v2.soundcloud.com/tracks/1916397527
+https://api-v2.soundcloud.com/tracks/1916396792
