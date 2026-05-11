@@ -6,12 +6,13 @@ While some playlists have links to where they're sourced from, keep in mind I've
 
 
 ~~Strikethrough~~ = Temporarily Unavailable
+Italicized = Unofficial game album volume
 \* = Frequently updated playlist, the bot may not have the latest tracks
 
 # Video Game Soundtracks
 - 100% Orange Juice*
 - 200% Mixed Juice
-- [A Hat in Time](https://music.youtube.com/playlist?list=OLAK5uy_mJQUNw78Oc2RO3imwBugUq9rchF53rkj4) | [B-Side Soundtrack](https://music.youtube.com/playlist?list=OLAK5uy_mxLjLQyFTDajZ1XNYZ0mGZUi67UC8iqNY) [Seal the Deal + Nyakuza Metro](https://music.youtube.com/playlist?list=OLAK5uy_muWAlM7kZXs1nXtv7TDRKMn188DYCuXZU)
+- [A Hat in Time](https://music.youtube.com/playlist?list=OLAK5uy_mJQUNw78Oc2RO3imwBugUq9rchF53rkj4) | [B-Side Soundtrack](https://music.youtube.com/playlist?list=OLAK5uy_mxLjLQyFTDajZ1XNYZ0mGZUi67UC8iqNY) [Seal the Deal + Nyakuza Metro](https://music.youtube.com/playlist?list=OLAK5uy_muWAlM7kZXs1nXtv7TDRKMn188DYCuXZU) [*Frostbite Summit*](https://shriek.bandcamp.com/album/a-hat-in-time-frostbite-summit)
 - ARMS
 - Among Us
 - Animal Crossing
@@ -36,18 +37,18 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [BioShock Infinite](https://music.youtube.com/playlist?list=PL3QZUm48uWnsdFakp3A2fI-NzmfH1jyQe) | [Burial at Sea - Episode One](https://music.youtube.com/playlist?list=PLhPp-QAUKF_iWR9KWs2renW6BidGMBrTM) [Burial at Sea - Episode Two](https://music.youtube.com/playlist?list=PLhPp-QAUKF_iB02v49W62ru0547WLMRoj)
 - Bloons TD6
 - [Bomb Rush Cyberfunk](https://music.youtube.com/playlist?list=PLjadncOv92cwycZO0M_bRbkv58ob_6HNl)
-- Bug Fables
+- [Bug Fables](https://tristanalric.bandcamp.com/album/bug-fables-soundtrack)
 - [Celeste](https://radicaldreamland.bandcamp.com/album/celeste-original-soundtrack) | [B-Sides](https://radicaldreamland.bandcamp.com/album/celeste-b-sides) [Farewell](https://radicaldreamland.bandcamp.com/album/celeste-farewell-original-soundtrack) [Madeline's Grab Bag](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag) [Celeste 64: Fragments of the Mountain](https://radicaldreamland.bandcamp.com/album/celeste-64-fragments-of-the-mountain-original-soundtrack) [Celeste Classic 2: Lani's Trek](https://radicaldreamland.bandcamp.com/album/celeste-classic-2-lanis-trek-original-sound-version)
 - [Chrono Trigger](https://music.youtube.com/playlist?list=PLxJBkIRsvt_bNLMFm1-r5fhvOhD-g3MT0)
 - [RADICAL DREAMERS](https://music.youtube.com/playlist?list=PLZZML_jm4HPOHZiyFYBlt8CXp_Jd3iHaG)
 - [Chrono Cross](https://music.youtube.com/playlist?list=OLAK5uy_m0OQNm22GZz8ZKeymSPrtVBll9ykcwBWY) | [To Far Away Times](https://music.youtube.com/playlist?list=OLAK5uy_nVR1XB2zsnmsPHWVqSkJWpGw8BzUnSFWs)
-- [Clair Obscur: Expedition 33](https://music.youtube.com/playlist?list=PLI0_h8FqQIs3pcDzzO8AOdVLN-FqCA4sO)
-- [Coffee Talk](https://music.youtube.com/playlist?list=OLAK5uy_lC4dtA76wj7CoXBUBDo8ggm0xEpQoYB_k) | [Extra Chill](https://music.youtube.com/playlist?list=OLAK5uy_kG8njNAIs9xdNhCa6pkVGCcSYVonOJcvs)
+- [Clair Obscur: Expedition 33](https://clairobscurexpedition33.bandcamp.com/album/clair-obscur-expedition-33-original-soundtrack)
+- [Coffee Talk](https://music.youtube.com/playlist?list=OLAK5uy_lC4dtA76wj7CoXBUBDo8ggm0xEpQoYB_k) | [Hibiscus & Butterfly](https://togeproductions.bandcamp.com/album/coffee-talk-ep-2-hibiscus-butterfly-original-game-soundtrack) [Extra Chill](https://music.youtube.com/playlist?list=OLAK5uy_kG8njNAIs9xdNhCa6pkVGCcSYVonOJcvs)
 - [Coffee Talk Ep. 2: Hibiscus & Butterfly](https://music.youtube.com/playlist?list=OLAK5uy_kU70iCI5shJj8CGQ2pBUK21_E4lHm2X94)
 - Corpse Party | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kBwLGRLFfF9DDkrnQQUdawgbOydHM51xU) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kzbuil4zlY487XHcbA4d_YTmkSJKuYI4U)
 - Corpse Party: Songs of the Dead | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_lGYPUZsb9Tb01Cp7tpdWXY-6fwU2Qacvo) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_mE_ehItN0doz64i9k2qRg-BNsSMENiX9s)
 - [Corpse Party: Haunting Melodies](https://music.youtube.com/playlist?list=OLAK5uy_mkcp1SwllCUm5PaJj8WFSZj90gptHV3T4)
-- [Cuphead](https://music.youtube.com/playlist?list=OLAK5uy_kQEA6u7fhi0TwxhUI-uJlq4sceB9NZzB8) | [The Delicious Last Course](https://music.youtube.com/playlist?list=OLAK5uy_mp4eiKfu7yhUzHPEqeNI0nLP9kN0JGAEA)
+- [Cuphead](https://studiomdhr.bandcamp.com/album/cuphead-original-soundtrack) | [The Delicious Last Course](https://studiomdhr.bandcamp.com/album/cuphead-the-delicious-last-course-original-soundtrack)
 - [Cyberpunk: 2077](https://music.youtube.com/playlist?list=OLAK5uy_kMPdH8PZ2kqc59Y4BJ3ChrCn_U5EKKKbU) | [Phantom Liberty](https://music.youtube.com/playlist?list=OLAK5uy_nwFFMnm0uBqvjFek5ZU7HMmtF6RS_VkhA)
 - DT Racer
 - Deadly Arts
@@ -69,7 +70,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - EarthBound Origins / Mother
 - EarthBound / Mother 2
 - EarthBound 2 / Mother 3
-- [Eastward](https://music.youtube.com/playlist?list=OLAK5uy_m89pt9jkjFSKhYCuRIGHxA_kwU5bggdL0)
+- [Eastward](https://joelcorelitz.bandcamp.com/album/eastward-original-soundtrack)
 - [Elden Ring](https://music.youtube.com/playlist?list=OLAK5uy_nknhosHLMTS4b8qzeQNc2QuMdpxAPcwNA) | [Nightreign](https://music.youtube.com/playlist?list=OLAK5uy_kOFeuq7V6gKXWpZotM1eCT8NddoAi3mx0) [Nightreign the Forsaken Hollows](https://music.youtube.com/playlist?list=OLAK5uy_mxrByKEYoXauqxmcRbQW-Iy3mseWnywY4) [Shadow of the Erdtree](https://music.youtube.com/playlist?list=OLAK5uy_l-qUm_lqHI7xFyU4XQ8f69epStSOyMOQ8)
 - [Eternal Melody](https://music.youtube.com/playlist?list=PLmQh6cR4EcseaGUDTYC8D1XCWXcRdRcHr)
 - Etrian Odyssey
@@ -83,7 +84,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [F-Zero GX/AX](https://music.youtube.com/playlist?list=PLS-LG8YFyHqdxIdm9r0Vqc7OPIjnopOjm)
 - [Face Raiders](https://music.youtube.com/playlist?list=PLUAmK4xTPU4GqZWTHBDegDD8aPdY8OwqU)
 - [Final Fantasy VII](https://music.youtube.com/playlist?list=OLAK5uy_mPKjVy6AEPeOnm8w07jBQTgELys1XlNpg)
-- [Final Fantasy VII Remake](https://www.youtube.com/watch?v=3zboO7UCUE8&list=OLAK5uy_nlG-_QuIzyFhyo0Z15Pwaln1oEzXHPptU) | [Plus](https://music.youtube.com/playlist?list=OLAK5uy_nnOBHLnI5fFW9NOVMqtwzImglPTLqvhOc) [Orchestral Arrangement Tracks](https://music.youtube.com/playlist?list=OLAK5uy_mWbsiL_mtt8q5OMMqAlowZjO5QFovikYs)
+- [Final Fantasy VII Remake](https://music.youtube.com/playlist?list=OLAK5uy_nlG-_QuIzyFhyo0Z15Pwaln1oEzXHPptU) | [Plus](https://music.youtube.com/playlist?list=OLAK5uy_nnOBHLnI5fFW9NOVMqtwzImglPTLqvhOc) [Orchestral Arrangement Tracks](https://music.youtube.com/playlist?list=OLAK5uy_mWbsiL_mtt8q5OMMqAlowZjO5QFovikYs)
 - [Final Fantasy VII Remake Intergrade](https://music.youtube.com/playlist?list=OLAK5uy_mGNZebz6EMc3hBtXJxlpKVlKuOInkZV_w)
 - [Final Fantasy VII Rebirth](https://music.youtube.com/playlist?list=OLAK5uy_nt89Kp7QX9HJyexbXNDVmCgi8weym0qR4)
 - [Final Fantasy VII: Crisis Core](https://music.youtube.com/playlist?list=OLAK5uy_nBodb5UFKDlDxOZoQBbQQ0_CDoGI0MnZQ)
@@ -106,7 +107,8 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Gran Turismo 2](https://music.youtube.com/playlist?list=PL8B904D2229563E98)
 - [Gran Turismo 3 A-Spec](https://music.youtube.com/playlist?list=PLL-a0jpZwXlCRrSb3hJjt5S7aPeHusp8J)
 - [Gran Turismo 4](https://music.youtube.com/playlist?list=PLQVYa_1zkuYULqtLiZ8Uv64da0xkhzqnt)
-- ~~Grand Theft Auto V~~
+- [Grand Theft Auto V](https://music.youtube.com/playlist?list=PLfWRTRxsXMSo9ZsqfzAbwQiavdWqBh4-1)
+- [Horatio Goes Snowboarding](https://infinitestategames.bandcamp.com/album/horatio-goes-snowboarding-the-official-soundtrack)
 - Hyrule Warriors: Definitive Edition
 - [Inocs](https://music.youtube.com/playlist?list=PLtpuOKVeVH9UF_u3hOv-sSmLE0IFX0SB_)*
 - [Jet Set Radio](https://music.youtube.com/playlist?list=PLsFLgsisA5BXYe8AJ86uF-gL_8vBS2PDV)
@@ -129,6 +131,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - LittleBigPlanet 2
 - LittleBigPlanet 3
 - [LSD: Dream Emulator](https://music.youtube.com/playlist?list=PLbGlS5ZsFQhP_PwS6ROIXroDF9xPK6Ux-)
+- [LSD: Revamped](https://steady-state.bandcamp.com/album/lsd-dream-emulator-revamped)
 - [LSΔ](https://music.youtube.com/playlist?list=PLCaR6ZyqOkGTdIN3OnyKTCdSIB_UJVQFb)
 - [Mario Kart 64](https://music.youtube.com/playlist?list=PLfTJKMMJkrdOc30E7eN0nbPndXhlhi40c)
 - [Mario Kart: Double Dash!!](https://music.youtube.com/playlist?list=PLfTJKMMJkrdNYiL5bwb7xbXSiyk9R5UVH)
@@ -156,7 +159,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Metroid Prime 2: Echoes](https://music.youtube.com/playlist?list=PL40DE611251176104)
 - [Metroid Prime 3: Corruption](https://music.youtube.com/playlist?list=PL8478E74566B651A2)
 - [Metroid Prime 4: Beyond](https://music.youtube.com/playlist?list=PLltD0VqVxLyOPiac5XqTe-_2dKUdEO4By)
-- Minecraft* | [Volume Alpha](https://music.youtube.com/playlist?list=OLAK5uy_lNojWuj8PKhbqVFZBpSkUpCYcrJbYt8s4) [Volume Beta](https://music.youtube.com/playlist?list=OLAK5uy_mSH30PsabObEwBb9LClNBzLhjGYZDSfec) [Battle & Tumble](https://music.youtube.com/playlist?list=OLAK5uy_mG-ri8s_g8ZqkTJP1uHS7lN7sI7RYxGrM) [Glide](https://music.youtube.com/playlist?list=OLAK5uy_l_2nDs1ReenOS7bimqijCbcum3_Cltu-Y) [Update Aquatic](https://music.youtube.com/playlist?list=PLsFLgsisA5BUnB4qLf5-F2cNKWPtGfLwj) [Nether Update](https://music.youtube.com/playlist?list=OLAK5uy_luAYVTWsWTSov-rb5Y_Q-5LZDCTPaNKfs) [Caves & Cliffs](https://music.youtube.com/playlist?list=OLAK5uy_mbRrZYgI7gTTqruBkAmMKzE7kI7ikKQWI) [The Wild Update](https://music.youtube.com/playlist?list=OLAK5uy_nxlgtBrEKDbEBJpPLoZIdMaak_KmPL7k0) [Trails & Tales](https://music.youtube.com/playlist?list=OLAK5uy_kB-5z_WZCLh1iJB7ulHyiqnIBT_5V_ot0) [Tricky Trials](https://music.youtube.com/playlist?list=OLAK5uy_mYzLhvU_L2hPL6K_n2YUJNTxhMBoR2B60) [The Garden Awakens](https://music.youtube.com/playlist?list=OLAK5uy_lwo8GC2X6zK1om9U3sO2qOFSJrvnKteig) [Spring to Life](https://music.youtube.com/playlist?list=OLAK5uy_lotUPu_NA_3AurycrTRwGnjg3CT5H7iLs) [Chase the Skies](https://music.youtube.com/playlist?list=OLAK5uy_myzEq2umLPJyouXzi08Qkubzm3RzgzjXs) [Lava Chicken](https://music.youtube.com/playlist?list=OLAK5uy_lYyLDhGAFDTo8Cz_svAk2y5UOyNIl-qfk)
+- Minecraft* | [Volume Alpha](https://c418.bandcamp.com/album/minecraft-volume-alpha) [Volume Beta](https://c418.bandcamp.com/album/minecraft-volume-beta) [Battle & Tumble](https://music.youtube.com/playlist?list=OLAK5uy_mG-ri8s_g8ZqkTJP1uHS7lN7sI7RYxGrM) [Glide](https://music.youtube.com/playlist?list=OLAK5uy_l_2nDs1ReenOS7bimqijCbcum3_Cltu-Y) [Update Aquatic](https://music.youtube.com/playlist?list=PLsFLgsisA5BUnB4qLf5-F2cNKWPtGfLwj) [Nether Update](https://music.youtube.com/playlist?list=OLAK5uy_luAYVTWsWTSov-rb5Y_Q-5LZDCTPaNKfs) [Caves & Cliffs](https://music.youtube.com/playlist?list=OLAK5uy_mbRrZYgI7gTTqruBkAmMKzE7kI7ikKQWI) [The Wild Update](https://music.youtube.com/playlist?list=OLAK5uy_nxlgtBrEKDbEBJpPLoZIdMaak_KmPL7k0) [Trails & Tales](https://music.youtube.com/playlist?list=OLAK5uy_kB-5z_WZCLh1iJB7ulHyiqnIBT_5V_ot0) [Tricky Trials](https://music.youtube.com/playlist?list=OLAK5uy_mYzLhvU_L2hPL6K_n2YUJNTxhMBoR2B60) [The Garden Awakens](https://music.youtube.com/playlist?list=OLAK5uy_lwo8GC2X6zK1om9U3sO2qOFSJrvnKteig) [Spring to Life](https://music.youtube.com/playlist?list=OLAK5uy_lotUPu_NA_3AurycrTRwGnjg3CT5H7iLs) [Chase the Skies](https://music.youtube.com/playlist?list=OLAK5uy_myzEq2umLPJyouXzi08Qkubzm3RzgzjXs) [Lava Chicken](https://music.youtube.com/playlist?list=OLAK5uy_lYyLDhGAFDTo8Cz_svAk2y5UOyNIl-qfk)
 - [Minecraft Dungeons](https://music.youtube.com/playlist?list=OLAK5uy_kUr-u57F0OKGuQPBh3b5HqV__nI71LNFc) | [Ultimate Additions](https://music.youtube.com/playlist?list=OLAK5uy_l7xbNuXl7nC9XtNmMM5k8Bwk-n1uqH2EI) [Seasonal Adventures](https://music.youtube.com/playlist?list=OLAK5uy_nEbJbV8vNhEU2efaYoD0lHiTu01eYZEcI) [Jungle Awakens](https://music.youtube.com/playlist?list=OLAK5uy_lAve8pIUbhbxioZPNx9eC8mqTTkeEBIEY) [Creeping Winter](https://music.youtube.com/playlist?list=OLAK5uy_lIJM0c0AGbcQKc7jsjH09eWOeS9_zk0lY) [Howling Peaks](https://music.youtube.com/playlist?list=OLAK5uy_mSjKGRAX59u5eT-Y0_cCiaOIasKcyVPEs) [Echoing Void](https://music.youtube.com/playlist?list=OLAK5uy_m04XToP741ab3vm0B-8X5o4-pqz_7NiBw) [Flames of the Nether](https://music.youtube.com/playlist?list=OLAK5uy_k2PTSYQvBNXZ9I1Nury7xA4z23p6YWT2c) [Hidden Depths](https://music.youtube.com/playlist?list=OLAK5uy_k-n0yFIY8XKe71_oSun-gheuGqnFstiVU)
 - [Minecraft Legends](https://music.youtube.com/playlist?list=OLAK5uy_lpjEW7bDU7BV4vrkl-7P8yGeN6L5Ct7Ko)
 - [Minecraft: Story Mode - Season 1](https://music.youtube.com/playlist?list=PLk1sle6PCaD25UMPaxlaR3qI0uddeTvwK)
@@ -183,7 +186,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Nintendo 3DS System](https://music.youtube.com/playlist?list=PLHI6ByT8e1z_cTre6mB-AzKXwM6R7NDF3)
 - [Nintendo Wii U System](https://music.youtube.com/playlist?list=PLAVayYtrkJqo9wFQZY5VPsPLPX27-Ausb)
 - [Nintendo Switch 2 Welcome Tour](https://music.youtube.com/playlist?list=PLFmwSahYlnVP2SqO5sABY_46lT_G0uO2x)
-- Omega Strikers
+- [Omega Strikers](https://raredrop.bandcamp.com/album/omega-strikers-original-game-soundtrack) | [Demon Duel](https://raredrop.bandcamp.com/album/demon-duel-vyce-and-octavias-theme-from-omega-strikers) [Summer Splash](https://raredrop.bandcamp.com/album/omega-strikers-summer-splash-original-game-soundtrack)
 - Paper Mario
 - Paper Mario: Color Splash
 - Paper Mario: Sticker Star
@@ -216,7 +219,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Professor Layton vs. Phoenix Wright: Ace Attorney](https://music.youtube.com/playlist?list=PLO-8vCfzPgfcxgFEsMJIbDbm38wCUpfDW)
 - [Apollo Justice: Ace Attorney Trilogy](https://music.youtube.com/playlist?list=PLsFLgsisA5BUB9IlK7Y9Ssmd7eMm__w2i)
 - [The Great Ace Attorney Chronicles](https://music.youtube.com/playlist?list=PLl1Ubidemop1aL_XvbGImGHntojjftcBP)
-- Pixelmon
+- [Pixelmon](https://chrisgeddes.bandcamp.com/album/pixelmon-ost-biomes) | [Unreleased](https://chrisgeddes.bandcamp.com/album/pixelmon-ost-unreleased)
 - PlayStation All-Stars Battle Royal
 - Poker Night at the Inventory
 - Poker Night at the Inventory 2
@@ -236,9 +239,9 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Ratchet & Clank Future: A Crack in Time
 - Ratchet & Clank 3: Up Your Arsenal
 - Ratchet & Clank: Rift Apart
-- Rain World
-- Rivals of Aether
-- Rivals of Aether II
+- [Rain World](https://jamesprimate.bandcamp.com/album/rain-world-songs-and-rhythms) | [Downpour](https://akuparagames.bandcamp.com/album/rain-world-downpour-original-soundtrack) [The Watcher](https://akuparagames.bandcamp.com/album/rain-world-the-watcher-original-soundtrack) [Alphas, Gems and Junk](https://jamesprimate.bandcamp.com/album/rain-world-alphas-gems-and-junk) [Ambients and Instrumentals](https://jamesprimate.bandcamp.com/album/rain-world-ambients-and-instrumentals)
+- [Rivals of Aether](https://flashygoodness.bandcamp.com/album/rivals-of-aether-original-soundtrack) | [Expansion Tracks](https://flashygoodness.bandcamp.com/album/rivals-of-aether-expansion-tracks) [Special Tracks](https://flashygoodness.bandcamp.com/album/rivals-of-aether-special-tracks) [Dreams of Aether](https://resoforce.bandcamp.com/album/dreams-of-aether-original-soundtrack) [Creatures of Aether: FM TRACKS](https://resoforce.bandcamp.com/album/creatures-of-aether-fm-tracks) [Dungeons of Aether: FM TRACKS](https://resoforce.bandcamp.com/album/creatures-of-aether-fm-tracks) [RESONANT MIXES](https://resoforce.bandcamp.com/album/rivals-of-aether-resonant-mixes) [RESONANT MIXES 2](https://resoforce.bandcamp.com/album/rivals-of-aether-resonant-mixes-2) [RESONANT MIXES 3](https://resoforce.bandcamp.com/album/rivals-of-aether-resonant-mixes-3)
+- [Rivals of Aether II*](https://music.youtube.com/playlist?list=PL9oXSQY0ttS-iHOuT4_8rhAlg78rZcrRK) | [Revival](https://resoforce.bandcamp.com/album/rivals-of-aether-ii-soundtrack-revival) [Arrival](https://moonsailor.bandcamp.com/album/rivals-of-aether-ii-soundtrack-arrival)
 - [Sequence Palladium](https://music.youtube.com/playlist?list=PLmQh6cR4EcsecZxsvXK4U3JePrni8p9mI)
 - [Shovel Knight](https://virt.bandcamp.com/album/shovel-knight-original-soundtrack) | [King of Cards](https://virt.bandcamp.com/album/shovel-knight-king-of-cards-ost) [Specter of Torment](https://virt.bandcamp.com/album/shovel-knight-specter-of-torment-ost) [Plague of Shadows](https://virt.bandcamp.com/album/shovel-knight-plague-of-shadows-ost) [Strike the Earth! Shovel Knight Arranged](https://virt.bandcamp.com/album/strike-the-earth-shovel-knight-arranged)
 - [Shovel Knight Pocket Dungeon](https://virt.bandcamp.com/album/shovel-knight-pocket-dungeon-ost)
@@ -251,7 +254,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Shin Megami Tensei V](https://music.youtube.com/playlist?list=OLAK5uy_kMWJ3j7TNulHQ_5kT7xTAsm_kO_O-30uw)
 - [Shin Megami Tensei V: Vengeance](https://music.youtube.com/playlist?list=OLAK5uy_mpgHVxzWzM2HGU934FkOEfa_sFeCiyjdY)
 - [Shin Megami Tensei if...](https://music.youtube.com/playlist?list=OLAK5uy_k9FiH_DH5rylqckW_JugOvoU-Wk1C6pPw)
-- [Shin Megami Tensei NINE](https://www.youtube.com/watch?v=6_vLp4pw5pA&list=OLAK5uy_mMEVuSIwUpe0D6_ZYgs5--rxHzJR3jhmY)
+- [Shin Megami Tensei NINE](https://music.youtube.com/playlist?list=OLAK5uy_mMEVuSIwUpe0D6_ZYgs5--rxHzJR3jhmY)
 - [Shin Megami Tensei: Devil Survivor Overclocked](https://music.youtube.com/playlist?list=OLAK5uy_nUgoDxzX8XIedBMlOutlLVIWkfOaJYMUs)
 - Sly Cooper: The Thievius Raccoonus
 - Sly Cooper 2: Band of Thieves
@@ -283,11 +286,11 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Sonic Free Riders](https://music.youtube.com/playlist?list=OLAK5uy_kDI63Vh7KZ4dgcfISfriuGKAZVsPfjNU8)
 - Sonic & All-Stars Racing Transformed | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_lfWc48ONhvW589hJQZOFhMhQbyvV2RgcA) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_k6WMcDw3wgQ4TDh8BXnS3KALIHGgMPgsE)
 - [Team Sonic Racing](https://music.youtube.com/playlist?list=OLAK5uy_kJ5KDUqFd1LvWTZJVnqElrLRN5V00UpbM)
-- [Sonic Racing Crossworlds](https://music.youtube.com/playlist?list=OLAK5uy_livXjw1Cne0K0GdKNqE6Pdwjlv1f0bspc)*
-- [Sonic Robo Blast 2](https://music.youtube.com/playlist?list=PLcquXApwC2gCbgtQ0sAfpUFp4u1V86fGI)*
+- [Sonic Racing Crossworlds*](https://music.youtube.com/playlist?list=OLAK5uy_livXjw1Cne0K0GdKNqE6Pdwjlv1f0bspc)
+- [Sonic Robo Blast 2*](https://music.youtube.com/playlist?list=PLcquXApwC2gCbgtQ0sAfpUFp4u1V86fGI)
 - [Sonic Rush](https://music.youtube.com/pldump?list=PLvNp0Boas721Cm9CWT9eaSq_JxA3f_NAr)
 - [Sonic Rush Adventure](https://music.youtube.com/playlist?list=OLAK5uy_m8IfvqkeyyaGtAa39wfaQNeZ2fAqMiHWQ)
-- [Sonic Rumble Party](https://music.youtube.com/playlist?list=PL-8fcht718TQkHMXkuFuSlTRNpdyGPMKV)*
+- [Sonic Rumble Party*](https://music.youtube.com/playlist?list=PL-8fcht718TQkHMXkuFuSlTRNpdyGPMKV)
 - [Spyro the Dragon](https://music.youtube.com/playlist?list=PLA6ECEC231DE28F97)
 - [Spyro 2: Ripto's Rage](https://music.youtube.com/playlist?list=PL8F255D9CF7D7A1E0)
 - [Spyro: Year of the Dragon](https://music.youtube.com/playlist?list=PLBA0F6FE67842D916)
@@ -300,7 +303,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Splatoon
 - Splatoon 2
 - ~~Splatoon 3~~
-- Stardew Valley
+- [Stardew Valley](https://concernedape.bandcamp.com/album/stardew-valley-ost)
 - Street Fighter
 - [Street Fighter 2](https://music.youtube.com/playlist?list=PL60138D0ECA664BF7)
 - Street Fighter EX 2 Plus
@@ -324,15 +327,14 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [Super Mario RPG (Remake)](https://music.youtube.com/playlist?list=PL-vwhVWH0eiUDjgqB4bgyj6fgIBkPS4Ec)
 - Super Paper Mario
 - ~~Super Smash Bros. (Nintendo 64)~~
-- ~~Super Smash Bros. Brawl~~
-- Super Smash Bros. Brawl Refined
-- Super Smash Bros. Brawl: Project M
-- ~~Super Smash Bros. Melee~~
-- Super Smash Bros. Melee: Akaneia Build
-- ~~Super Smash Bros. Ultimate~~
+- ~~Super Smash Bros. Melee~~ | [Akaneia Build*](https://music.youtube.com/playlist?list=PLXREG-98n0LterwWhd4KOXckYQM3HaEBn)
+- ~~Super Smash Bros. Brawl~~ | [Refined](https://music.youtube.com/playlist?list=PLg-cMZ827H1utNN05ufI2O3-gyf61eN1K) [Project M](https://music.youtube.com/playlist?list=PLOfDMgajkNnodroGo-hRFnB5eKLNoCpMP&pp=0gcJCcsEOCosWNin) [Legacy](https://seycara.bandcamp.com/album/super-smash-bros-legacy-soundtrack)
 - ~~Super Smash Bros. for 3DS and Wii U~~
-- Team Fortress 2
+- ~~Super Smash Bros. Ultimate~~
+- Super Smash Flash 2 | [Vol. 1](https://chernabogue.bandcamp.com/album/super-smash-flash-2-volume-1) [Vol. 2](https://chernabogue.bandcamp.com/album/super-smash-flash-2-volume-2) [Vol. 3](https://chernabogue.bandcamp.com/album/super-smash-flash-2-volume-3) [Vol. 4](https://chernabogue.bandcamp.com/album/super-smash-flash-2-volume-4) [Update 1.1](https://chernabogue.bandcamp.com/album/super-smash-flash-2-music-from-update-11) [Update 1.2](https://chernabogue.bandcamp.com/album/super-smash-flash-2-music-from-update-12)
+- [Super Smash Land](https://inversephase.bandcamp.com/album/super-smash-land-ost) | [Hidden Tracks](https://flashygoodness.bandcamp.com/album/super-smash-land-hidden-tracks)
 - [Taxi Rider](https://music.youtube.com/playlist?list=PLmQh6cR4EcscOgPR8oW18Kr8vbn-3nJnW)
+- Team Fortress 2
 - Tekken 2
 - Tekken 3
 - Tekken 4
@@ -344,7 +346,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Tekken Tag Tournament 2
 - Tekken Revolution
 - Pachi-Slot Tekken Vocal Tracks
-- Terraria | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_mPd3bgeYqn1kYq4WcMkK81W_Ah0aEQypE) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_ntJ2gPxbO_JIlZ1GpxHmO4bXa5aen6UY8) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_l-4DSPrnKLptNqt6qUOyi6hkKuxfWyDKs) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_kbSLvXUcD1WWMFwU-OET6SUAeyQ33BwDs) [Vol. 5](https://music.youtube.com/playlist?list=OLAK5uy_loRhEIUbuJw1x-HgBFcCpFj0rYkO6EH84) [Otherworld](https://music.youtube.com/playlist?list=OLAK5uy_lHlAcqo3YYn-muGdGKAeqsdJj_WWAyIYs) [The Tale of a Cruel World \(Calamity Mod\)](https://music.youtube.com/playlist?list=OLAK5uy_kUiWJFbgITN_YXTCrVPsH342xN9smXu4U)
+- Terraria | [Vol. 1](https://re-logic.bandcamp.com/album/terraria-soundtrack) [Vol. 2](https://re-logic.bandcamp.com/album/terraria-soundtrack-volume-2) [Vol. 3](https://re-logic.bandcamp.com/album/terraria-soundtrack-volume-3-2) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_kbSLvXUcD1WWMFwU-OET6SUAeyQ33BwDs) [Vol. 5](https://music.youtube.com/playlist?list=OLAK5uy_loRhEIUbuJw1x-HgBFcCpFj0rYkO6EH84) [Otherworld](https://music.youtube.com/playlist?list=OLAK5uy_lHlAcqo3YYn-muGdGKAeqsdJj_WWAyIYs) [*The Tale of a Cruel World*](https://dmdokuro.bandcamp.com/album/the-tale-of-a-cruel-world-calamity-original-soundtrack)
 - Tetris 99
 - [The Legend of Zelda: Ocarina of Time](https://music.youtube.com/playlist?list=PLESFnlO3kNnpqtdBGrIl58Nn9OVzxhgLl)
 - [The Legend of Zelda: Majora's Mask](https://music.youtube.com/playlist?list=PLESFnlO3kNnojaXTldE2ThGR0NpMuA595)
@@ -365,6 +367,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - Touhou: Embodiment of Scarlet Devil
 - Touhou: Imperishable Night
 - Touhou: Lotus Land Story
+- [Tower of Heaven](https://flashygoodness.bandcamp.com/album/tower-of-heaven-original-soundtrack)
 - Trajectile / Reflect Missile
 - Ultra Street Fighter IV
 - Uncharted: Drake's Fortune
@@ -382,13 +385,13 @@ While some playlists have links to where they're sourced from, keep in mind I've
 
 # Non-Video Game Soundtracks
 - [Ace Attorney (TV Series)](https://music.youtube.com/playlist?list=OLAK5uy_lNXse5Y5ts0I3WRkBLD_CAsHCHxW32-tw)
-- [Music From Alan Becker's Animations](https://music.youtube.com/playlist?list=PL4EJWCM_RXBHDwQEHXTbCjyCDODH79Oob)*
-- [Alan Becker Lofi](https://music.youtube.com/playlist?list=OLAK5uy_lhhWNt2LgJ6Qfgj-lVgShsMYbfE4H5YJA)*
+- [Animator vs. Animation & Animation vs. Minecraft](https://music.youtube.com/playlist?list=PL4EJWCM_RXBHDwQEHXTbCjyCDODH79Oob)
+- [Alan Becker Lofi*](https://music.youtube.com/playlist?list=OLAK5uy_lhhWNt2LgJ6Qfgj-lVgShsMYbfE4H5YJA)
 - [A Minecraft Movie](https://music.youtube.com/playlist?list=OLAK5uy_me4SEfpMFKnFcVhgIViGT30NtJneNxO0g)
 - [Banana Fish](https://music.youtube.com/playlist?list=OLAK5uy_lxOZ6DRfk6wrqDvlRIgQxm4_6Za78XU-4)
-- Bleach | [SHIRO'S SONGBOOK BLEACH Bankai!](https://music.youtube.com/playlist?list=OLAK5uy_ldA_DISG3Bn7clVyfcVLAMtzvLzEScF5o) [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kyx6q36tCJak-_NOFs_1Xc4Q2qK_su2UA) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kgWzJRvqc6o_8tAW_I8sy5vrJ0zDkH1vg) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_kvXMPu9tcGCr_m0KW4QxEPvd7CiZEhI3s) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_kZAQTTcyZauQnKCZPrvmJpVWLD9YsPlV0) [Openings](https://music.youtube.com/playlist?list=PLsFLgsisA5BVSyRQQJ50x-SXZzxLRRdSR) [Endings](https://music.youtube.com/playlist?list=PLsFLgsisA5BUGJ_0kkpBwO-PrYn_kXsDX)
+- Bleach | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kyx6q36tCJak-_NOFs_1Xc4Q2qK_su2UA) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kgWzJRvqc6o_8tAW_I8sy5vrJ0zDkH1vg) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_kvXMPu9tcGCr_m0KW4QxEPvd7CiZEhI3s) [Vol. 4](https://music.youtube.com/playlist?list=OLAK5uy_kZAQTTcyZauQnKCZPrvmJpVWLD9YsPlV0) [Openings](https://music.youtube.com/playlist?list=PLsFLgsisA5BVSyRQQJ50x-SXZzxLRRdSR) [Endings](https://music.youtube.com/playlist?list=PLsFLgsisA5BUGJ_0kkpBwO-PrYn_kXsDX)
 - Bleach: The Movie | [Memories of Nobody](https://music.youtube.com/playlist?list=OLAK5uy_kS56U6v8cFdhW7WscH2MrCsqs3-zTQXgw) [The DiamondDust Rebellion](https://music.youtube.com/playlist?list=OLAK5uy_kbq9ga7c7FyNErap05zMJvK6WhodOxfbs) [Fade to Black](https://music.youtube.com/playlist?list=OLAK5uy_mYHR6J5t7I9Jorot17GY1y1_DQmST7Ojc) [The Hell Verse](https://music.youtube.com/playlist?list=OLAK5uy_m13B-sAzxapuwntA3gmz4EJUud1qdGam4)
-- Bleach: The Thousand-Year Blood War* | [Cour 1](https://music.youtube.com/playlist?list=OLAK5uy_m8Nzho7yJD4WYgb9JoRw2998iyk-l4bHY) [Cour 2](https://music.youtube.com/playlist?list=OLAK5uy_mAOTcvpZDtiXfUEpkYyslrCcHMZVVJ1es)
+- Bleach: The Thousand-Year Blood War* | [Cour 1](https://music.youtube.com/playlist?list=OLAK5uy_m8Nzho7yJD4WYgb9JoRw2998iyk-l4bHY) [Cour 2](https://music.youtube.com/playlist?list=OLAK5uy_mAOTcvpZDtiXfUEpkYyslrCcHMZVVJ1es) [SHIRO'S SONGBOOK BLEACH Bankai!](https://music.youtube.com/playlist?list=OLAK5uy_ldA_DISG3Bn7clVyfcVLAMtzvLzEScF5o)
 - Breaking Bad | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_mKMZdmoPStfad2b5RRVNasAypFTjkj-9o) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kouPFrZd4ofw2XEoMTE97taMUbWa_iLSw)
 - Better Call Saul | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kPDJ9KV2FZcvLVkb-ZFw0O-dsQvD3QwhY) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_mSXWmXzzaFWGSbDeSNodek_gHwOTixtkI) [Vol. 3](https://music.youtube.com/playlist?list=OLAK5uy_kHpaGjTij4eTHeAqDyTGG9gK-v8xeuyPs)
 - [Cloudy with a Chance of Meatballs](https://music.youtube.com/playlist?list=OLAK5uy_nbLTqF6GTl9MUFTrLS-Sf1SQd6gkhwpX0)
@@ -413,7 +416,9 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - JoJo’s Bizarre Adventure: Diamond is Unbreakable | [\~Good Morning Morioh Cho!\~](https://music.youtube.com/playlist?list=OLAK5uy_mWVyLQkw3zh2qgbmU9GS0FpTHKl1CdCVU) [\~Daydream\~](https://music.youtube.com/playlist?list=OLAK5uy_nYvSyOGm1U-v8MjHhuXnczeaLJ7eVjQwU) [\~Nightwalk\~](https://music.youtube.com/playlist?list=OLAK5uy_kVkLeiWRdohH0DraGOVMWoDxfA1ndZh0o) [\~Good Night Morioh Cho!\~](https://music.youtube.com/playlist?list=OLAK5uy_lNtsSDfJwnPJLw6wDU0DK3sxKCvuAcnOQ)
 - JoJo’s Bizarre Adventure: Golden Wind | [Overture](https://music.youtube.com/playlist?list=OLAK5uy_mGDrnKfyMdjef5gU8eAxcq8UQXY7jgmhs) [Intermezzo](https://music.youtube.com/playlist?list=OLAK5uy_mDpI60QbxVNnJAqAyTW-TjZhbYZirshVU) [Finale](https://music.youtube.com/playlist?list=OLAK5uy_luOYvxSFPJ2uVP-OZuhjntBX8Sv0Mdnqo)
 - [JoJo’s Bizarre Adventure: Stone Ocean](https://music.youtube.com/playlist?list=OLAK5uy_lfwsVHbIFPwZwKZ12rW5B-q2Q2fPTca4U)
-- MF DOOM | [Operation: Doomsday](https://music.youtube.com/playlist?list=OLAK5uy_mPRV0RwgfxVXxhB7S0-hYrT6UmKr7QInM) [Madvillainy](https://music.youtube.com/playlist?list=OLAK5uy_mj4SWRn9ywrwGZ4q1U1_242e9r9TrLjLM) [MM..FOOD](https://music.youtube.com/playlist?list=OLAK5uy_nrJrTr7PqEnT6S3NPxIuTf-6Z6lZWIBOM)
+- Madvillain | [Madvillainy](https://madvillain.bandcamp.com/album/madvillainy) [Madvillainy 2: The Madlib Remix](https://madvillain.bandcamp.com/album/madvillainy-2-the-madlib-remix)
+- [M\*A\*S\*H](https://music.youtube.com/playlist?list=OLAK5uy_mKV3nEOZjIGhaOS6H2jVP95fOlcPZ214s)
+- MF DOOM | [Operation: Doomsday](https://mfdoom.bandcamp.com/album/operation-doomsday-complete) [MM..FOOD](https://mfdoom.bandcamp.com/album/mm-food-20-year-anniversary-edition) [Metal Fingers Presents: Special Herbs](https://mfdoom.bandcamp.com/album/metal-fingers-presents-special-herbs-the-box-set-vol-0-9)
 - [NieR:Automata Ver1.1a](https://music.youtube.com/playlist?list=OLAK5uy_nhXyJ93NurX0rEQnDdnxMYavto-OzEVPs)
 - [NieR Tribute Album](https://music.youtube.com/playlist?list=OLAK5uy_mBydTVVeh2p1zkfhBnAMvGGU6sB9ntmhk)
 - [Persona 4 the Animation](https://music.youtube.com/playlist?list=PLKnNtzNfg7jfx_IMWrzu1hJ7YG5pgJ1ae)
@@ -429,7 +434,7 @@ While some playlists have links to where they're sourced from, keep in mind I've
 - [The LEGO Movie](https://music.youtube.com/playlist?list=OLAK5uy_kaV5sETkLPEr9uvWAiRhf1pc6sYUSw3Nc)
 - [The LEGO Movie 2: The Second Part](https://music.youtube.com/playlist?list=OLAK5uy_k_rayMa689vhcvZeW8Wbeh5i_eVr8HqsA)
 - [The Super Mario Bros. Movie](https://music.youtube.com/playlist?list=OLAK5uy_klnTc3i0mGo125tgQIQ9EaB4DxaT1GpEU)
-- [The Super Mario Galaxy Movie](https://www.youtube.com/playlist?list=OLAK5uy_niIeFboQoIPif8Pi5N6O4fqi8JdZtNV4A&playnext=1&index=1)
+- [The Super Mario Galaxy Movie](https://music.youtube.com/playlist?list=OLAK5uy_niIeFboQoIPif8Pi5N6O4fqi8JdZtNV4A&playnext=1&index=1)
 - [The World Ends with You: the Animation](https://music.youtube.com/playlist?list=OLAK5uy_mTytGYMyIr7QJwTjLwnZrn-616veet90c)
 - [Whiplash](https://music.youtube.com/playlist?list=OLAK5uy_mipavuv0YyzXT5uoBDfSFggVB28opZ27U)
 
