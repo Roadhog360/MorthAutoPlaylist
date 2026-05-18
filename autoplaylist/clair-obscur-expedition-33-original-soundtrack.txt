@@ -1,5 +1,5 @@
-# Artist: Lorien Testard and Alice Duport-Percier
-# Album: Clair Obscur: Expedition 33 (Original Soundtrack)
+# Title: Clair Obscur: Expedition 33 (Original Soundtrack)
+# Author: Lorien Testard and Alice Duport-Percier
 # Source: https://clairobscurexpedition33.bandcamp.com/album/clair-obscur-expedition-33-original-soundtrack
 
 https://clairobscurexpedition33.bandcamp.com/track/alicia

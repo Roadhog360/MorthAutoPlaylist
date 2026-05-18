@@ -35,14 +35,14 @@ Italicized = Unofficial game album volume
 - [BioShock](https://music.youtube.com/playlist?list=PL0140956A81E7F047)
 - [BioShock 2](https://music.youtube.com/playlist?list=PLFBCCA6605FA1398B)
 - [BioShock Infinite](https://music.youtube.com/playlist?list=PL3QZUm48uWnsdFakp3A2fI-NzmfH1jyQe) | [Burial at Sea - Episode One](https://music.youtube.com/playlist?list=PLhPp-QAUKF_iWR9KWs2renW6BidGMBrTM) [Burial at Sea - Episode Two](https://music.youtube.com/playlist?list=PLhPp-QAUKF_iB02v49W62ru0547WLMRoj)
-- Bloons TD6
+- [Bloons TD6](https://music.youtube.com/playlist?list=PL0VX53H9BW7jFo0IYicLcnMwPDV7vQi4a)
 - [Bomb Rush Cyberfunk](https://music.youtube.com/playlist?list=PLjadncOv92cwycZO0M_bRbkv58ob_6HNl)
 - [Bug Fables](https://tristanalric.bandcamp.com/album/bug-fables-soundtrack)
 - [Celeste](https://radicaldreamland.bandcamp.com/album/celeste-original-soundtrack) | [B-Sides](https://radicaldreamland.bandcamp.com/album/celeste-b-sides) [Farewell](https://radicaldreamland.bandcamp.com/album/celeste-farewell-original-soundtrack) [Madeline's Grab Bag](https://radicaldreamland.bandcamp.com/album/celeste-madelines-grab-bag) [Celeste 64: Fragments of the Mountain](https://radicaldreamland.bandcamp.com/album/celeste-64-fragments-of-the-mountain-original-soundtrack) [Celeste Classic 2: Lani's Trek](https://radicaldreamland.bandcamp.com/album/celeste-classic-2-lanis-trek-original-sound-version)
 - [Chrono Trigger](https://music.youtube.com/playlist?list=PLxJBkIRsvt_bNLMFm1-r5fhvOhD-g3MT0)
 - [RADICAL DREAMERS](https://music.youtube.com/playlist?list=PLZZML_jm4HPOHZiyFYBlt8CXp_Jd3iHaG)
 - [Chrono Cross](https://music.youtube.com/playlist?list=OLAK5uy_m0OQNm22GZz8ZKeymSPrtVBll9ykcwBWY) | [To Far Away Times](https://music.youtube.com/playlist?list=OLAK5uy_nVR1XB2zsnmsPHWVqSkJWpGw8BzUnSFWs)
-- [Clair Obscur: Expedition 33](https://clairobscurexpedition33.bandcamp.com/album/clair-obscur-expedition-33-original-soundtrack)
+- [Clair Obscur: Expedition 33](https://clairobscurexpedition33.bandcamp.com/album/clair-obscur-expedition-33-original-soundtrack) | [Verso's Drafts](https://clairobscurexpedition33.bandcamp.com/album/clair-obscur-expedition-33-versos-drafts-original-soundtrack) [Nos vies en Lumière (Bonus Edition)](https://clairobscurexpedition33.bandcamp.com/album/clair-obscur-expedition-33-nos-vies-en-lumi-re-bonus-edition-original-soundtrack)
 - [Coffee Talk](https://music.youtube.com/playlist?list=OLAK5uy_lC4dtA76wj7CoXBUBDo8ggm0xEpQoYB_k) | [Hibiscus & Butterfly](https://togeproductions.bandcamp.com/album/coffee-talk-ep-2-hibiscus-butterfly-original-game-soundtrack) [Extra Chill](https://music.youtube.com/playlist?list=OLAK5uy_kG8njNAIs9xdNhCa6pkVGCcSYVonOJcvs)
 - [Coffee Talk Ep. 2: Hibiscus & Butterfly](https://music.youtube.com/playlist?list=OLAK5uy_kU70iCI5shJj8CGQ2pBUK21_E4lHm2X94)
 - Corpse Party | [Vol. 1](https://music.youtube.com/playlist?list=OLAK5uy_kBwLGRLFfF9DDkrnQQUdawgbOydHM51xU) [Vol. 2](https://music.youtube.com/playlist?list=OLAK5uy_kzbuil4zlY487XHcbA4d_YTmkSJKuYI4U)
@@ -220,6 +220,7 @@ Italicized = Unofficial game album volume
 - [Apollo Justice: Ace Attorney Trilogy](https://music.youtube.com/playlist?list=PLsFLgsisA5BUB9IlK7Y9Ssmd7eMm__w2i)
 - [The Great Ace Attorney Chronicles](https://music.youtube.com/playlist?list=PLl1Ubidemop1aL_XvbGImGHntojjftcBP)
 - [Pixelmon](https://chrisgeddes.bandcamp.com/album/pixelmon-ost-biomes) | [Unreleased](https://chrisgeddes.bandcamp.com/album/pixelmon-ost-unreleased)
+- [Pizza Tower](https://ronandecastel.bandcamp.com/album/pizza-tower-soundtrack) | [Bonus Tracks](https://ronandecastel.bandcamp.com/album/pizza-tower-original-game-soundtrack-bonus-tracks)
 - PlayStation All-Stars Battle Royal
 - Poker Night at the Inventory
 - Poker Night at the Inventory 2
@@ -369,6 +370,7 @@ Italicized = Unofficial game album volume
 - Touhou: Lotus Land Story
 - [Tower of Heaven](https://flashygoodness.bandcamp.com/album/tower-of-heaven-original-soundtrack)
 - Trajectile / Reflect Missile
+- ULTRAKILL* | [Prelude](https://heavenpierceher.bandcamp.com/album/music-from-ultrakill-prelude) [INFINITE HYPERDEATH](https://heavenpierceher.bandcamp.com/album/ultrakill-infinite-hyperdeath) [CHAOS/ORDER](https://heavenpierceher.bandcamp.com/album/ultrakill-chaos-order) [DEEP BLUE](https://heavenpierceher.bandcamp.com/album/ultrakill-deep-blue) [IMPERFECT HATRED](https://heavenpierceher.bandcamp.com/album/ultrakill-imperfect-hatred) [PANDEMONIUM/WAR](https://heavenpierceher.bandcamp.com/album/ultrakill-pandemonium-war) [VIOLENCE](https://heavenpierceher.bandcamp.com/album/ultrakill-violence) [ENCORES I](https://heavenpierceher.bandcamp.com/album/ultrakill-encores-i) [FRAUD](https://heavenpierceher.bandcamp.com/album/ultrakill-fraud)
 - Ultra Street Fighter IV
 - Uncharted: Drake's Fortune
 - [Undertale](https://soundcloud.com/toby-radiation-fox/sets/undertale-soundtrack)
@@ -383,7 +385,7 @@ Italicized = Unofficial game album volume
 - [Yooka-Laylee and the Impossible Lair](https://music.youtube.com/playlist?list=OLAK5uy_mRsVeVYwK6y0znNHOcPyDyFX5buIa5UC8)
 - Yume Nikki
 
-# Non-Video Game Soundtracks
+# Misc
 - [Ace Attorney (TV Series)](https://music.youtube.com/playlist?list=OLAK5uy_lNXse5Y5ts0I3WRkBLD_CAsHCHxW32-tw)
 - [Animator vs. Animation & Animation vs. Minecraft](https://music.youtube.com/playlist?list=PL4EJWCM_RXBHDwQEHXTbCjyCDODH79Oob)
 - [Alan Becker Lofi*](https://music.youtube.com/playlist?list=OLAK5uy_lhhWNt2LgJ6Qfgj-lVgShsMYbfE4H5YJA)
@@ -424,6 +426,7 @@ Italicized = Unofficial game album volume
 - [Persona 4 the Animation](https://music.youtube.com/playlist?list=PLKnNtzNfg7jfx_IMWrzu1hJ7YG5pgJ1ae)
 - [Persona 4 the Golden Animation](https://music.youtube.com/playlist?list=PLKnNtzNfg7jfLKsPIYZk_ncFgjmsCC589)
 - [Persona 5 the Animation](https://music.youtube.com/playlist?list=PLKnNtzNfg7jehUC7eDTzWnLgPDiqnbzOK)
+- [Puss in Boots: The Last Wish](https://music.youtube.com/playlist?list=OLAK5uy_m3QT-wbY9kUBhasEVo2l_Huyo6LNrVW0M)
 - [Reincarnated as a Sword](https://music.youtube.com/playlist?list=PLS-LG8YFyHqdxIdm9r0Vqc7OPIjnopOjm)
 - Savant | [Alchemist](https://savantofficial.bandcamp.com/album/alchemist) [Alchemist 2](https://savantofficial.bandcamp.com/album/alchemist-2-2) [Invasion](https://savantofficial.bandcamp.com/album/invasion) [Overworld](https://savantofficial.bandcamp.com/album/overworld) [Vario](https://savantofficial.bandcamp.com/album/vario) [Void](https://savantofficial.bandcamp.com/album/void) [Void - DLC](https://savantofficial.bandcamp.com/album/void-dlc)
 - [Sonic the Hedgehog (Movie)](https://music.youtube.com/playlist?list=OLAK5uy_ndrd_s1s8KqI8brkcNcydMj2S5162Eiy4)
@@ -438,5 +441,4 @@ Italicized = Unofficial game album volume
 - [The World Ends with You: the Animation](https://music.youtube.com/playlist?list=OLAK5uy_mTytGYMyIr7QJwTjLwnZrn-616veet90c)
 - [Whiplash](https://music.youtube.com/playlist?list=OLAK5uy_mipavuv0YyzXT5uoBDfSFggVB28opZ27U)
 
-# Miscellaneous
 - Some select hits from my friend Protrine
