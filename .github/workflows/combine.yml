@@ -24,7 +24,7 @@ jobs:
 
       - name: Combine autoplaylist entries
         # Matches the 'paths' filter above
-        run: ./combine_text.sh ./autoplaylist ./output/autoplaylist.txt && ./combine_text.sh -c ./autoplaylist ./output/autoplaylist-flat.txt
+        run: mkdir ./output && ./combine_text.sh ./autoplaylist ./output/autoplaylist.txt && ./combine_text.sh -c ./autoplaylist ./output/autoplaylist-flat.txt
 
       - name: Upload autoplaylist
         uses: actions/upload-artifact@v7
