@@ -22,15 +22,22 @@ jobs:
       - name: Prepare Script
         run: chmod +x ./combine_text.sh
 
-      - name: Run Combiner
+      - name: Combine autoplaylist entries
         # Matches the 'paths' filter above
-        run: ./combine_text.sh ./autoplaylist ./autoplaylist.txt
+        run: ./combine_text.sh ./autoplaylist ./output/autoplaylist.txt && ./combine_text.sh -c ./autoplaylist ./output/autoplaylist-flat.txt
 
-      - name: Update Release
-        uses: softprops/action-gh-release@v2
+      - name: Upload autoplaylist
+        uses: actions/upload-artifact@v7
         with:
-          tag_name: latest-autoplaylist
-          name: Latest Merged Content
-          body: "This release is automatically updated when text files in 'autoplaylist' change."
-          files: autoplaylist.txt
-          make_latest: true
+          name: ${{ github.repository_id }}-build-libs
+          path: /output/autoplaylist.txt
+          archive: false
+          retention-days: 90
+
+      - name: Upload flat autoplaylist
+        uses: actions/upload-artifact@v7
+        with:
+          name: ${{ github.repository_id }}-build-libs
+          path: /output/autoplaylist-flat.txt
+          archive: false
+          retention-days: 90
