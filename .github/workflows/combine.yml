@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Prepare Script
         run: chmod +x ./combine_text.sh
@@ -30,7 +30,7 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: ${{ github.repository_id }}-build-libs
-          path: /output/autoplaylist.txt
+          path: output/autoplaylist.txt
           archive: false
           retention-days: 90
 
@@ -38,6 +38,6 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: ${{ github.repository_id }}-build-libs
-          path: /output/autoplaylist-flat.txt
+          path: output/autoplaylist-flat.txt
           archive: false
           retention-days: 90
