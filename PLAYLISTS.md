@@ -108,6 +108,8 @@ Italicized = Unofficial game album volume
 - [Gran Turismo 3 A-Spec](https://music.youtube.com/playlist?list=PLL-a0jpZwXlCRrSb3hJjt5S7aPeHusp8J)
 - [Gran Turismo 4](https://music.youtube.com/playlist?list=PLQVYa_1zkuYULqtLiZ8Uv64da0xkhzqnt)
 - [Grand Theft Auto V](https://music.youtube.com/playlist?list=PLfWRTRxsXMSo9ZsqfzAbwQiavdWqBh4-1)
+- [Hades](https://supergiantgames.bandcamp.com/album/hades-original-soundtrack)
+- [Hades II](https://supergiantgames.bandcamp.com/album/hades-ii-original-soundtrack)
 - [Horatio Goes Snowboarding](https://infinitestategames.bandcamp.com/album/horatio-goes-snowboarding-the-official-soundtrack)
 - Hyrule Warriors: Definitive Edition
 - [Inocs](https://music.youtube.com/playlist?list=PLtpuOKVeVH9UF_u3hOv-sSmLE0IFX0SB_)*
