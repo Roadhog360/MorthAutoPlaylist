@@ -7,4 +7,7 @@ file://Proto/Fume_Spark.ogg
 file://Proto/Shura.ogg
 file://Proto/march_of_the_damned.ogg
 file://Proto/giggly_hands.ogg
+file://Proto/bluwav.wav
+file://Proto/Ignite_All_Fear_-Redux-.ogg
+file://Proto/Aquadine.ogg
 https://www.youtube.com/watch?v=uAuUbO37ej4
